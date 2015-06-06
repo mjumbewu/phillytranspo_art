@@ -20,7 +20,7 @@ circle {
 
 .is-twinkling {
   -webkit-animation-delay: 0;
-  -webkit-animation-duration: 1s;
+  -webkit-animation-duration: 2s;
   -webkit-animation-name: twinkle;
 }
 
@@ -31,19 +31,19 @@ circle {
     /*stroke: black;*/
   }
 
-  10% {
+  5% {
     opacity: 0.8;
-    fill: white;
+    fill: yellow;
   }
 
-  20% {
+  15% {
     opacity: 0.1;
     fill: silver;
   }
 
-  30% {
+  20% {
     opacity: 0.6;
-    fill: yellow;
+    fill: white;
   }
 
   100% {
@@ -70,7 +70,6 @@ var width = 960,
 
 var projection = d3.geo.mercator()
     .center([-75.16, 39.95])
-    // .translate([0, 0])
     .scale(150000);
 
 var path = d3.geo.path()
@@ -131,6 +130,9 @@ $.ajax({
     });
 
     setInterval(function() {
+      if (bikeIndex >= sortedData.length) {
+        bikeIndex = 0;
+      }
       twinkleBikes(sortedData[bikeIndex]);
       bikeIndex++;
     }, 2000)
@@ -153,11 +155,7 @@ function twinkleBikes(json) {
       d.properties.bikesAvailable = newd._source.properties.bikesAvailable;
 
       return hasChanged;
-    })
-    // .transition()
-    // .duration(1000)
-    // .style('opacity', 0)
-    // .style('fill', '#000');
+    });
 }
 
 
