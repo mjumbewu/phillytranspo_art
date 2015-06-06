@@ -8,16 +8,60 @@
 .tracts {
     fill: #444;
     stroke: #444;
+    opacity: 0.1;
 
     pointer-events: all;
+}
+
+circle {
+  fill: #000;
+  opacity: 0.2;
+}
+
+.is-twinkling {
+  -webkit-animation-delay: 0;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-name: twinkle;
+}
+
+@-webkit-keyframes twinkle {
+  0% {
+    opacity: 0;
+    fill: white;
+    /*stroke: black;*/
+  }
+
+  10% {
+    opacity: 0.8;
+    fill: white;
+  }
+
+  20% {
+    opacity: 0.1;
+    fill: silver;
+  }
+
+  30% {
+    opacity: 0.6;
+    fill: yellow;
+  }
+
+  100% {
+    opacity: 0;
+    fill: silver;
+    /*stroke: white;*/
+  }
 }
 
 </style>
 </head>
 <body>
 
-<script src="http://d3js.org/d3.v3.min.js"></script>
-<script src="http://d3js.org/topojson.v0.min.js"></script>
+<script src="d3.v3.min.js"></script>
+<script src="topojson.v0.min.js"></script>
+<script src="underscore.js"></script>
+<script src="jquery.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script> -->
 
 <script>
 
@@ -38,7 +82,9 @@ var svg = d3.select("body").append("svg")
 
 var g = svg.append("g");
 
-var g2 = svg.append("g");
+var g2 = svg.append("g").attr('id', 'bikeshare');
+
+var storedJson = null;
 
 d3.json("tracts.topojson", function(error, topology) {
     g.selectAll("path")
@@ -50,15 +96,69 @@ d3.json("tracts.topojson", function(error, topology) {
 });
 
 d3.json("bikeshare.geojson", function(error, json) {
-    g2.selectAll("path")
+    storedJson = json;
+    g2.selectAll("circle")
         .data(json.features)
       .enter().append("circle")
         .attr("class", "bikeshare")
-        .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")" })
-        .attr("r", 5)
+        .attr("transform", function(d) {
+            return "translate(" + projection(d.geometry.coordinates) + ")"
+          })
+        .attr("r", function(d) {
+            return 3;//d.properties.bikesAvailable;
+          })
+        .style('opacity', 0)
   .attr("d", path);
 
 });
+
+var allData = {}
+  , sortedData = []
+  , bikeIndex = 0;
+
+$.ajax({
+  url: 'es_logstash-phl-ind-2015.05.28',
+  dataType: 'json',
+  success: function(data) {
+    data.forEach(function (d) {
+      var key = d._source['@timestamp'].slice(0, 16);
+      if (!allData[key]) { allData[key] = []; }
+      allData[key].push(d);
+    })
+
+    _.keys(allData).sort().forEach(function(k) {
+      sortedData.push(allData[k]);
+    });
+
+    setInterval(function() {
+      twinkleBikes(sortedData[bikeIndex]);
+      bikeIndex++;
+    }, 2000)
+  }
+});
+
+function twinkleBikes(json) {
+  var mappedJson = {};
+
+  json.forEach(function(d) {
+    mappedJson[d._source.properties.kioskId] = d;
+  });
+
+  g2.selectAll('circle')
+    .classed('is-twinkling', false)
+    .classed('is-twinkling', function(d) {
+      var newd = mappedJson[d.properties.kioskId];
+      var hasChanged = newd._source.properties.bikesAvailable != d.properties.bikesAvailable;
+
+      d.properties.bikesAvailable = newd._source.properties.bikesAvailable;
+
+      return hasChanged;
+    })
+    // .transition()
+    // .duration(1000)
+    // .style('opacity', 0)
+    // .style('fill', '#000');
+}
 
 
 </script>
