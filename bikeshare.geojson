@@ -1,0 +1,2175 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -75.16374,
+          39.95378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1401 John F. Kennedy Blvd.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19102",
+        "bikesAvailable": 2,
+        "closeTime": "23:58:00",
+        "docksAvailable": 20,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3004,
+        "kioskPublicStatus": "Active",
+        "name": "Municipal Services Building Plaza",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 23,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.14403,
+          39.94733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "191 S. 2nd St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19106",
+        "bikesAvailable": 1,
+        "closeTime": "23:58:00",
+        "docksAvailable": 12,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3005,
+        "kioskPublicStatus": "Active",
+        "name": "Welcome Park, NPS",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 13,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.20311,
+          39.9522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "246 S. 40th St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19104",
+        "bikesAvailable": 5,
+        "closeTime": "23:58:00",
+        "docksAvailable": 12,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3006,
+        "kioskPublicStatus": "Active",
+        "name": "40th & Spruce",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 17,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15993,
+          39.94517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "328 S. 11th St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19107",
+        "bikesAvailable": 2,
+        "closeTime": "23:58:00",
+        "docksAvailable": 13,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3007,
+        "kioskPublicStatus": "Active",
+        "name": "11th & Pine, Kahn Park",
+        "openTime": "00:02:00",
+        "publicText": "11th &amp; Pine, Kahn Park",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.14973,
+          39.98082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1076 Berks Street",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19122",
+        "bikesAvailable": 5,
+        "closeTime": "23:58:00",
+        "docksAvailable": 14,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3008,
+        "kioskPublicStatus": "Active",
+        "name": "Berks & Hancock, Temple University Station",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 19,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.18982,
+          39.95576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "3318 Market St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19104",
+        "bikesAvailable": 0,
+        "closeTime": "23:58:00",
+        "docksAvailable": 14,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3009,
+        "kioskPublicStatus": "Active",
+        "name": "33rd & Market",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 14,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.16618,
+          39.94711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1483 Spruce St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19102",
+        "bikesAvailable": 3,
+        "closeTime": "23:58:00",
+        "docksAvailable": 15,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3010,
+        "kioskPublicStatus": "Active",
+        "name": "15th & Spruce",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 19,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.19701,
+          39.96046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "3801 Lancaster Avenue",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19104",
+        "bikesAvailable": 3,
+        "closeTime": "23:58:00",
+        "docksAvailable": 5,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3011,
+        "kioskPublicStatus": "Unavailable",
+        "name": "38th & Lancaster",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 8,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.1775,
+          39.94217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "807 S. 21st St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19149",
+        "bikesAvailable": 5,
+        "closeTime": "23:58:00",
+        "docksAvailable": 10,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3012,
+        "kioskPublicStatus": "Active",
+        "name": "21st & Catharine",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.14792,
+          39.96317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "674 N. 6th St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19123",
+        "bikesAvailable": 8,
+        "closeTime": "23:58:00",
+        "docksAvailable": 7,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3013,
+        "kioskPublicStatus": "Active",
+        "name": "6th & Fairmount",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17369,
+          39.95886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "2090 Winter St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19103",
+        "bikesAvailable": 4,
+        "closeTime": "23:58:00",
+        "docksAvailable": 21,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3014,
+        "kioskPublicStatus": "Active",
+        "name": "21st & Winter, Franklin Institute",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 25,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.1487,
+          39.94759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "421 Walnut St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19106",
+        "bikesAvailable": 10,
+        "closeTime": "23:58:00",
+        "docksAvailable": 1,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3015,
+        "kioskPublicStatus": "Active",
+        "name": "4th & Walnut, NPS",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 11,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.1547,
+          39.96892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1100 Poplar St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19123",
+        "bikesAvailable": 5,
+        "closeTime": "23:58:00",
+        "docksAvailable": 10,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3016,
+        "kioskPublicStatus": "Active",
+        "name": "11th & Poplar, John F. Street Community Center",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.14371,
+          39.98003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "527 W. Berks St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19122",
+        "bikesAvailable": 1,
+        "closeTime": "23:58:00",
+        "docksAvailable": 14,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3017,
+        "kioskPublicStatus": "Active",
+        "name": "6th & Berks",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15979,
+          39.95273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1200 Filbert St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19107",
+        "bikesAvailable": 15,
+        "closeTime": "23:58:00",
+        "docksAvailable": 2,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3018,
+        "kioskPublicStatus": "Active",
+        "name": "12th & Filbert",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 18,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.14983,
+          39.95403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "160 N. 6th St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19106",
+        "bikesAvailable": 4,
+        "closeTime": "23:58:00",
+        "docksAvailable": 11,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3019,
+        "kioskPublicStatus": "Active",
+        "name": "6th & Race ",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.18986,
+          39.94887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "3051 South St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19147",
+        "bikesAvailable": 7,
+        "closeTime": "23:58:00",
+        "docksAvailable": 18,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3020,
+        "kioskPublicStatus": "Active",
+        "name": "University City Station",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 25,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.16902,
+          39.9539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1750 John F. Kennedy Blvd.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19103",
+        "bikesAvailable": 7,
+        "closeTime": "23:58:00",
+        "docksAvailable": 12,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3021,
+        "kioskPublicStatus": "Active",
+        "name": "18th & JFK",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 20,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.18323,
+          39.95472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "2933 Market Street",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19104",
+        "bikesAvailable": 2,
+        "closeTime": "23:58:00",
+        "docksAvailable": 19,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3022,
+        "kioskPublicStatus": "Active",
+        "name": "Amtrak 30th Street Station ",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 21,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17286,
+          39.95048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1911 Walnut St",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19103",
+        "bikesAvailable": 7,
+        "closeTime": "23:58:00",
+        "docksAvailable": 13,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3023,
+        "kioskPublicStatus": "Active",
+        "name": "Rittenhouse Square",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 21,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.20908,
+          39.94822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "598 S. 43rd St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19104",
+        "bikesAvailable": 0,
+        "closeTime": "23:58:00",
+        "docksAvailable": 19,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3024,
+        "kioskPublicStatus": "ComingSoon",
+        "name": "43rd & Chester, Clark Park",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 19,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.1612,
+          39.93724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1084 Washington Ave.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19147",
+        "bikesAvailable": 10,
+        "closeTime": "23:58:00",
+        "docksAvailable": 5,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3025,
+        "kioskPublicStatus": "Active",
+        "name": "11th & Washington",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.14564,
+          39.94138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "523 S. 2nd St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19147",
+        "bikesAvailable": 8,
+        "closeTime": "23:58:00",
+        "docksAvailable": 9,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3026,
+        "kioskPublicStatus": "Active",
+        "name": "2nd & South ",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 17,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.20177,
+          39.95708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "3984 Market St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19104",
+        "bikesAvailable": 2,
+        "closeTime": "23:58:00",
+        "docksAvailable": 13,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3027,
+        "kioskPublicStatus": "Active",
+        "name": "40th Street Station, MFL",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.14958,
+          39.94061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "404 Bainbridge St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19147",
+        "bikesAvailable": 0,
+        "closeTime": "23:58:00",
+        "docksAvailable": 14,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3028,
+        "kioskPublicStatus": "Active",
+        "name": "4th & Bainbridge ",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.19479,
+          39.9538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "125 S. 36th St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19104",
+        "bikesAvailable": 1,
+        "closeTime": "23:58:00",
+        "docksAvailable": 16,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3029,
+        "kioskPublicStatus": "Active",
+        "name": "36th & Sansom ",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 17,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15716,
+          39.93935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "840 S. Darien St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19147",
+        "bikesAvailable": 12,
+        "closeTime": "23:58:00",
+        "docksAvailable": 3,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3030,
+        "kioskPublicStatus": "Active",
+        "name": "Darien & Catharine",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15522,
+          39.98005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1284 W. Montgomery Ave.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19122",
+        "bikesAvailable": 10,
+        "closeTime": "23:58:00",
+        "docksAvailable": 11,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3031,
+        "kioskPublicStatus": "Active",
+        "name": "13th & Montgomery",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 21,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17971,
+          39.94527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "671 S. 23rd St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19146",
+        "bikesAvailable": 9,
+        "closeTime": "23:58:00",
+        "docksAvailable": 8,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3032,
+        "kioskPublicStatus": "Active",
+        "name": "23rd & South ",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 17,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15672,
+          39.95005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "921 Chestnut St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19107",
+        "bikesAvailable": 3,
+        "closeTime": "23:58:00",
+        "docksAvailable": 17,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3033,
+        "kioskPublicStatus": "Active",
+        "name": "10th & Chestnut",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 20,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.16248,
+          39.93315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1116 Reed St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19147",
+        "bikesAvailable": 5,
+        "closeTime": "23:58:00",
+        "docksAvailable": 11,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3034,
+        "kioskPublicStatus": "Active",
+        "name": "11th & Reed",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 16,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.14001,
+          39.96844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1104 Germantown Ave.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19123",
+        "bikesAvailable": 8,
+        "closeTime": "23:58:00",
+        "docksAvailable": 7,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3036,
+        "kioskPublicStatus": "Active",
+        "name": "2nd & Germantown",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.16138,
+          39.95424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1321 Arch St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19107",
+        "bikesAvailable": 9,
+        "closeTime": "23:58:00",
+        "docksAvailable": 12,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3037,
+        "kioskPublicStatus": "Active",
+        "name": "Pennsylvania Convention Center",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 21,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.19409,
+          39.94781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "3499 Civic Center Blvd.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19104",
+        "bikesAvailable": 0,
+        "closeTime": "23:58:00",
+        "docksAvailable": 23,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3038,
+        "kioskPublicStatus": "ComingSoon",
+        "name": "The Children's Hospital of Philadelphia (CHOP)",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 23,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.1597,
+          39.97121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "922 N. Broad St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19130",
+        "bikesAvailable": 11,
+        "closeTime": "23:58:00",
+        "docksAvailable": 8,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3039,
+        "kioskPublicStatus": "Active",
+        "name": "Broad & Girard",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 19,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.16606,
+          39.96289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1684 Spring Garden St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19130",
+        "bikesAvailable": 2,
+        "closeTime": "23:58:00",
+        "docksAvailable": 13,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3040,
+        "kioskPublicStatus": "Active",
+        "name": "17th & Spring Garden, Community College of Philadelphia",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.13546,
+          39.96849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1176 Leopard Ave.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19123",
+        "bikesAvailable": 12,
+        "closeTime": "23:58:00",
+        "docksAvailable": 7,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3041,
+        "kioskPublicStatus": "Active",
+        "name": "Girard Station, MFL",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 19,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17474,
+          39.93082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1625 S. 18th St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19145",
+        "bikesAvailable": 9,
+        "closeTime": "23:58:00",
+        "docksAvailable": 9,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3043,
+        "kioskPublicStatus": "Active",
+        "name": "18th & Fernon, Aquinas Center",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 18,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.16237,
+          39.94792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "213 S. 13th St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19107",
+        "bikesAvailable": 5,
+        "closeTime": "23:58:00",
+        "docksAvailable": 9,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3045,
+        "kioskPublicStatus": "Unavailable",
+        "name": "13th & Locust",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.14472,
+          39.95012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "215 Market St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19106",
+        "bikesAvailable": 1,
+        "closeTime": "23:58:00",
+        "docksAvailable": 10,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3046,
+        "kioskPublicStatus": "Active",
+        "name": "2nd & Market",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 11,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.14921,
+          39.95071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "519 Market St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19106",
+        "bikesAvailable": 4,
+        "closeTime": "23:58:00",
+        "docksAvailable": 15,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3047,
+        "kioskPublicStatus": "Active",
+        "name": "Independence Mall, NPS",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 20,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.1425,
+          39.94509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "3 Dock St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19106",
+        "bikesAvailable": 4,
+        "closeTime": "23:58:00",
+        "docksAvailable": 14,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3049,
+        "kioskPublicStatus": "Active",
+        "name": "Foglietta Plaza",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 19,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15426,
+          39.95339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "813 Arch St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19107",
+        "bikesAvailable": 0,
+        "closeTime": "23:58:00",
+        "docksAvailable": 14,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3050,
+        "kioskPublicStatus": "Active",
+        "name": "9th & Arch ",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17507,
+          39.96744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "2237 Fairmount Ave.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19130",
+        "bikesAvailable": 5,
+        "closeTime": "23:58:00",
+        "docksAvailable": 20,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3051,
+        "kioskPublicStatus": "Active",
+        "name": "23rd & Fairmount",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 25,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15695,
+          39.94732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "923 Locust St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19107",
+        "bikesAvailable": 4,
+        "closeTime": "23:58:00",
+        "docksAvailable": 21,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3052,
+        "kioskPublicStatus": "Active",
+        "name": "9th & Locust",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 25,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.18154,
+          39.93231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1575 Point Breeze Ave.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19146",
+        "bikesAvailable": 3,
+        "closeTime": "23:58:00",
+        "docksAvailable": 16,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3053,
+        "kioskPublicStatus": "Active",
+        "name": "Point Breeze & Tasker",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 19,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.1742,
+          39.9625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "2170 Hamilton St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19146",
+        "bikesAvailable": 12,
+        "closeTime": "23:58:00",
+        "docksAvailable": 3,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3054,
+        "kioskPublicStatus": "Active",
+        "name": "Rodin Museum",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15457,
+          39.95112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "834 Market St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19107",
+        "bikesAvailable": 3,
+        "closeTime": "23:58:00",
+        "docksAvailable": 12,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3055,
+        "kioskPublicStatus": "Active",
+        "name": "8th & Market",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15813,
+          39.97669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1501 N. Broad St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19122",
+        "bikesAvailable": 4,
+        "closeTime": "23:58:00",
+        "docksAvailable": 19,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3056,
+        "kioskPublicStatus": "Active",
+        "name": "Broad & Oxford",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 23,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17999,
+          39.96442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "2600 Benjamin Franklin Pkwy.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19130",
+        "bikesAvailable": 6,
+        "closeTime": "23:58:00",
+        "docksAvailable": 7,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3057,
+        "kioskPublicStatus": "Active",
+        "name": "Philadelphia Museum of Art",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 13,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17001,
+          39.96716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1940 Fairmount Ave.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19130",
+        "bikesAvailable": 3,
+        "closeTime": "23:58:00",
+        "docksAvailable": 10,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3058,
+        "kioskPublicStatus": "Active",
+        "name": "20th & Fairmount",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 13,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.16174,
+          39.96265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1415 Spring Garden St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19123",
+        "bikesAvailable": 5,
+        "closeTime": "23:58:00",
+        "docksAvailable": 16,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3059,
+        "kioskPublicStatus": "Active",
+        "name": "Spring Garden Station, BSL",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 21,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17036,
+          39.95923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "302 N. 19th St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19103",
+        "bikesAvailable": 8,
+        "closeTime": "23:58:00",
+        "docksAvailable": 11,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3060,
+        "kioskPublicStatus": "Active",
+        "name": "Free Library of Philadelphia - Central Library",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 19,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17761,
+          39.95425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "2241 Market St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19103",
+        "bikesAvailable": 1,
+        "closeTime": "23:58:00",
+        "docksAvailable": 23,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3061,
+        "kioskPublicStatus": "Active",
+        "name": "23rd & Market",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 25,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17943,
+          39.95197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "120 S. 24th St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19103",
+        "bikesAvailable": 7,
+        "closeTime": "23:58:00",
+        "docksAvailable": 8,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3062,
+        "kioskPublicStatus": "Active",
+        "name": "24th & Sansom ",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.1698,
+          39.94633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "391  S. 17th St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19103",
+        "bikesAvailable": 5,
+        "closeTime": "23:58:00",
+        "docksAvailable": 14,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3063,
+        "kioskPublicStatus": "Active",
+        "name": "17th & Pine",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 19,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17327,
+          39.9384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1800 Washington Ave.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19146",
+        "bikesAvailable": 1,
+        "closeTime": "23:58:00",
+        "docksAvailable": 14,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3064,
+        "kioskPublicStatus": "Active",
+        "name": "18th & Washington, Chew Playground",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15171,
+          39.9707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "915 W. Girard Ave.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19123",
+        "bikesAvailable": 6,
+        "closeTime": "23:58:00",
+        "docksAvailable": 9,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3065,
+        "kioskPublicStatus": "Active",
+        "name": "Girard & Hutchinson",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17348,
+          39.94561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1910 Lombard St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19146",
+        "bikesAvailable": 0,
+        "closeTime": "23:58:00",
+        "docksAvailable": 19,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3066,
+        "kioskPublicStatus": "ComingSoon",
+        "name": "19th & Lombard ",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 19,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.19973,
+          39.96411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "631 N. 39th St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19104",
+        "bikesAvailable": 1,
+        "closeTime": "23:58:00",
+        "docksAvailable": 15,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3067,
+        "kioskPublicStatus": "Active",
+        "name": "39th & Mt. Vernon, Mantua Haverford Community Center",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 17,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.16711,
+          39.93549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1201 S. Broad St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19146",
+        "bikesAvailable": 7,
+        "closeTime": "23:58:00",
+        "docksAvailable": 11,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3068,
+        "kioskPublicStatus": "Active",
+        "name": "Broad & Federal ",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 18,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15038,
+          39.93704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "403 Christian St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19147",
+        "bikesAvailable": 5,
+        "closeTime": "23:58:00",
+        "docksAvailable": 10,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3069,
+        "kioskPublicStatus": "Active",
+        "name": "4th & Christian",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.13983,
+          39.96062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "117 Spring Garden St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19123",
+        "bikesAvailable": 18,
+        "closeTime": "23:58:00",
+        "docksAvailable": 1,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3070,
+        "kioskPublicStatus": "Active",
+        "name": "Spring Garden Station, MFL",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 19,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.18788,
+          39.96173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "3170 Baring St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19104",
+        "bikesAvailable": 6,
+        "closeTime": "23:58:00",
+        "docksAvailable": 7,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3071,
+        "kioskPublicStatus": "Active",
+        "name": "32nd & Baring, Drexel Park",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 13,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.14541,
+          39.93445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "925 S. Front St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19147",
+        "bikesAvailable": 7,
+        "closeTime": "23:58:00",
+        "docksAvailable": 14,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3072,
+        "kioskPublicStatus": "Active",
+        "name": "Front & Carpenter",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 21,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.15242,
+          39.96143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "802 Spring Garden St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19123",
+        "bikesAvailable": 10,
+        "closeTime": "23:58:00",
+        "docksAvailable": 5,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3073,
+        "kioskPublicStatus": "Active",
+        "name": "9th & Spring Garden",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.20987,
+          39.95511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "160 S. 44th St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19104",
+        "bikesAvailable": 13,
+        "closeTime": "23:58:00",
+        "docksAvailable": 2,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3074,
+        "kioskPublicStatus": "Active",
+        "name": "44th & Walnut",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 15,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.16125,
+          39.96718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1413 Fairmount Ave.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19130",
+        "bikesAvailable": 8,
+        "closeTime": "23:58:00",
+        "docksAvailable": 4,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3075,
+        "kioskPublicStatus": "Active",
+        "name": "Fairmount & Ridge",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 12,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.16351,
+          39.97207
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1617 Girard Ave.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19130",
+        "bikesAvailable": 4,
+        "closeTime": "23:58:00",
+        "docksAvailable": 15,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3077,
+        "kioskPublicStatus": "Active",
+        "name": "17th & Girard",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 19,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.17192,
+          39.95355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "addressStreet": "1901 Market St.",
+        "addressCity": "Philadelphia",
+        "addressState": "PA",
+        "addressZipCode": "19103",
+        "bikesAvailable": 2,
+        "closeTime": "23:58:00",
+        "docksAvailable": 14,
+        "eventEnd": null,
+        "eventStart": null,
+        "isEventBased": false,
+        "isVirtual": false,
+        "kioskId": 3078,
+        "kioskPublicStatus": "Active",
+        "name": "19th & Market",
+        "openTime": "00:02:00",
+        "publicText": "",
+        "timeZone": "Eastern Standard Time",
+        "totalDocks": 16,
+        "trikesAvailable": 0
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
