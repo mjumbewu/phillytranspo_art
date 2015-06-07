@@ -8,12 +8,20 @@
 .tracts {
     fill: #444;
     stroke: #444;
-    opacity: 0.1;
+    opacity: 1;
 
-    pointer-events: all;
+    /*pointer-events: all;*/
 }
 
-circle {
+circle.mfl {
+  fill: #bbb;
+  opacity: 0.1;
+}
+circle.bsl {
+  fill: #bbb;
+  opacity: 0.1;
+}
+circle.bikeshare {
   fill: #000;
   opacity: 0.2;
 }
@@ -63,102 +71,17 @@ circle {
 <script src="jquery.min.js"></script>
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script> -->
 
+<script src="transpo_art.js"></script>
+
 <script>
+  initializeBaseLayer();
+  initializeBikeshareStations();
+  initSubway('mfl', mflG);
+  initSubway('bsl', bslG);
 
-var width = 960,
-    height = 500;
-
-var projection = d3.geo.mercator()
-    .center([-75.16, 39.95])
-    .scale(150000);
-
-var path = d3.geo.path()
-    .projection(projection);
-
-var svg = d3.select("body").append("svg")
-    .attr("width", width)
-    .attr("height", height);
-
-var g = svg.append("g");
-
-var g2 = svg.append("g").attr('id', 'bikeshare');
-
-var storedJson = null;
-
-d3.json("tracts.topojson", function(error, topology) {
-    g.selectAll("path")
-        .data(topojson.object(topology, topology.objects.tracts).geometries)
-      .enter().append("path")
-        .attr("class", "tracts")
-  .attr("id", function(d){return d.id;})
-  .attr("d", path);
-});
-
-d3.json("bikeshare.geojson", function(error, json) {
-    storedJson = json;
-    g2.selectAll("circle")
-        .data(json.features)
-      .enter().append("circle")
-        .attr("class", "bikeshare")
-        .attr("transform", function(d) {
-            return "translate(" + projection(d.geometry.coordinates) + ")"
-          })
-        .attr("r", function(d) {
-            return 3;//d.properties.bikesAvailable;
-          })
-        .style('opacity', 0)
-  .attr("d", path);
-
-});
-
-var allData = {}
-  , sortedData = []
-  , bikeIndex = 0;
-
-$.ajax({
-  url: 'es_logstash-phl-ind-2015.05.28',
-  dataType: 'json',
-  success: function(data) {
-    data.forEach(function (d) {
-      var key = d._source['@timestamp'].slice(0, 16);
-      if (!allData[key]) { allData[key] = []; }
-      allData[key].push(d);
-    })
-
-    _.keys(allData).sort().forEach(function(k) {
-      sortedData.push(allData[k]);
-    });
-
-    setInterval(function() {
-      if (bikeIndex >= sortedData.length) {
-        bikeIndex = 0;
-      }
-      twinkleBikes(sortedData[bikeIndex]);
-      bikeIndex++;
-    }, 2000)
-  }
-});
-
-function twinkleBikes(json) {
-  var mappedJson = {};
-
-  json.forEach(function(d) {
-    mappedJson[d._source.properties.kioskId] = d;
-  });
-
-  g2.selectAll('circle')
-    .classed('is-twinkling', false)
-    .classed('is-twinkling', function(d) {
-      var newd = mappedJson[d.properties.kioskId];
-      var hasChanged = newd._source.properties.bikesAvailable != d.properties.bikesAvailable;
-
-      d.properties.bikesAvailable = newd._source.properties.bikesAvailable;
-
-      return hasChanged;
-    });
-}
-
-
+  loadDayOfBikeshare();
+  loadDayOfElTrips();
+  loadDayOfBslTrips();
 </script>
 </body>
 </html>
