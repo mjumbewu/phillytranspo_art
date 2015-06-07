@@ -13,6 +13,30 @@
     /*pointer-events: all;*/
 }
 
+.shooter-segment-0 {
+  stroke: #000;
+  stroke-width: 2px;
+  opacity: 1;
+}
+
+.shooter-segment-1 {
+  stroke: #000;
+  stroke-width: 2px;
+  opacity: 0.7;
+}
+
+.shooter-segment-2 {
+  stroke: #000;
+  stroke-width: 2px;
+  opacity: 0.4;
+}
+
+.shooter-segment-3 {
+  stroke: #000;
+  stroke-width: 2px;
+  opacity: 0.1;
+}
+
 circle.mfl {
   fill: #bbb;
   opacity: 0.1;
@@ -78,6 +102,7 @@ circle.bikeshare {
   initializeBikeshareStations();
   initSubway('mfl', mflG);
   initSubway('bsl', bslG);
+  initPaths();
 
   loadDayOfBikeshare();
   loadDayOfElTrips();

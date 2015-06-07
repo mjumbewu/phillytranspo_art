@@ -131,6 +131,11 @@ function twinkleBikes(json) {
 
 
 
+/* ========================================================
+ * Subways (BSL & MFL)
+ * ========================================================
+ */
+
 // Stop 1281 is City Hall on the BSL
 // Stop 20659 and 31140 is the 15th St. Trolley Station
 // Stop 32175 is 15th St on the El.
@@ -195,4 +200,136 @@ function loadDayOfBslTrips() {
       bslData = data;
     }
   });
+}
+
+
+/* ========================================================
+ * Buses
+ * ========================================================
+ */
+
+var paths = {};
+function initPaths() {
+  $.ajax({
+    url: 'shapes.json',
+    dataType: 'json',
+    success: function(data) {
+      for (var routename in data) {
+        var shape = data[routename];
+        var d = '', elem;
+
+        shape.forEach(function(coord) {
+          coord = projection(coord);
+          if (d) { d += ' L '; }
+          else   { d += 'M '; }
+          d += coord[0] + ',' + coord[1];
+        });
+        // d += ' Z';
+        elem = createSvgElem('path', {
+          'd': d,
+          'id': 'route-' + routename + '-path'
+        });
+
+        paths[routename] = {
+          route: routename,
+          start: projection(shape[0]),
+          coords: shape,
+          elem: elem
+        };
+
+        shootBus(routename);
+      }
+      console.log('initialized paths');
+    }
+  });
+}
+
+var shooters = {};
+var shooterLength = 5;
+function shootBus(routename) {
+  var root = svg[0][0];
+
+  var shooter = {
+    group: document.getElementById(routename + '-group') ||
+           createSvgElem('g', {'id': routename + '-group'}, root),
+    path: paths[routename],
+
+    // offset each shooter a little
+    wiggle: [Math.random() * 10 - 5, Math.random() * 10 - 5],
+
+    getPointAlongPath: function(length) {
+      if (!this.path.history) {
+        this.path.history = {};
+      }
+
+      if (!this.path.history[length]) {
+        this.path.history[length] = this.path.elem.getPointAtLength(length);
+      }
+
+      return this.path.history[length];
+    }
+  };
+
+  shooter.positions = [];
+  shooter.elems = [];
+  for (var i = 0; i < shooterLength; i++) {
+    shooter.positions[i] = shooter.path.start;
+    shooter.elems[i] = createSvgElem('path', {'class': 'shooter-segment-' + i}, shooter.group);
+  }
+  shooter.positions[shooterLength] = shooter.path.start;
+
+  // shooter.position = shooter.path.start;
+  // shooter.elem = createSvgElem('circle', {
+  //   r: '2',
+  //   cx: shooter.path.start[0] + shooter.wiggle[0],
+  //   cy: shooter.path.start[1] + shooter.wiggle[1]
+  // });
+  // shooter.group.appendChild(shooter.elem);
+
+  shooter.progress = 0;
+
+  var timeoutid = setInterval(function() {
+    var p, i, start, end;
+
+    shooter.progress += 5;
+    p = shooter.getPointAlongPath(shooter.progress);
+
+    if (p.x === shooter.positions[shooterLength-1][0] && p.y === shooter.positions[shooterLength-1][1]) {
+      clearTimeout(timeoutid);
+      shooter.elems.forEach(function(elem) { shooter.group.removeChild(elem); });
+      // shooter.group.removeChild(shooter.elem);
+      return;
+    }
+
+    for (i = shooterLength; i > 0; i--) {
+      shooter.positions[i] = shooter.positions[i - 1];
+    }
+    shooter.positions[0] = [p.x, p.y];
+
+    for (i = 0; i < shooterLength; i++) {
+      start = shooter.positions[i];
+      end = shooter.positions[i + 1];
+      shooter.elems[i].setAttribute('d', 'M ' + start[0] + ',' + start[1] + ' L ' + end[0] + ',' + end[1]);
+    }
+
+    // shooter.elem.setAttribute('cx', p.x + shooter.wiggle[0]);
+    // shooter.elem.setAttribute('cy', p.y + shooter.wiggle[1]);
+    // shooter.position = [p.x, p.y];
+  }, 100);
+
+  return shooter;
+}
+
+
+function createSvgElem(tagname, attrs, parent) {
+  var elem = document.createElementNS('http://www.w3.org/2000/svg', tagname);
+  for (var key in attrs) {
+    elem.setAttribute(key, attrs[key]);
+  }
+
+  if (parent) {
+    parent.appendChild(elem);
+  }
+
+  return elem;
 }
