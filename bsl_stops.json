@@ -1,0 +1,472 @@
+[
+  {
+    "stop_lat": "40.039066", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "1", 
+    "stop_lon": "-75.144749", 
+    "stop_id": "82", 
+    "parent_station": "", 
+    "stop_name": "Olney Transportation Center - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.009234", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.15125", 
+    "stop_id": "140", 
+    "parent_station": "", 
+    "stop_name": "Erie Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.001589", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "1", 
+    "stop_lon": "-75.152922", 
+    "stop_id": "142", 
+    "parent_station": "", 
+    "stop_name": "Allegheny Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.905433", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "1", 
+    "stop_lon": "-75.17391", 
+    "stop_id": "152", 
+    "parent_station": "", 
+    "stop_name": "AT&T Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.030618", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.14658", 
+    "stop_id": "1272", 
+    "parent_station": "", 
+    "stop_name": "Logan Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.02456", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.147904", 
+    "stop_id": "1273", 
+    "parent_station": "", 
+    "stop_name": "Wyoming Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.016933", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.149577", 
+    "stop_id": "1274", 
+    "parent_station": "", 
+    "stop_name": "Hunting Park Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.987031", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.156109", 
+    "stop_id": "1276", 
+    "parent_station": "", 
+    "stop_name": "Susquehanna Dauphin Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.978672", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "1", 
+    "stop_lon": "-75.157925", 
+    "stop_id": "1277", 
+    "parent_station": "", 
+    "stop_name": "Cecil B Moore Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.967039", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.160461", 
+    "stop_id": "1278", 
+    "parent_station": "", 
+    "stop_name": "Fairmount Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.962392", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.161471", 
+    "stop_id": "1279", 
+    "parent_station": "", 
+    "stop_name": "Spring Garden Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.957039", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.162636", 
+    "stop_id": "1280", 
+    "parent_station": "", 
+    "stop_name": "Race Vine Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.952473", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.164129", 
+    "stop_id": "1281", 
+    "parent_station": "", 
+    "stop_name": "City Hall Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.948734", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "1", 
+    "stop_lon": "-75.164462", 
+    "stop_id": "1282", 
+    "parent_station": "", 
+    "stop_name": "Walnut Locust Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.944077", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.165471", 
+    "stop_id": "1283", 
+    "parent_station": "", 
+    "stop_name": "Lombard South Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.936182", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.167177", 
+    "stop_id": "1284", 
+    "parent_station": "", 
+    "stop_name": "Ellsworth Federal Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.929813", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.16857", 
+    "stop_id": "1285", 
+    "parent_station": "", 
+    "stop_name": "Tasker Morris Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.92438", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.169758", 
+    "stop_id": "1286", 
+    "parent_station": "", 
+    "stop_name": "Snyder Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.993944", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "1", 
+    "stop_lon": "-75.154629", 
+    "stop_id": "2439", 
+    "parent_station": "", 
+    "stop_name": "North Philadelphia Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.955028", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.152795", 
+    "stop_id": "2440", 
+    "parent_station": "", 
+    "stop_name": "Chinatown Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.04185", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "1", 
+    "stop_lon": "-75.136757", 
+    "stop_id": "20965", 
+    "parent_station": "", 
+    "stop_name": "Fern Rock Transportation Center - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.971473", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.1595", 
+    "stop_id": "20966", 
+    "parent_station": "", 
+    "stop_name": "Girard Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.916789", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "1", 
+    "stop_lon": "-75.171414", 
+    "stop_id": "20967", 
+    "parent_station": "", 
+    "stop_name": "Oregon Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.951138", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "1", 
+    "stop_lon": "-75.153636", 
+    "stop_id": "21531", 
+    "parent_station": "", 
+    "stop_name": "8th St & Market St - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.905424", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.173804", 
+    "stop_id": "32134", 
+    "parent_station": "", 
+    "stop_name": "AT&T Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.91678", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.171332", 
+    "stop_id": "32135", 
+    "parent_station": "", 
+    "stop_name": "Oregon Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.924371", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.169652", 
+    "stop_id": "32136", 
+    "parent_station": "", 
+    "stop_name": "Snyder Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.929804", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.168475", 
+    "stop_id": "32137", 
+    "parent_station": "", 
+    "stop_name": "Tasker Morris Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.936173", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.167082", 
+    "stop_id": "32138", 
+    "parent_station": "", 
+    "stop_name": "Ellsworth Federal Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.944068", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.165377", 
+    "stop_id": "32139", 
+    "parent_station": "", 
+    "stop_name": "Lombard South Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.948734", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.164368", 
+    "stop_id": "32140", 
+    "parent_station": "", 
+    "stop_name": "Walnut Locust Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.952464", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.164059", 
+    "stop_id": "32141", 
+    "parent_station": "", 
+    "stop_name": "City Hall Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.95703", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.162566", 
+    "stop_id": "32142", 
+    "parent_station": "", 
+    "stop_name": "Race Vine Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.962374", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "0", 
+    "stop_lon": "-75.161388", 
+    "stop_id": "32143", 
+    "parent_station": "", 
+    "stop_name": "Spring Garden Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.951138", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.153542", 
+    "stop_id": "32144", 
+    "parent_station": "", 
+    "stop_name": "8th St & Market St - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.955027", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.1527", 
+    "stop_id": "32145", 
+    "parent_station": "", 
+    "stop_name": "Chinatown Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.96703", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.160379", 
+    "stop_id": "32146", 
+    "parent_station": "", 
+    "stop_name": "Fairmount Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.971464", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.159382", 
+    "stop_id": "32147", 
+    "parent_station": "", 
+    "stop_name": "Girard Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.978663", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.157842", 
+    "stop_id": "32148", 
+    "parent_station": "", 
+    "stop_name": "Cecil B Moore Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.987022", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.156027", 
+    "stop_id": "32149", 
+    "parent_station": "", 
+    "stop_name": "Susquehanna Dauphin Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.993935", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.154547", 
+    "stop_id": "32150", 
+    "parent_station": "", 
+    "stop_name": "North Philadelphia Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.001589", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.152828", 
+    "stop_id": "32151", 
+    "parent_station": "", 
+    "stop_name": "Allegheny Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.009234", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.151155", 
+    "stop_id": "32152", 
+    "parent_station": "", 
+    "stop_name": "Erie Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.016933", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.149482", 
+    "stop_id": "32153", 
+    "parent_station": "", 
+    "stop_name": "Hunting Park Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.02456", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.147809", 
+    "stop_id": "32154", 
+    "parent_station": "", 
+    "stop_name": "Wyoming Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.030617", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.146485", 
+    "stop_id": "32155", 
+    "parent_station": "", 
+    "stop_name": "Logan Station - BSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.039039", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.144678", 
+    "stop_id": "32156", 
+    "parent_station": "", 
+    "stop_name": "Olney Transportation Center - BSL", 
+    "location_type": ""
+  }
+]
