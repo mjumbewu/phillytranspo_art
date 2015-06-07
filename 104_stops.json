@@ -1,0 +1,2232 @@
+[
+  {
+    "stop_lat": "39.962052", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "3", 
+    "stop_lon": "-75.258296", 
+    "stop_id": "1148", 
+    "parent_station": "31034", 
+    "stop_name": "69th St Transportation Center South Terminal", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965244", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.276276", 
+    "stop_id": "1968", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Carol Blvd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.973278", 
+    "wheelchair_boarding": "", 
+    "zone_id": "3", 
+    "stop_lon": "-75.319989", 
+    "stop_id": "1983", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Eagle Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.982125", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.361749", 
+    "stop_id": "1985", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Sproul Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.974716", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.450919", 
+    "stop_id": "1987", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Providence Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966881", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.526403", 
+    "stop_id": "1988", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Chester Rd - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968359", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.576203", 
+    "stop_id": "1989", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Five Points Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.958002", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.607467", 
+    "stop_id": "1990", 
+    "parent_station": "", 
+    "stop_name": "West Chester Transportation Center", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968109", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.575978", 
+    "stop_id": "1992", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pike & 5 Points Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966666", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.527112", 
+    "stop_id": "1993", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Chester Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.974574", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.449395", 
+    "stop_id": "1994", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Providence Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986647", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.400225", 
+    "stop_id": "1995", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Newtown St Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.981625", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.36071", 
+    "stop_id": "1996", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Sproul Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.972813", 
+    "wheelchair_boarding": "", 
+    "zone_id": "3", 
+    "stop_lon": "-75.319139", 
+    "stop_id": "1998", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Eagle Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969132", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.296844", 
+    "stop_id": "2197", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Darby Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977002", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.334277", 
+    "stop_id": "2199", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Lawrence Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976573", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.33377", 
+    "stop_id": "2200", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Lawrence Rd - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968739", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.296455", 
+    "stop_id": "2202", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Darby Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969195", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.586304", 
+    "stop_id": "2225", 
+    "parent_station": "", 
+    "stop_name": "Paoli Pk & Concord Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968846", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.586362", 
+    "stop_id": "2356", 
+    "parent_station": "", 
+    "stop_name": "Paoli Pk & Concord Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.984141", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.377933", 
+    "stop_id": "14817", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Media Line Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977796", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.413767", 
+    "stop_id": "14818", 
+    "parent_station": "", 
+    "stop_name": "Newtown Square Corporate Campus ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977752", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.439496", 
+    "stop_id": "14819", 
+    "parent_station": "", 
+    "stop_name": "N Crum Creek Rd & Crum Creek Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.952505", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.600037", 
+    "stop_id": "14820", 
+    "parent_station": "", 
+    "stop_name": "Church St & University Av - FS ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.959612", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.604471", 
+    "stop_id": "14998", 
+    "parent_station": "", 
+    "stop_name": "Market St & High St ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.987415", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.400721", 
+    "stop_id": "15232", 
+    "parent_station": "", 
+    "stop_name": "Chapel Rd & Newtown Street Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.962639", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.263243", 
+    "stop_id": "18639", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Brief Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.963294", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.265722", 
+    "stop_id": "18640", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & College Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.96368", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.2678", 
+    "stop_id": "18641", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Golf Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.964202", 
+    "wheelchair_boarding": "", 
+    "zone_id": "3", 
+    "stop_lon": "-75.270621", 
+    "stop_id": "18642", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Ardsley Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.964426", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.271873", 
+    "stop_id": "18643", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Kenmore Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.964929", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.274529", 
+    "stop_id": "18644", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Pennock Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966457", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.282758", 
+    "stop_id": "18646", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & S Lynn Blvd - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966816", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.284706", 
+    "stop_id": "18647", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Cloverdale Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.967615", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.28891", 
+    "stop_id": "18648", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Linden Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968073", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.291295", 
+    "stop_id": "18649", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Brighton Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968728", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.294672", 
+    "stop_id": "18650", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Township Line Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965756", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.279098", 
+    "stop_id": "18651", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Saint Laurence Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969625", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.299395", 
+    "stop_id": "18652", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Vernon Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.970289", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.302724", 
+    "stop_id": "18653", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Gilmore Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.970837", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.305806", 
+    "stop_id": "18654", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Westwood Ln - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.971501", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.309762", 
+    "stop_id": "18655", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Sycamore Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.972165", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.313529", 
+    "stop_id": "18656", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Manoa Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.97291", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.317934", 
+    "stop_id": "18657", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Washington Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.97369", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.32228", 
+    "stop_id": "18659", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Glendale Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.974255", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.325599", 
+    "stop_id": "18660", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Stanton Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.974551", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.327051", 
+    "stop_id": "18661", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Glen Gary Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975848", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.330617", 
+    "stop_id": "18662", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Robinson Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976349", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.331892", 
+    "stop_id": "18663", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Old W Chester Pk", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.979804", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.346725", 
+    "stop_id": "18664", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & New Ardmore Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.980297", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.349678", 
+    "stop_id": "18665", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Raymond Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.980907", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.353788", 
+    "stop_id": "18666", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Edgewood Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.981373", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.356812", 
+    "stop_id": "18667", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Church Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.9826", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.36521", 
+    "stop_id": "18668", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Malin Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.982887", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.36736", 
+    "stop_id": "18669", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & E Garden Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.983227", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.369758", 
+    "stop_id": "18670", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & James Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.983809", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.373869", 
+    "stop_id": "18671", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Ann Rd ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.984222", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.380154", 
+    "stop_id": "18672", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Barren Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.984294", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.382411", 
+    "stop_id": "18673", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Radnor Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.984393", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.384821", 
+    "stop_id": "18674", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Valley View Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.984815", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.389865", 
+    "stop_id": "18675", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Dunwoody Village Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.985271", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.392712", 
+    "stop_id": "18676", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Bryn Mawr Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986048", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.39589", 
+    "stop_id": "18677", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Clover Ln - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986575", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.398016", 
+    "stop_id": "18678", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Saint Albans - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986817", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.402447", 
+    "stop_id": "18679", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Clyde Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986336", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.408484", 
+    "stop_id": "18681", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Medical Dr - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.984571", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.418775", 
+    "stop_id": "18684", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Boot Rd - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.983348", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.421303", 
+    "stop_id": "18685", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Campus Blvd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.981385", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.425285", 
+    "stop_id": "18686", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Campus Blvd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.97985", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.42851", 
+    "stop_id": "18688", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Tuxedo Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.978029", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.433023", 
+    "stop_id": "18689", 
+    "parent_station": "", 
+    "stop_name": "West Chester & Alice Grim Blvd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.97611", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.437748", 
+    "stop_id": "18690", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Crum Creek Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975235", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.441162", 
+    "stop_id": "18691", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Rock Ridge Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.974949", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.447068", 
+    "stop_id": "18692", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Papa Blvd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.974028", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.454982", 
+    "stop_id": "18693", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Miller Rd - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.973403", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.458537", 
+    "stop_id": "18694", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Sandy Flash Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.971285", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.467549", 
+    "stop_id": "18697", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Plumsock - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969551", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.474836", 
+    "stop_id": "18698", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Delchester Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965182", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.48844", 
+    "stop_id": "18699", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Garrett Mill Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965176", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.500369", 
+    "stop_id": "18700", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Dutton Mill Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965502", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.506299", 
+    "stop_id": "18701", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Stoneham Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965785", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.510268", 
+    "stop_id": "18702", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Hunters Run - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966068", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.514544", 
+    "stop_id": "18704", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Hilltop Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966289", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.517615", 
+    "stop_id": "18705", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Woodcrest Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966528", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.520922", 
+    "stop_id": "18706", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & McDaniel Dr - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966762", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.529769", 
+    "stop_id": "18708", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Manley Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966437", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.534316", 
+    "stop_id": "18709", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Chester Hollow Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966139", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.538284", 
+    "stop_id": "18710", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Waterview Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965742", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.543977", 
+    "stop_id": "18711", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Westtown Way", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.96694", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.550865", 
+    "stop_id": "18712", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Mary Fran Dr - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.967953", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.555355", 
+    "stop_id": "18713", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Ellis Ln - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968531", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.557895", 
+    "stop_id": "18714", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Ellis Ln - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969694", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.563201", 
+    "stop_id": "18715", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Strasburg Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969618", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.567784", 
+    "stop_id": "18716", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Kingsway Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969285", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.569862", 
+    "stop_id": "18717", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Rolling Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968737", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.5737", 
+    "stop_id": "18718", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Spring Ln - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.967972", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.578801", 
+    "stop_id": "18719", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Rose Ln - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968336", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.588062", 
+    "stop_id": "18720", 
+    "parent_station": "", 
+    "stop_name": "Paoli Pk & Turner Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.967476", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.589962", 
+    "stop_id": "18721", 
+    "parent_station": "", 
+    "stop_name": "Paoli Pk & Prospect Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965042", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.595248", 
+    "stop_id": "18723", 
+    "parent_station": "", 
+    "stop_name": "Gay St & Bolmar St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.963341", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.59907", 
+    "stop_id": "18725", 
+    "parent_station": "", 
+    "stop_name": "Gay St & Adams St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.962151", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.601678", 
+    "stop_id": "18726", 
+    "parent_station": "", 
+    "stop_name": "Gay St & Patton St - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.962164", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.604642", 
+    "stop_id": "18727", 
+    "parent_station": "", 
+    "stop_name": "Chestnut St & Walnut St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.961529", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.605975", 
+    "stop_id": "18728", 
+    "parent_station": "", 
+    "stop_name": "Chestnut St & High St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.961019", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.607072", 
+    "stop_id": "18729", 
+    "parent_station": "", 
+    "stop_name": "Chestnut St & Church St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.960472", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.608382", 
+    "stop_id": "18730", 
+    "parent_station": "", 
+    "stop_name": "Chestnut St & Darlington St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.95734", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.60208", 
+    "stop_id": "18733", 
+    "parent_station": "", 
+    "stop_name": "High St & Union St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.955878", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.600482", 
+    "stop_id": "18734", 
+    "parent_station": "", 
+    "stop_name": "High St & Price St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.953178", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.597252", 
+    "stop_id": "18737", 
+    "parent_station": "", 
+    "stop_name": "High St & Linden St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.954248", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.5984", 
+    "stop_id": "18738", 
+    "parent_station": "", 
+    "stop_name": "High St & Nields St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.955941", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.600269", 
+    "stop_id": "18739", 
+    "parent_station": "", 
+    "stop_name": "High St & Price St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.957278", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.601737", 
+    "stop_id": "18740", 
+    "parent_station": "", 
+    "stop_name": "High St & Union St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.958784", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.603311", 
+    "stop_id": "18741", 
+    "parent_station": "", 
+    "stop_name": "High St & Miner St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.960664", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.605229", 
+    "stop_id": "18742", 
+    "parent_station": "", 
+    "stop_name": "High St & Gay St - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.960114", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.603362", 
+    "stop_id": "18743", 
+    "parent_station": "", 
+    "stop_name": "Market St & Walnut St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.960794", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.601875", 
+    "stop_id": "18744", 
+    "parent_station": "", 
+    "stop_name": "Market St & Matlack St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.962244", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.598595", 
+    "stop_id": "18745", 
+    "parent_station": "", 
+    "stop_name": "Market St & Adams St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.963873", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.594891", 
+    "stop_id": "18746", 
+    "parent_station": "", 
+    "stop_name": "Market St & Bolmar St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.964876", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.592625", 
+    "stop_id": "18747", 
+    "parent_station": "", 
+    "stop_name": "Market St & Westtown Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968149", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.587825", 
+    "stop_id": "18749", 
+    "parent_station": "", 
+    "stop_name": "Paoli Pk & Turner Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968505", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.573416", 
+    "stop_id": "18750", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Spring Ln - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968955", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.570369", 
+    "stop_id": "18751", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Rolling Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969575", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.566024", 
+    "stop_id": "18752", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Kingsway Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969497", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.563685", 
+    "stop_id": "18753", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Glen Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968272", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.558072", 
+    "stop_id": "18754", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Falcon Ln - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.967481", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.554563", 
+    "stop_id": "18755", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Falcon Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966699", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.551053", 
+    "stop_id": "18756", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Mary Fran Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965465", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.543941", 
+    "stop_id": "18757", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Westtown Way - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965845", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.538449", 
+    "stop_id": "18758", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Waterview Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966169", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.534233", 
+    "stop_id": "18759", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Chester Hollow - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966494", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.529757", 
+    "stop_id": "18760", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Manley Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966172", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.519894", 
+    "stop_id": "18762", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & S Chester Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966022", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.517579", 
+    "stop_id": "18763", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Woodcrest Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965818", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.514839", 
+    "stop_id": "18764", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Hilltop Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965703", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.51322", 
+    "stop_id": "18765", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Green Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965535", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.510799", 
+    "stop_id": "18766", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Hunters Run - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965261", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.506865", 
+    "stop_id": "18767", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Stoneham Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.964872", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.499802", 
+    "stop_id": "18768", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Dutton Mill Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.964797", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.489798", 
+    "stop_id": "18769", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Street Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969141", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.475167", 
+    "stop_id": "18770", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Delchester Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.971143", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.467041", 
+    "stop_id": "18772", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Plumsock Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.972358", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.462778", 
+    "stop_id": "18773", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Miller Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.973073", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.458868", 
+    "stop_id": "18774", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Sandy Flash Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.973921", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.454143", 
+    "stop_id": "18775", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Miller Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.974672", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.44728", 
+    "stop_id": "18776", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Providence - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.974985", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.440925", 
+    "stop_id": "18777", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Rock Ridge Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975914", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.437464", 
+    "stop_id": "18778", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Crum Creek Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977244", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.434192", 
+    "stop_id": "18779", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Alice Grim Blvd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.979537", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.428498", 
+    "stop_id": "18780", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Tuxedo Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.981313", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.424789", 
+    "stop_id": "18782", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Campus Blvd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.983125", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.421067", 
+    "stop_id": "18783", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Campus Blvd - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.98424", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.418763", 
+    "stop_id": "18784", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Boot Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.985561", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.414687", 
+    "stop_id": "18785", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Boot Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.985935", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.410363", 
+    "stop_id": "18787", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Ellis Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986069", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.408626", 
+    "stop_id": "18788", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & School Ln - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986523", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.40273", 
+    "stop_id": "18789", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Bishop Hollow Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986299", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.398194", 
+    "stop_id": "18790", 
+    "parent_station": "", 
+    "stop_name": "WestChester Pk & Saint Albans Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.985727", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.395914", 
+    "stop_id": "18791", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Clover Ln - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.98503", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.393078", 
+    "stop_id": "18792", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Bryn Mawr Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.984511", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.389794", 
+    "stop_id": "18793", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Dunwoody Village Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.984054", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.384726", 
+    "stop_id": "18794", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Valley View - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.983973", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.382411", 
+    "stop_id": "18795", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Radnor Dr - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.983901", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.380296", 
+    "stop_id": "18796", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Barren Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.983838", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.378548", 
+    "stop_id": "18798", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Media Line Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.983326", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.372582", 
+    "stop_id": "18799", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Latches Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.982959", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.370113", 
+    "stop_id": "18800", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Hawthorne Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.982637", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.367715", 
+    "stop_id": "18801", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Rittenhouse Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.982252", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.365069", 
+    "stop_id": "18802", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Malin Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.981069", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.357001", 
+    "stop_id": "18803", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Berkley Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.980594", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.354001", 
+    "stop_id": "18804", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Edgewood Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.979994", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.349962", 
+    "stop_id": "18805", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Raymond Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.979501", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.346855", 
+    "stop_id": "18806", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & New Ardmore Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.97584", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.331396", 
+    "stop_id": "18807", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Robinson Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.974328", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.327524", 
+    "stop_id": "18808", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Glen Gary Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.973853", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.325091", 
+    "stop_id": "18809", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Ivy Rock Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.973396", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.322469", 
+    "stop_id": "18810", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Glendale Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.972562", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.317675", 
+    "stop_id": "18811", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Washington Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.9724", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.316801", 
+    "stop_id": "18812", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Pinzon Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.971799", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.313306", 
+    "stop_id": "18813", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Manoa Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.971198", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.309798", 
+    "stop_id": "18814", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Westwood Park - 1 FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.970273", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.304248", 
+    "stop_id": "18815", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Steel Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969905", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.302205", 
+    "stop_id": "18816", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Gilmore Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969098", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.298262", 
+    "stop_id": "18817", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Darby Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968344", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.294389", 
+    "stop_id": "18818", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Township Line - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.967706", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.290953", 
+    "stop_id": "18819", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Brighton Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.967302", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.288851", 
+    "stop_id": "18820", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Linden Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966575", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.284967", 
+    "stop_id": "18821", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Cloverdale Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966126", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.282594", 
+    "stop_id": "18822", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & S Lynn Blvd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965704", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.280398", 
+    "stop_id": "18823", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Park Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965354", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.278509", 
+    "stop_id": "18824", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Cedar Ln - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.964958", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.276312", 
+    "stop_id": "18825", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Carol Blvd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.964635", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.274471", 
+    "stop_id": "18826", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Pennock Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.964204", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.272121", 
+    "stop_id": "18827", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Kenmore Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.963745", 
+    "wheelchair_boarding": "", 
+    "zone_id": "3", 
+    "stop_lon": "-75.269571", 
+    "stop_id": "18828", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Berbro Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.963475", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.268048", 
+    "stop_id": "18829", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Elm Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.963089", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.265935", 
+    "stop_id": "18830", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & College Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.963318", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.596118", 
+    "stop_id": "29717", 
+    "parent_station": "", 
+    "stop_name": "Market St & Worthington St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.967081", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.552778", 
+    "stop_id": "29718", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Falcon Ln - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966032", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.548111", 
+    "stop_id": "29719", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Valley Dr - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965424", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.486184", 
+    "stop_id": "29720", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Sagewood Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.967881", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.478887", 
+    "stop_id": "29721", 
+    "parent_station": "", 
+    "stop_name": "West Chester & Whispering Brooke Dr - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.97619", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.440902", 
+    "stop_id": "29722", 
+    "parent_station": "", 
+    "stop_name": "Rock Ridge Rd & West Chester Pk - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977957", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.418138", 
+    "stop_id": "29732", 
+    "parent_station": "", 
+    "stop_name": "14 Campus Blvd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976832", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.416319", 
+    "stop_id": "29733", 
+    "parent_station": "", 
+    "stop_name": "10 Campus Blvd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977609", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.413921", 
+    "stop_id": "29734", 
+    "parent_station": "", 
+    "stop_name": "2 Campus Blvd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977029", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.416744", 
+    "stop_id": "29735", 
+    "parent_station": "", 
+    "stop_name": "11 Campus Blvd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977966", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.418008", 
+    "stop_id": "29736", 
+    "parent_station": "", 
+    "stop_name": "15 Campus Blvd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976717", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.437736", 
+    "stop_id": "29738", 
+    "parent_station": "", 
+    "stop_name": "Crum Creek Rd & West Chester Pk - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975976", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.441055", 
+    "stop_id": "29740", 
+    "parent_station": "", 
+    "stop_name": "Rock Ridge Rd & West Chester - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965763", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.486066", 
+    "stop_id": "29741", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Sagewood Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.967429", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.552992", 
+    "stop_id": "29742", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Ellis Ln - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.959551", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.609844", 
+    "stop_id": "30146", 
+    "parent_station": "", 
+    "stop_name": "New St & Chestnut St - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986515", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.406168", 
+    "stop_id": "30335", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Winding Way", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.985811", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.415278", 
+    "stop_id": "30478", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Boot Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966256", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.547934", 
+    "stop_id": "30479", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Valley Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.970515", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.305795", 
+    "stop_id": "30480", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Westwood Park - 2 FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977806", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.43281", 
+    "stop_id": "30674", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Alice Grim Blvd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.972741", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.462329", 
+    "stop_id": "30783", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Edgemont Country Club Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968122", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.479076", 
+    "stop_id": "30784", 
+    "parent_station": "", 
+    "stop_name": "West Chester & Whispering Brooke Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977663", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.439248", 
+    "stop_id": "31394", 
+    "parent_station": "", 
+    "stop_name": "N Crum Creek Rd & Crum Creek Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976503", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.43783", 
+    "stop_id": "31395", 
+    "parent_station": "", 
+    "stop_name": "Crum Creek Rd & West Chester Pk", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.983792", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.376646", 
+    "stop_id": "31729", 
+    "parent_station": "", 
+    "stop_name": "West Chester Pk & Evergreen Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.962729", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "1", 
+    "stop_lon": "-75.257196", 
+    "stop_id": "31742", 
+    "parent_station": "31034", 
+    "stop_name": "69th St TC Southeast Terminal", 
+    "location_type": ""
+  }
+]

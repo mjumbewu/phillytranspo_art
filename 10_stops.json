@@ -1,0 +1,782 @@
+[
+  {
+    "stop_lat": "39.973059", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.218615", 
+    "stop_id": "277", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Girard Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.957929", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.201901", 
+    "stop_id": "279", 
+    "parent_station": "", 
+    "stop_name": "40th St & Filbert St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.952532", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.162559", 
+    "stop_id": "283", 
+    "parent_station": "", 
+    "stop_name": "13th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.955451", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.194233", 
+    "stop_id": "287", 
+    "parent_station": "", 
+    "stop_name": "36th St Trolley Portal", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.972244", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.217035", 
+    "stop_id": "290", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 48th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.97586", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.240307", 
+    "stop_id": "15271", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 60th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.983697", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.247009", 
+    "stop_id": "20610", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 63rd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.980912", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.246661", 
+    "stop_id": "20611", 
+    "parent_station": "", 
+    "stop_name": "63rd St & Lebanon Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.97835", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.246184", 
+    "stop_id": "20612", 
+    "parent_station": "", 
+    "stop_name": "63rd St & Jefferson St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975332", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.244986", 
+    "stop_id": "20613", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 63rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975499", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.243651", 
+    "stop_id": "20614", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 62nd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975693", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.241879", 
+    "stop_id": "20615", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 61st St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976054", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.238653", 
+    "stop_id": "20616", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 59th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976248", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.236904", 
+    "stop_id": "20617", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 58th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976406", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.235403", 
+    "stop_id": "20618", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 57th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976591", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.233761", 
+    "stop_id": "20619", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 56th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976811", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.231858", 
+    "stop_id": "20622", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 55th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977013", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.229908", 
+    "stop_id": "20623", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 54th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977295", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.22738", 
+    "stop_id": "20624", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & Lancaster Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976855", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.226176", 
+    "stop_id": "20625", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Media St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975207", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.22259", 
+    "stop_id": "20626", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 50th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.973748", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.219747", 
+    "stop_id": "20627", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Thomson St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.971555", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.216115", 
+    "stop_id": "20628", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 47th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.970973", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.21516", 
+    "stop_id": "20629", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Wyalusing Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969667", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.212991", 
+    "stop_id": "20630", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 45th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968772", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.211541", 
+    "stop_id": "20631", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 44th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.967725", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.209878", 
+    "stop_id": "20632", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 43th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966391", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.207662", 
+    "stop_id": "20633", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 42nd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965093", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.205564", 
+    "stop_id": "20634", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 41st St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.963151", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.20244", 
+    "stop_id": "20635", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 40th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.962004", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.200353", 
+    "stop_id": "20636", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Spring Garden St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.961297", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.198973", 
+    "stop_id": "20637", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Saunders St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.960267", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.197016", 
+    "stop_id": "20638", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 38th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.958565", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.193786", 
+    "stop_id": "20639", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 36th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.956281", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.194218", 
+    "stop_id": "20640", 
+    "parent_station": "", 
+    "stop_name": "36th St & Market St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.955335", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.194162", 
+    "stop_id": "20641", 
+    "parent_station": "", 
+    "stop_name": "36th St Portal Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.954773", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.1897", 
+    "stop_id": "20642", 
+    "parent_station": "", 
+    "stop_name": "33rd St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.954815", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.1835", 
+    "stop_id": "20643", 
+    "parent_station": "", 
+    "stop_name": "30th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.953962", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.176736", 
+    "stop_id": "20645", 
+    "parent_station": "", 
+    "stop_name": "22nd St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.953327", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.171637", 
+    "stop_id": "20646", 
+    "parent_station": "", 
+    "stop_name": "19th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.95488", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.189676", 
+    "stop_id": "20658", 
+    "parent_station": "", 
+    "stop_name": "33rd St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.952672", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.165345", 
+    "stop_id": "20659", 
+    "parent_station": "", 
+    "stop_name": "15th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.953425", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.171483", 
+    "stop_id": "20660", 
+    "parent_station": "", 
+    "stop_name": "19th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.954051", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.176571", 
+    "stop_id": "20661", 
+    "parent_station": "", 
+    "stop_name": "22nd St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.954894", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.183169", 
+    "stop_id": "20662", 
+    "parent_station": "", 
+    "stop_name": "30th St Trolley Station ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.96024", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.196721", 
+    "stop_id": "20663", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 38th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.956058", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.194113", 
+    "stop_id": "20664", 
+    "parent_station": "", 
+    "stop_name": "36th St & Market St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.958404", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.193585", 
+    "stop_id": "20665", 
+    "parent_station": "", 
+    "stop_name": "36th St & Lancaster Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.96127", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.19869", 
+    "stop_id": "20667", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Hamilton St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.961923", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.199952", 
+    "stop_id": "20668", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Spring Garden St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.9629", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.201826", 
+    "stop_id": "20669", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Haverford Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.963857", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.203371", 
+    "stop_id": "20670", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Wallace St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.965102", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.205386", 
+    "stop_id": "20671", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 41st St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.966399", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.207485", 
+    "stop_id": "20672", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 42nd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.96767", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.20956", 
+    "stop_id": "20673", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Parrish St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968565", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.210998", 
+    "stop_id": "20674", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Ogden St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969353", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.212283", 
+    "stop_id": "20675", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Westminster St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.970669", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.214464", 
+    "stop_id": "20676", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Wyalusing Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.971564", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.215938", 
+    "stop_id": "20677", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 47th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.973703", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.219464", 
+    "stop_id": "20678", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 49th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975234", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.222389", 
+    "stop_id": "20679", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 50th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977186", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.2266", 
+    "stop_id": "20681", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 52nd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977129", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.229755", 
+    "stop_id": "20683", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 54th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976927", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.231704", 
+    "stop_id": "20684", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 55th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976707", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.233607", 
+    "stop_id": "20685", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 56th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976522", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.235249", 
+    "stop_id": "20686", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 57th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.976363", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.23675", 
+    "stop_id": "20687", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 58th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.97617", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.238499", 
+    "stop_id": "20688", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 59th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975976", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.240153", 
+    "stop_id": "20689", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 60th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975809", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.241725", 
+    "stop_id": "20690", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 61st St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975615", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.243497", 
+    "stop_id": "20691", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 62nd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975582", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.245529", 
+    "stop_id": "20692", 
+    "parent_station": "", 
+    "stop_name": "63rd St & Lansdowne Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.978234", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.24603", 
+    "stop_id": "20693", 
+    "parent_station": "", 
+    "stop_name": "63rd St & Jefferson St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.980582", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.246461", 
+    "stop_id": "20695", 
+    "parent_station": "", 
+    "stop_name": "63rd St & Columbia Av ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.98367", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.24682", 
+    "stop_id": "31125", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 63rd St - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.952502", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.165369", 
+    "stop_id": "31140", 
+    "parent_station": "", 
+    "stop_name": "15th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.98383", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.245945", 
+    "stop_id": "31294", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 63rd St Loop - 2 onsite", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.959631", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.195542", 
+    "stop_id": "31488", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Powelton Av", 
+    "location_type": ""
+  }
+]

@@ -1,9 +1,9 @@
-var width = 960,
-    height = 500;
+var width = window.innerWidth,
+    height = window.innerHeight;
 
 var projection = d3.geo.mercator()
-    .center([-75.16, 39.95])
-    .scale(150000);
+    .center([-75.25, 40.03])
+    .scale(100000);
 
 var path = d3.geo.path()
     .projection(projection);
@@ -16,12 +16,12 @@ var g = svg.append("g");
 
 var bikeshareG = svg.append("g").attr('id', 'bikeshare');
 
-var mflG = svg.append('g').attr('id', 'mfl');
-var bslG = svg.append('g').attr('id', 'bsl');
+var subwayGs = {};
+var trolleyGs = {};
 
 var bikeshareData, bikeshareIndex = 0;
-var mflData, mflIndex = 0;
-var bslData, bslIndex = 0;
+var subwayData = {}, subwayIndex = {};
+var trolleyData = {}, trolleyIndex = {};
 var currentTime = 0;
 
 
@@ -35,16 +35,21 @@ function tick() {
     bikeshareIndex++;
   }
 
-  if (mflData) {
-    if (mflIndex >= mflData.length) { mflIndex = 0; }
-    crawlSubway(mflG, mflData[mflIndex]);
-    mflIndex++;
+  var routename;
+  for (routename in subwayGs) {
+    if (subwayData[routename]) {
+      if (subwayIndex[routename] >= subwayData[routename].length) { subwayIndex[routename] = 0; }
+      crawlSubway(subwayGs[routename], subwayData[routename][subwayIndex[routename]]);
+      subwayIndex[routename]++;
+    }
   }
 
-  if (bslData) {
-    if (bslIndex >= bslData.length) { bslIndex = 0; }
-    crawlSubway(bslG, bslData[bslIndex]);
-    bslIndex++;
+  for (routename in trolleyGs) {
+    if (trolleyData[routename]) {
+      if (trolleyIndex[routename] >= trolleyData[routename].length) { trolleyIndex[routename] = 0; }
+      crawlTrolley(trolleyGs[routename], trolleyData[routename][trolleyIndex[routename]]);
+      trolleyIndex[routename]++;
+    }
   }
 }
 setInterval(tick, 2000);
@@ -77,9 +82,7 @@ function initializeBikeshareStations() {
           .attr("transform", function(d) {
               return "translate(" + projection(d.geometry.coordinates) + ")";
             })
-          .attr("r", function(d) {
-              return 3;
-            })
+          .attr("r", 2)
           .style('opacity', 0)
     .attr("d", path);
   });
@@ -140,23 +143,26 @@ function twinkleBikes(json) {
 // Stop 20659 and 31140 is the 15th St. Trolley Station
 // Stop 32175 is 15th St on the El.
 
-function initSubway(name, g) {
+function initRail(name, railGs, railIndex) {
   // var mflArea = d3.svg.area()
   //   .x0(function(d) { return projection(d.lng) - 1; })
   //   .x1(function(d) { return projection(d.lng) + 1; })
   //   .y0(function(d) { return projection(d.lat) - 1; })
   //   .y1(function(d) { return projection(d.lat) + 1; });
 
+  railGs[name] = svg.append('g').attr('id', 'route-' + name);
+  railIndex[name] = 0;
+
   d3.json(name + "_stops.json", function(error, json) {
-    g.selectAll('circle')
+    railGs[name].selectAll('circle')
         .data(json)
       .enter().append('circle')
-        .attr("class", name)
+        .attr("class", 'route-' + name)
         .attr("transform", function(d) {
             return "translate(" + projection([d.stop_lon,d.stop_lat]) + ")";
           })
         .attr("r", function(d) {
-            return 2;
+            return 1;
           });
   });
 
@@ -169,6 +175,16 @@ function initSubway(name, g) {
   // }
 }
 
+
+function initSubway(name) {
+  initRail(name, subwayGs, subwayIndex);
+}
+
+function initTrolley(name) {
+  initRail(name, trolleyGs, trolleyIndex);
+}
+
+
 function crawlSubway(g, json) {
   g.selectAll('circle')
     .transition()
@@ -176,28 +192,42 @@ function crawlSubway(g, json) {
       .ease('linear')
       .attr('r', function(d) {
         var stopid = d['stop_id'];
-        var newcount = json[stopid] || 10;
+        var newcount = json[stopid] || 2;
         return newcount;
       });
 }
 
 
-function loadDayOfElTrips() {
+function crawlTrolley(g, json) {
+  g.selectAll('circle')
+    .transition()
+      .duration(2000)
+      .ease('linear')
+      .style('opacity', function(d) {
+        var stopid = d['stop_id'];
+        var newcount = (json[stopid] || 0) / 10.0;
+        return newcount;
+      });
+}
+
+
+function loadDayOfSubwayTrips(name) {
   $.ajax({
-    url: 'mfl.json',
+    url: name.toLowerCase() + '.json',
     dataType: 'json',
     success: function(data) {
-      mflData = data;
+      subwayData[name] = data;
     }
   });
 }
 
-function loadDayOfBslTrips() {
+
+function loadDayOfTrolleyTrips(name) {
   $.ajax({
-    url: 'bsl.json',
+    url: name.toLowerCase() + '.json',
     dataType: 'json',
     success: function(data) {
-      bslData = data;
+      trolleyData[name] = data;
     }
   });
 }
@@ -274,7 +304,7 @@ function shootBus(routename) {
   shooter.elems = [];
   for (var i = 0; i < shooterLength; i++) {
     shooter.positions[i] = shooter.path.start;
-    shooter.elems[i] = createSvgElem('path', {'class': 'shooter-segment-' + i}, shooter.group);
+    shooter.elems[i] = createSvgElem('path', {'class': 'shooter-segment shooter-segment-' + i}, shooter.group);
   }
   shooter.positions[shooterLength] = shooter.path.start;
 
@@ -298,6 +328,7 @@ function shootBus(routename) {
       clearTimeout(timeoutid);
       shooter.elems.forEach(function(elem) { shooter.group.removeChild(elem); });
       // shooter.group.removeChild(shooter.elem);
+      shootBus(routename);
       return;
     }
 

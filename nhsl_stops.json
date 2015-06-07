@@ -1,0 +1,442 @@
+[
+  {
+    "stop_lat": "40.104946", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.348094", 
+    "stop_id": "1892", 
+    "parent_station": "", 
+    "stop_name": "Bridgeport Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.070847", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "2", 
+    "stop_lon": "-75.342278", 
+    "stop_id": "1895", 
+    "parent_station": "31031", 
+    "stop_name": "Gulph Mills Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.032699", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.340729", 
+    "stop_id": "1900", 
+    "parent_station": "", 
+    "stop_name": "Stadium Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.021401", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.330234", 
+    "stop_id": "1902", 
+    "parent_station": "", 
+    "stop_name": "Roberts Rd Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986548", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.291448", 
+    "stop_id": "1908", 
+    "parent_station": "", 
+    "stop_name": "Beechwood Brookline Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.969026", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.27478", 
+    "stop_id": "1917", 
+    "parent_station": "", 
+    "stop_name": "Parkview Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.974818", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.281536", 
+    "stop_id": "1918", 
+    "parent_station": "", 
+    "stop_name": "Township Line Rd Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.980997", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.283933", 
+    "stop_id": "1919", 
+    "parent_station": "", 
+    "stop_name": "Penfield Station Manoa Rd - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.9934", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "2", 
+    "stop_lon": "-75.298182", 
+    "stop_id": "1921", 
+    "parent_station": "", 
+    "stop_name": "Wynnewood Rd Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.999936", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.309419", 
+    "stop_id": "1923", 
+    "parent_station": "", 
+    "stop_name": "Ardmore Av Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.00983", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.315099", 
+    "stop_id": "1924", 
+    "parent_station": "", 
+    "stop_name": "Haverford Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.018084", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.323383", 
+    "stop_id": "1925", 
+    "parent_station": "", 
+    "stop_name": "Bryn Mawr Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.027974", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.336361", 
+    "stop_id": "1927", 
+    "parent_station": "", 
+    "stop_name": "Garrett Hill Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.034085", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.344025", 
+    "stop_id": "1929", 
+    "parent_station": "", 
+    "stop_name": "Villanova Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042052", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.353558", 
+    "stop_id": "1930", 
+    "parent_station": "", 
+    "stop_name": "Radnor Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.050063", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.347341", 
+    "stop_id": "1931", 
+    "parent_station": "", 
+    "stop_name": "County Line Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.058206", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.339408", 
+    "stop_id": "1932", 
+    "parent_station": "", 
+    "stop_name": "Matsonford Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.081535", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.349079", 
+    "stop_id": "1934", 
+    "parent_station": "", 
+    "stop_name": "Hughes Park Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.098736", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.352018", 
+    "stop_id": "1935", 
+    "parent_station": "", 
+    "stop_name": "DeKalb St Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.996289", 
+    "wheelchair_boarding": "", 
+    "zone_id": "2", 
+    "stop_lon": "-75.303659", 
+    "stop_id": "30519", 
+    "parent_station": "", 
+    "stop_name": "Ardmore Junction Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.113459", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "2", 
+    "stop_lon": "-75.345114", 
+    "stop_id": "30520", 
+    "parent_station": "31038", 
+    "stop_name": "Norristown Transportation Center - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.962588", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "1", 
+    "stop_lon": "-75.258578", 
+    "stop_id": "31790", 
+    "parent_station": "31034", 
+    "stop_name": "69th St Transportation Center - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.113477", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.345208", 
+    "stop_id": "32185", 
+    "parent_station": "", 
+    "stop_name": "Norristown Transportation Center - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.104964", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.348189", 
+    "stop_id": "32186", 
+    "parent_station": "", 
+    "stop_name": "Bridgeport Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.098781", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.352113", 
+    "stop_id": "32187", 
+    "parent_station": "", 
+    "stop_name": "DeKalb St Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.081517", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.349174", 
+    "stop_id": "32188", 
+    "parent_station": "", 
+    "stop_name": "Hughes Park Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.070874", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.342396", 
+    "stop_id": "32189", 
+    "parent_station": "", 
+    "stop_name": "Gulph Mills Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.058171", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.339502", 
+    "stop_id": "32190", 
+    "parent_station": "", 
+    "stop_name": "Matsonford Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.050117", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.347424", 
+    "stop_id": "32191", 
+    "parent_station": "", 
+    "stop_name": "County Line Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042106", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.353676", 
+    "stop_id": "32192", 
+    "parent_station": "", 
+    "stop_name": "Radnor Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.034004", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.34399", 
+    "stop_id": "32193", 
+    "parent_station": "", 
+    "stop_name": "Villanova Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.032655", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.3408", 
+    "stop_id": "32194", 
+    "parent_station": "", 
+    "stop_name": "Stadium Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.027948", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.336455", 
+    "stop_id": "32195", 
+    "parent_station": "", 
+    "stop_name": "Garrett Hill Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.021401", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.330341", 
+    "stop_id": "32196", 
+    "parent_station": "", 
+    "stop_name": "Roberts Rd Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.018004", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.323407", 
+    "stop_id": "32197", 
+    "parent_station": "", 
+    "stop_name": "Bryn Mawr Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.009768", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.315182", 
+    "stop_id": "32198", 
+    "parent_station": "", 
+    "stop_name": "Haverford Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.999864", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.309479", 
+    "stop_id": "32199", 
+    "parent_station": "", 
+    "stop_name": "Ardmore Av Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.996262", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.303789", 
+    "stop_id": "32200", 
+    "parent_station": "", 
+    "stop_name": "Ardmore Junction Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.993374", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.298276", 
+    "stop_id": "32201", 
+    "parent_station": "", 
+    "stop_name": "Wynnewood Rd Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986485", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.291484", 
+    "stop_id": "32202", 
+    "parent_station": "", 
+    "stop_name": "Beechwood Brookline Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.981015", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.28404", 
+    "stop_id": "32203", 
+    "parent_station": "", 
+    "stop_name": "Penfield Station Manoa Rd - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.974773", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.281619", 
+    "stop_id": "32204", 
+    "parent_station": "", 
+    "stop_name": "Township Line Rd Station - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.962553", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.258578", 
+    "stop_id": "32206", 
+    "parent_station": "", 
+    "stop_name": "69th St Transportation Center - NHSL", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.968955", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "2", 
+    "stop_lon": "-75.274851", 
+    "stop_id": "32207", 
+    "parent_station": "", 
+    "stop_name": "Parkview Station - NHSL", 
+    "location_type": ""
+  }
+]

@@ -1,0 +1,942 @@
+[
+  {
+    "stop_lat": "39.952532", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.162559", 
+    "stop_id": "283", 
+    "parent_station": "", 
+    "stop_name": "13th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.949595", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.203333", 
+    "stop_id": "301", 
+    "parent_station": "", 
+    "stop_name": "40th St Trolley Portal", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.940955", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.212582", 
+    "stop_id": "302", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & 49th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.914335", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.241732", 
+    "stop_id": "610", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 73rd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.91405", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.242677", 
+    "stop_id": "611", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Loop", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.898668", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.239319", 
+    "stop_id": "612", 
+    "parent_station": "", 
+    "stop_name": "Island Av & 80th St Eastwick Loop ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.954773", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.1897", 
+    "stop_id": "20642", 
+    "parent_station": "", 
+    "stop_name": "33rd St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.954815", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.1835", 
+    "stop_id": "20643", 
+    "parent_station": "", 
+    "stop_name": "30th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.953962", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.176736", 
+    "stop_id": "20645", 
+    "parent_station": "", 
+    "stop_name": "22nd St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.953327", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.171637", 
+    "stop_id": "20646", 
+    "parent_station": "", 
+    "stop_name": "19th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.95488", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.189676", 
+    "stop_id": "20658", 
+    "parent_station": "", 
+    "stop_name": "33rd St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.952672", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.165345", 
+    "stop_id": "20659", 
+    "parent_station": "", 
+    "stop_name": "15th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.953425", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.171483", 
+    "stop_id": "20660", 
+    "parent_station": "", 
+    "stop_name": "19th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.954051", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.176571", 
+    "stop_id": "20661", 
+    "parent_station": "", 
+    "stop_name": "22nd St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.954894", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.183169", 
+    "stop_id": "20662", 
+    "parent_station": "", 
+    "stop_name": "30th St Trolley Station ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.941953", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.211728", 
+    "stop_id": "20726", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & 48th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.944323", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.209797", 
+    "stop_id": "20727", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & 46th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.94541", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.208565", 
+    "stop_id": "20728", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & 45th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.946675", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.207121", 
+    "stop_id": "20729", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & 42nd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.950914", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.197247", 
+    "stop_id": "20731", 
+    "parent_station": "", 
+    "stop_name": "37th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.953854", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.194533", 
+    "stop_id": "20732", 
+    "parent_station": "", 
+    "stop_name": "36th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.953872", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.19471", 
+    "stop_id": "20733", 
+    "parent_station": "", 
+    "stop_name": "36th St Trolley Station", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.951048", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.197306", 
+    "stop_id": "20734", 
+    "parent_station": "", 
+    "stop_name": "37th St Trolley Station ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.948055", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.205593", 
+    "stop_id": "20735", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & 41st St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.946987", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.206907", 
+    "stop_id": "20736", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & 42nd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.945767", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.20834", 
+    "stop_id": "20737", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & 43rd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.944537", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.209725", 
+    "stop_id": "20739", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & 46th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.942176", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.211716", 
+    "stop_id": "20740", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & 48th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.949533", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.203345", 
+    "stop_id": "20804", 
+    "parent_station": "", 
+    "stop_name": "40th St Trolley Portal", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.948599", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.204977", 
+    "stop_id": "20805", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & Chester Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.93998", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.211652", 
+    "stop_id": "20897", 
+    "parent_station": "", 
+    "stop_name": "49th St & Paschall Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.936128", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.213682", 
+    "stop_id": "20899", 
+    "parent_station": "", 
+    "stop_name": "Grays Av & Lindbergh Blvd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.935282", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.214429", 
+    "stop_id": "20900", 
+    "parent_station": "", 
+    "stop_name": "Lindbergh Blvd & Grays Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.933588", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.215579", 
+    "stop_id": "20901", 
+    "parent_station": "", 
+    "stop_name": "Lindbergh Blvd & 54th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.931173", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.217711", 
+    "stop_id": "20902", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 56th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.930131", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.219202", 
+    "stop_id": "20903", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 57th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.929152", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.220539", 
+    "stop_id": "20904", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 58th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.928226", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.221958", 
+    "stop_id": "20905", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 59th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.926935", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.22385", 
+    "stop_id": "20906", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & Edgewood Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.926241", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.224844", 
+    "stop_id": "20907", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 61st St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.925065", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.226441", 
+    "stop_id": "20908", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 62nd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.924157", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.227671", 
+    "stop_id": "20909", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 63rd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.923204", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.229067", 
+    "stop_id": "20910", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 64th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.922305", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.230285", 
+    "stop_id": "20911", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 65th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.921432", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.231562", 
+    "stop_id": "20912", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 66th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.920524", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.23284", 
+    "stop_id": "20913", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 67th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.919446", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.234401", 
+    "stop_id": "20914", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 68th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.918297", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.236056", 
+    "stop_id": "20915", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 69th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.917327", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.237428", 
+    "stop_id": "20916", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 70th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.916249", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.238965", 
+    "stop_id": "20917", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 71st St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.915305", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.240349", 
+    "stop_id": "20918", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 72nd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.913168", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.243282", 
+    "stop_id": "20919", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & Island Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.911195", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.242744", 
+    "stop_id": "20920", 
+    "parent_station": "", 
+    "stop_name": "Island Av & Buist Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.909132", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.2421", 
+    "stop_id": "20921", 
+    "parent_station": "", 
+    "stop_name": "Island Av & Tanager St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.907391", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.24155", 
+    "stop_id": "20922", 
+    "parent_station": "", 
+    "stop_name": "Island Av & 76th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.903855", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.240403", 
+    "stop_id": "20923", 
+    "parent_station": "", 
+    "stop_name": "Island Av & Lindbergh Blvd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.948492", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.204966", 
+    "stop_id": "20925", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & Chester Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.904257", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.240461", 
+    "stop_id": "20927", 
+    "parent_station": "", 
+    "stop_name": "Island Av & Lindbergh Blvd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.907284", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.241432", 
+    "stop_id": "20928", 
+    "parent_station": "", 
+    "stop_name": "Island Av & 76th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.90915", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.242029", 
+    "stop_id": "20929", 
+    "parent_station": "", 
+    "stop_name": "Island Av & Tanager St - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.911186", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.242661", 
+    "stop_id": "20930", 
+    "parent_station": "", 
+    "stop_name": "Island Av & Buist Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.913266", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.242998", 
+    "stop_id": "20931", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & Island Av - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.914129", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.241816", 
+    "stop_id": "20932", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 73rd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.9151", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.240408", 
+    "stop_id": "20933", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 72nd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.91608", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.239013", 
+    "stop_id": "20934", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 71st St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.91713", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.237452", 
+    "stop_id": "20935", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 70th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.918101", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.236081", 
+    "stop_id": "20936", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 69th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.91925", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.234425", 
+    "stop_id": "20937", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 68th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.920327", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.232911", 
+    "stop_id": "20938", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 67th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.921236", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.231587", 
+    "stop_id": "20939", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 66th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.922082", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.230404", 
+    "stop_id": "20940", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 65th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.922972", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.229126", 
+    "stop_id": "20941", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 64th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.923934", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.227778", 
+    "stop_id": "20942", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 63rd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.924842", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.22656", 
+    "stop_id": "20943", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 62nd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.926044", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.224868", 
+    "stop_id": "20944", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 61st St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.926739", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.223875", 
+    "stop_id": "20945", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & Edgewood St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.928039", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.221994", 
+    "stop_id": "20946", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 59th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.928964", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.220586", 
+    "stop_id": "20947", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 58th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.929935", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.219226", 
+    "stop_id": "20948", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 57th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.930986", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.217747", 
+    "stop_id": "20949", 
+    "parent_station": "", 
+    "stop_name": "Elmwood Av & 56th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.932402", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.216232", 
+    "stop_id": "20950", 
+    "parent_station": "", 
+    "stop_name": "Lindbergh Blvd & Wheeler St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.9334", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.215532", 
+    "stop_id": "20951", 
+    "parent_station": "", 
+    "stop_name": "Lindbergh Blvd & 54th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.935121", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.214358", 
+    "stop_id": "20952", 
+    "parent_station": "", 
+    "stop_name": "Lindbergh Blvd & 53rd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.936163", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.213399", 
+    "stop_id": "20953", 
+    "parent_station": "", 
+    "stop_name": "Grays Av & 52nd St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.936991", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.212251", 
+    "stop_id": "20954", 
+    "parent_station": "", 
+    "stop_name": "Grays Av & 51st St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.939819", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.211286", 
+    "stop_id": "20955", 
+    "parent_station": "", 
+    "stop_name": "49th St & Paschall Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.940794", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.212429", 
+    "stop_id": "20957", 
+    "parent_station": "", 
+    "stop_name": "49th St & Woodland Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.943245", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.210839", 
+    "stop_id": "20958", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & 47th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.938559", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.210239", 
+    "stop_id": "21201", 
+    "parent_station": "", 
+    "stop_name": "Grays Av & 49th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.943451", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.210838", 
+    "stop_id": "21202", 
+    "parent_station": "", 
+    "stop_name": "Woodland Av & 47th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.957259", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.202021", 
+    "stop_id": "21248", 
+    "parent_station": "", 
+    "stop_name": "40th St & Market St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.899525", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.239352", 
+    "stop_id": "24738", 
+    "parent_station": "", 
+    "stop_name": "Island Av & Suffolk Av - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.937188", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.212227", 
+    "stop_id": "30595", 
+    "parent_station": "", 
+    "stop_name": "Grays Av & 51st St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.952502", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.165369", 
+    "stop_id": "31140", 
+    "parent_station": "", 
+    "stop_name": "15th St Trolley Station", 
+    "location_type": ""
+  }
+]

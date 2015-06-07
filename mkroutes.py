@@ -26,7 +26,8 @@ routes = {}
 with open('gtfs/routes.txt') as routes_file:
     route_reader = csv.DictReader(routes_file)
     for route in route_reader:
-        routes[route['route_id']] = route
+        if route['route_type'] == '3':
+            routes[route['route_id']] = route
 
 shapes = defaultdict(list)
 with open('gtfs/shapes.txt') as shapes_file:
@@ -42,6 +43,9 @@ shapes_by_route = {}
 seen_routes = set()
 for route_id, direction_id in shape_ids:
     if route_id in seen_routes:
+        continue
+
+    if route_id not in routes:
         continue
 
     shape_id_1 = shape_ids[(route_id, direction_id)]

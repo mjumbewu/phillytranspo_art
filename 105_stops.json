@@ -1,0 +1,1932 @@
+[
+  {
+    "stop_lat": "39.988502", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.261907", 
+    "stop_id": "188", 
+    "parent_station": "", 
+    "stop_name": "Lankenau Medical Center", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.983955", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.246264", 
+    "stop_id": "293", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 63rd St Loop", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.973655", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.258303", 
+    "stop_id": "551", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & Haverford Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.974091", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.257216", 
+    "stop_id": "560", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & Haverford Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.008412", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.289491", 
+    "stop_id": "694", 
+    "parent_station": "", 
+    "stop_name": "Coulter Av & Saint Georges Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.001418", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.272864", 
+    "stop_id": "2004", 
+    "parent_station": "", 
+    "stop_name": "Wynnewood Shopping Center", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.0214", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.318", 
+    "stop_id": "2007", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Bryn Mawr Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.043162", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.35948", 
+    "stop_id": "2008", 
+    "parent_station": "", 
+    "stop_name": "Radnor Chester Rd & King Prussia Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.04413", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.387798", 
+    "stop_id": "2009", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Wayne Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.047849", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.441989", 
+    "stop_id": "2011", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Main Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.043922", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.499678", 
+    "stop_id": "2013", 
+    "parent_station": "", 
+    "stop_name": "Paoli Memorial Hospital", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.047492", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.442793", 
+    "stop_id": "2014", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Main Av - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.043988", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.388555", 
+    "stop_id": "2016", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Wayne Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.043216", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.359185", 
+    "stop_id": "2017", 
+    "parent_station": "", 
+    "stop_name": "Radnor Chester Rd & King Prussia Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.020944", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.317386", 
+    "stop_id": "2018", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Bryn Mawr Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.962642", 
+    "wheelchair_boarding": "1", 
+    "zone_id": "1", 
+    "stop_lon": "-75.25879", 
+    "stop_id": "2024", 
+    "parent_station": "31034", 
+    "stop_name": "69th St Transportation Center North Terminal", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.006807", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.290842", 
+    "stop_id": "2496", 
+    "parent_station": "", 
+    "stop_name": "Cricket Terrace & Cricket Av - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.973992", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.257133", 
+    "stop_id": "9292", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & Haverford Av - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.980671", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.252581", 
+    "stop_id": "10185", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 65th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.982193", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.249765", 
+    "stop_id": "10188", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 64th St - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.982834", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.248476", 
+    "stop_id": "10189", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & Wynnewood Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.006974", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.28908", 
+    "stop_id": "14826", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Rittenhouse Place", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.010006", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.29509", 
+    "stop_id": "18875", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Greenfield Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.011622", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.29478", 
+    "stop_id": "18877", 
+    "parent_station": "", 
+    "stop_name": "Woodside Av & Montgomery Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.009528", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.290127", 
+    "stop_id": "18878", 
+    "parent_station": "", 
+    "stop_name": "Montgomery Av & Anderson Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.007847", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.287034", 
+    "stop_id": "18880", 
+    "parent_station": "", 
+    "stop_name": "Coulter Av & Glenn Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.008646", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.284019", 
+    "stop_id": "18882", 
+    "parent_station": "", 
+    "stop_name": "Llanfair Rd & Montgomery Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.009411", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.288887", 
+    "stop_id": "18884", 
+    "parent_station": "", 
+    "stop_name": "Montgomery Av & Saint Georges Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.009783", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.294972", 
+    "stop_id": "18887", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Greenfield Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.00888", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.293154", 
+    "stop_id": "18888", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Ardmore Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.007431", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.290332", 
+    "stop_id": "18889", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Cricket Av - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.987892", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.253319", 
+    "stop_id": "19300", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Church Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.987131", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.251749", 
+    "stop_id": "19301", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Overbrook Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986693", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.250923", 
+    "stop_id": "19302", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Sherwood Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.985466", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.248351", 
+    "stop_id": "19303", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Woodbine Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.985421", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.24789", 
+    "stop_id": "19304", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Woodbine Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.986656", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.250451", 
+    "stop_id": "19305", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Sherwood Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.987238", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.251619", 
+    "stop_id": "19306", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Overbrook Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.993022", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.264779", 
+    "stop_id": "19309", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Indian Creek Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.995328", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.267539", 
+    "stop_id": "19311", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Remington Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.998456", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.27129", 
+    "stop_id": "19312", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Stanford Dr - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.00163", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.275182", 
+    "stop_id": "19313", 
+    "parent_station": "", 
+    "stop_name": "Wynnewood Rd & Lancaster Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.002482", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.271529", 
+    "stop_id": "19314", 
+    "parent_station": "", 
+    "stop_name": "Williams Rd & Wynnewood Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.002448", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.273313", 
+    "stop_id": "19315", 
+    "parent_station": "", 
+    "stop_name": "Wynnewood Rd & Penn Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.001802", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.27751", 
+    "stop_id": "19316", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & W Old Wynnewood Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.003843", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.28267", 
+    "stop_id": "19318", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Chatham Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.00642", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.287876", 
+    "stop_id": "19319", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Argyle Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.007833", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.290816", 
+    "stop_id": "19320", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Station Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.009085", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.293295", 
+    "stop_id": "19321", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Ardmore Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.011062", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.297121", 
+    "stop_id": "19323", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Wyoming Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.012072", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.299152", 
+    "stop_id": "19324", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & College Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.013065", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.301136", 
+    "stop_id": "19325", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Haverford Sta Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.015471", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.305895", 
+    "stop_id": "19327", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & N Buck Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.017385", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.309839", 
+    "stop_id": "19328", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Barrett Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.019057", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.31311", 
+    "stop_id": "19330", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Lee Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.023572", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.32243", 
+    "stop_id": "19334", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Warner Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.024475", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.324343", 
+    "stop_id": "19335", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Roberts Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.025181", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.325713", 
+    "stop_id": "19336", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Montrose Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.027416", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.329848", 
+    "stop_id": "19337", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Airdale Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.0299", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.333639", 
+    "stop_id": "19340", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Lowrys Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.031249", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.335541", 
+    "stop_id": "19341", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Black Friar Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.03368", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.339096", 
+    "stop_id": "19342", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Ithan Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.03495", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.343067", 
+    "stop_id": "19343", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Villanova University", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.035944", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.348717", 
+    "stop_id": "19344", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Spring Mill Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.04167", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.355816", 
+    "stop_id": "19347", 
+    "parent_station": "", 
+    "stop_name": "King of Prussia Rd & NHSL Radnor Sta Dr - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042866", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.356631", 
+    "stop_id": "19348", 
+    "parent_station": "", 
+    "stop_name": "King of Prussia Rd & Chilton Bldg", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.040523", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.364673", 
+    "stop_id": "19350", 
+    "parent_station": "", 
+    "stop_name": "Radnor Chester Rd & Radnor Hotel Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.040945", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.368279", 
+    "stop_id": "19352", 
+    "parent_station": "", 
+    "stop_name": "Lancaster & Saint Davids Square - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042231", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.371104", 
+    "stop_id": "19353", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Cambria Ct", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042955", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.373953", 
+    "stop_id": "19354", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Chamounix Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.043555", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.378079", 
+    "stop_id": "19355", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Pembroke Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.043789", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.381496", 
+    "stop_id": "19356", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Aberdeen Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.044049", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.386261", 
+    "stop_id": "19357", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Waynewood Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.044258", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.397872", 
+    "stop_id": "19359", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Strafford Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.044509", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.400722", 
+    "stop_id": "19360", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Eagle Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.045652", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.404138", 
+    "stop_id": "19361", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Sugartown Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.047277", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.408608", 
+    "stop_id": "19362", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Conestoga Rd - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.047858", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.411351", 
+    "stop_id": "19363", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Berkley Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.048536", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.415229", 
+    "stop_id": "19364", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Grove Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.045904", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.423341", 
+    "stop_id": "19366", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Waterloo Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.046913", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.434622", 
+    "stop_id": "19368", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Lakeside Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.048269", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.438465", 
+    "stop_id": "19369", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Old Lancaster Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.046252", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.445394", 
+    "stop_id": "19370", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Bridge Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.044921", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.447758", 
+    "stop_id": "19371", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Leopard Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.043778", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.450513", 
+    "stop_id": "19372", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Manchester Ct", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042723", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.460717", 
+    "stop_id": "19373", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Glenn Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042272", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.475969", 
+    "stop_id": "19376", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Bear Hill Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042011", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.482543", 
+    "stop_id": "19377", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Darby Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.041966", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.484317", 
+    "stop_id": "19378", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Valley Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.04183", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.488029", 
+    "stop_id": "19379", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Plank Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.041676", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.492759", 
+    "stop_id": "19380", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Cedar Hollow Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.999565", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.272752", 
+    "stop_id": "19382", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Clover Hill Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.044221", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.393651", 
+    "stop_id": "19384", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Banbury Way - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.041506", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.493184", 
+    "stop_id": "19388", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Cedar Hollow Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.041678", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.488218", 
+    "stop_id": "19389", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Plank Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.041823", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.484234", 
+    "stop_id": "19390", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Valley Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.041859", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.482898", 
+    "stop_id": "19391", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Darby Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.041959", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.479729", 
+    "stop_id": "19392", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Chestnut Rd - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042067", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.476821", 
+    "stop_id": "19393", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Leopard Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042563", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.460823", 
+    "stop_id": "19396", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Glenn Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.043645", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.450395", 
+    "stop_id": "19397", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Manchester Ct - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.048153", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.439056", 
+    "stop_id": "19400", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Midland Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.045601", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.423649", 
+    "stop_id": "19403", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Waterloo Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.047368", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.419356", 
+    "stop_id": "19405", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Valley Forge Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.047831", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.412084", 
+    "stop_id": "19406", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Berkley Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.047143", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.408572", 
+    "stop_id": "19407", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & E Conestoga Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.045964", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.405167", 
+    "stop_id": "19408", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Sugartown Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.044446", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.401159", 
+    "stop_id": "19409", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Eagle Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.048367", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.415005", 
+    "stop_id": "19411", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Grove Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.04406", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.393024", 
+    "stop_id": "19412", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Bloomingdale Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.043826", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.385209", 
+    "stop_id": "19413", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Louella Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.043628", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.381603", 
+    "stop_id": "19414", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Aberdeen Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.043413", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.378469", 
+    "stop_id": "19415", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Pembroke Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042866", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.374414", 
+    "stop_id": "19416", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Saint Davids Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.04216", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.371471", 
+    "stop_id": "19417", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Cambria Ct", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.040641", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.36835", 
+    "stop_id": "19418", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Saint Davids Square", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.040282", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.364804", 
+    "stop_id": "19419", 
+    "parent_station": "", 
+    "stop_name": "RadnorChester Rd & Lancaster Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042786", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.356844", 
+    "stop_id": "19421", 
+    "parent_station": "", 
+    "stop_name": "King of Prussia Rd & Chilton Bldg", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.041732", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.356053", 
+    "stop_id": "19422", 
+    "parent_station": "", 
+    "stop_name": "King of Prussia Rd & NHSL Radnor Sta Dr", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.035793", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.3488", 
+    "stop_id": "19424", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Spring Mill Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.034959", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.344083", 
+    "stop_id": "19425", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Villanova University", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.03376", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.339616", 
+    "stop_id": "19426", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Ithan Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.031464", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.336167", 
+    "stop_id": "19427", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Black Friar Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.030088", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.334206", 
+    "stop_id": "19428", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Lowry's Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.028346", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.331631", 
+    "stop_id": "19430", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Radnor House", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.027318", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.330013", 
+    "stop_id": "19431", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Airdale Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.025092", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.325962", 
+    "stop_id": "19432", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Montrose Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.024529", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.324757", 
+    "stop_id": "19433", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Roberts Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.023528", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.322702", 
+    "stop_id": "19434", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Warner Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.022303", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.320186", 
+    "stop_id": "19436", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Summit Grove Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.019048", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.313666", 
+    "stop_id": "19438", 
+    "parent_station": "", 
+    "stop_name": "Lancaster & Old Lancaster Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.017975", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.311446", 
+    "stop_id": "19439", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Penn St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.017036", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.309485", 
+    "stop_id": "19440", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Old Buck Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.015462", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.306249", 
+    "stop_id": "19441", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Buck Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.013119", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.301597", 
+    "stop_id": "19443", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Haverford Station Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.01193", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.299223", 
+    "stop_id": "19444", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & College Ln - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.011026", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.297452", 
+    "stop_id": "19445", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Wyoming Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.006295", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.28803", 
+    "stop_id": "19446", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Argyle Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.005257", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.285964", 
+    "stop_id": "19447", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Church Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.003361", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.282092", 
+    "stop_id": "19449", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Chatham Rd - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.001865", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.278231", 
+    "stop_id": "19450", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Old Wynnewood Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.999619", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.273225", 
+    "stop_id": "19452", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Clover Hill Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.998215", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.27129", 
+    "stop_id": "19453", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Stanford Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.995444", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.267964", 
+    "stop_id": "19454", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Remington Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.994014", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.266254", 
+    "stop_id": "19455", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & 324", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.973414", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.258788", 
+    "stop_id": "19536", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & Haverford Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.981534", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.25109", 
+    "stop_id": "20549", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 64th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.98351", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.247387", 
+    "stop_id": "20575", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 63rd St - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.980876", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.252509", 
+    "stop_id": "20576", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 65th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.982932", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.248535", 
+    "stop_id": "20577", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & Wynnewood Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.981704", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.250995", 
+    "stop_id": "20578", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 64th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.982309", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.249788", 
+    "stop_id": "20579", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & Wynnewood Rd - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.979681", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.253481", 
+    "stop_id": "20580", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 66th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.972158", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.260114", 
+    "stop_id": "21392", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 75th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.972363", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.260043", 
+    "stop_id": "21484", 
+    "parent_station": "", 
+    "stop_name": "Lansdowne Av & 75th St - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.987865", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.252894", 
+    "stop_id": "24489", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Church Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.98988", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.2583", 
+    "stop_id": "28281", 
+    "parent_station": "", 
+    "stop_name": "Lankenau Dr & Lancaster Av - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042155", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.478653", 
+    "stop_id": "29485", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Bear Hill Rd - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.010386", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.291615", 
+    "stop_id": "29716", 
+    "parent_station": "", 
+    "stop_name": "Montgomery Av & Bleddyn Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.047921", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.437826", 
+    "stop_id": "29754", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Midland Av - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.046109", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.422372", 
+    "stop_id": "29755", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Devon Blvd ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.04407", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.395555", 
+    "stop_id": "29756", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Farm Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.02612", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.328005", 
+    "stop_id": "29757", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & County Line Rd - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.014818", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.30495", 
+    "stop_id": "29758", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Booth La - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.001426", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.276211", 
+    "stop_id": "29759", 
+    "parent_station": "", 
+    "stop_name": "Wynnewood Rd & Lancaster Av ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.016589", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.308186", 
+    "stop_id": "29760", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Old Lancaster Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.02654", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.328395", 
+    "stop_id": "29761", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & County Line Rd ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.044231", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.395543", 
+    "stop_id": "29762", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Farm Rd ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.046377", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.422171", 
+    "stop_id": "29763", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Devon Blvd ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042039", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.498387", 
+    "stop_id": "29765", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Central Av ", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.018002", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.311103", 
+    "stop_id": "30484", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Penn St.", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.044912", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.447345", 
+    "stop_id": "30485", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Leopard Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975364", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.255311", 
+    "stop_id": "30679", 
+    "parent_station": "", 
+    "stop_name": "68th St & Lebanon Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.977953", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.255801", 
+    "stop_id": "30680", 
+    "parent_station": "", 
+    "stop_name": "68th St & Malvern Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.979369", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.253505", 
+    "stop_id": "30681", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 66th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.989898", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.25843", 
+    "stop_id": "30682", 
+    "parent_station": "", 
+    "stop_name": "Lankenau & Lancaster - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.005248", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.285515", 
+    "stop_id": "30683", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Church Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.010369", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.29191", 
+    "stop_id": "30684", 
+    "parent_station": "", 
+    "stop_name": "Montgomery Av & Bleddyn Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.014898", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.304761", 
+    "stop_id": "30685", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Booth Ln", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.044458", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.427799", 
+    "stop_id": "30686", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Arlington Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.046672", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.434397", 
+    "stop_id": "30688", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Lakeside Av - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.044298", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.427787", 
+    "stop_id": "30689", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Fairfield Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.044097", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.397671", 
+    "stop_id": "30690", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Doyle Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.992986", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.264992", 
+    "stop_id": "30691", 
+    "parent_station": "", 
+    "stop_name": "Lancaster & Indian Creek Rd", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.978248", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.255835", 
+    "stop_id": "30692", 
+    "parent_station": "", 
+    "stop_name": "Malvern Av & 68th St", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.975659", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.255582", 
+    "stop_id": "30693", 
+    "parent_station": "", 
+    "stop_name": "68th & Lebanon Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.011622", 
+    "wheelchair_boarding": "", 
+    "zone_id": "1", 
+    "stop_lon": "-75.295004", 
+    "stop_id": "30701", 
+    "parent_station": "", 
+    "stop_name": "Woodside & Montgomery - FS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.022338", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.31989", 
+    "stop_id": "31015", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Summit Grove Av", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.045653", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.445997", 
+    "stop_id": "31018", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Central Av - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042283", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.470258", 
+    "stop_id": "31055", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Fairway Rd - MBFS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "39.994121", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.266088", 
+    "stop_id": "31056", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Remington Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.042435", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.470389", 
+    "stop_id": "31057", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Fairway Rd - MBNS", 
+    "location_type": ""
+  }, 
+  {
+    "stop_lat": "40.047537", 
+    "wheelchair_boarding": "0", 
+    "zone_id": "1", 
+    "stop_lon": "-75.419333", 
+    "stop_id": "31058", 
+    "parent_station": "", 
+    "stop_name": "Lancaster Av & Valley Forge Rd - FS", 
+    "location_type": ""
+  }
+]

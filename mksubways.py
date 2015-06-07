@@ -65,3 +65,12 @@ def do_subway_route(name):
 
 do_subway_route('MFL')
 do_subway_route('BSL')
+do_subway_route('10')
+do_subway_route('11')
+do_subway_route('13')
+do_subway_route('34')
+do_subway_route('36')
+do_subway_route('15')
+do_subway_route('104')
+do_subway_route('105')
+do_subway_route('NHSL')
