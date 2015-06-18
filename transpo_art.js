@@ -1,9 +1,13 @@
 var width = window.innerWidth,
     height = window.innerHeight;
 
+var constraint = Math.min(width, height),
+    naturalConstraint = 600;
+
 var projection = d3.geo.mercator()
-    .center([-75.25, 40.03])
-    .scale(100000);
+    .center([-75.20, 40.00])
+    .scale(100000 * constraint / naturalConstraint)
+    .translate([width / 2, height / 2]);
 
 var path = d3.geo.path()
     .projection(projection);
