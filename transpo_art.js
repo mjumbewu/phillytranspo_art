@@ -61,7 +61,7 @@ setInterval(tick, 2000);
 
 function initializeBaseLayer() {
   // Load the shape of Philadelphia, divided into census tracts.
-  d3.json("tracts.topojson", function(error, topology) {
+  d3.json("data/tracts.topojson", function(error, topology) {
       g.selectAll("path")
           .data(topojson.object(topology, topology.objects.tracts).geometries)
         .enter().append("path")
@@ -78,7 +78,7 @@ function initializeBaseLayer() {
 
 function initializeBikeshareStations() {
   // Load an initiali feed of bike share stations.
-  d3.json("bikeshare.geojson", function(error, json) {
+  d3.json("data/bikeshare.geojson", function(error, json) {
       bikeshareG.selectAll("circle")
           .data(json.features)
         .enter().append("circle")
@@ -98,7 +98,7 @@ function loadDayOfBikeshare() {
       sortedData = [];
 
   $.ajax({
-    url: 'es_logstash-phl-ind-2015.05.28',
+    url: 'data/es_logstash-phl-ind-2015.05.28',
     dataType: 'json',
     success: function(data) {
       data.forEach(function (d) {
@@ -157,7 +157,7 @@ function initRail(name, railGs, railIndex) {
   railGs[name] = svg.append('g').attr('id', 'route-' + name);
   railIndex[name] = 0;
 
-  d3.json(name + "_stops.json", function(error, json) {
+  d3.json("data/" + name + "_stops.json", function(error, json) {
     railGs[name].selectAll('circle')
         .data(json)
       .enter().append('circle')
@@ -217,7 +217,7 @@ function crawlTrolley(g, json) {
 
 function loadDayOfSubwayTrips(name) {
   $.ajax({
-    url: name.toLowerCase() + '.json',
+    url: 'data/' + name.toLowerCase() + '.json',
     dataType: 'json',
     success: function(data) {
       subwayData[name] = data;
@@ -228,7 +228,7 @@ function loadDayOfSubwayTrips(name) {
 
 function loadDayOfTrolleyTrips(name) {
   $.ajax({
-    url: name.toLowerCase() + '.json',
+    url: 'data/' + name.toLowerCase() + '.json',
     dataType: 'json',
     success: function(data) {
       trolleyData[name] = data;
@@ -245,7 +245,7 @@ function loadDayOfTrolleyTrips(name) {
 var paths = {};
 function initPaths() {
   $.ajax({
-    url: 'shapes.json',
+    url: 'data/shapes.json',
     dataType: 'json',
     success: function(data) {
       for (var routename in data) {
