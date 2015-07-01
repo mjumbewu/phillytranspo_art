@@ -56,10 +56,10 @@ def do_subway_route(name):
             if stop['stop_id'] in stop_ids:
                 stops.append(stop)
 
-    with open('%s.json' % name.lower(), 'w') as subway_file:
+    with open('data/%s.json' % name.lower(), 'w') as subway_file:
         json.dump(snapshots, subway_file, indent=2)
 
-    with open('%s_stops.json' % name.lower(), 'w') as subway_stops_file:
+    with open('data/%s_stops.json' % name.lower(), 'w') as subway_stops_file:
         json.dump(stops, subway_stops_file, indent=2)
 
 

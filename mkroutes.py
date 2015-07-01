@@ -63,5 +63,5 @@ for route_id, direction_id in shape_ids:
     shapes_by_route[route['route_short_name']] = shape
     seen_routes.add(route_id)
 
-with open('shapes.json', 'w') as shapes_file:
+with open('data/shapes.json', 'w') as shapes_file:
     json.dump(shapes_by_route, shapes_file, indent=1)
