@@ -1,0 +1,173 @@
+[
+  {
+    "stop_lon": "-75.1816667",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "30th Street Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9566667",
+    "stop_id": "90004",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1677778",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Suburban Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9538889",
+    "stop_id": "90005",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1580556",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Jefferson Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9525",
+    "stop_id": "90006",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1494444",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Temple University",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9813889",
+    "stop_id": "90007",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.4116667",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Elwyn",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9075",
+    "stop_id": "90301",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.395",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Media",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9144444",
+    "stop_id": "90302",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.3886111",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Moylan Rose Valley",
+    "wheelchair_boarding": "0",
+    "stop_lat": "39.9061111",
+    "stop_id": "90303",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.3719444",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Wallingford",
+    "wheelchair_boarding": "0",
+    "stop_lat": "39.9036111",
+    "stop_id": "90304",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.3508333",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Swarthmore",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9022222",
+    "stop_id": "90305",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.3288889",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Morton Rutledge",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9077778",
+    "stop_id": "90306",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.3097222",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Secane",
+    "wheelchair_boarding": "0",
+    "stop_lat": "39.9158333",
+    "stop_id": "90307",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2983333",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Primos",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9216667",
+    "stop_id": "90308",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2902778",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Clifton Aldan",
+    "wheelchair_boarding": "0",
+    "stop_lat": "39.9266667",
+    "stop_id": "90309",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2822222",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Gladstone",
+    "wheelchair_boarding": "0",
+    "stop_lat": "39.9327778",
+    "stop_id": "90310",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2708333",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Lansdowne",
+    "wheelchair_boarding": "0",
+    "stop_lat": "39.9375",
+    "stop_id": "90311",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2558333",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Fernwood Yeadon",
+    "wheelchair_boarding": "0",
+    "stop_lat": "39.9397222",
+    "stop_id": "90312",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2386111",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "Angora",
+    "wheelchair_boarding": "0",
+    "stop_lat": "39.9447222",
+    "stop_id": "90313",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.2166667",
+    "stop_desc": "Media Elwyn Line",
+    "stop_name": "49th Street",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9436111",
+    "stop_id": "90314",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.1902778",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "University City",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9480556",
+    "stop_id": "90406",
+    "zone_id": "C"
+  }
+]

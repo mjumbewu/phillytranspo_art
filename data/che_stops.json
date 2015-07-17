@@ -1,0 +1,137 @@
+[
+  {
+    "stop_lon": "-75.1816667",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "30th Street Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9566667",
+    "stop_id": "90004",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1677778",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Suburban Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9538889",
+    "stop_id": "90005",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1580556",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Jefferson Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9525",
+    "stop_id": "90006",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1494444",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Temple University",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9813889",
+    "stop_id": "90007",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.16",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "Wayne Junction",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0222222",
+    "stop_id": "90009",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.1902778",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "University City",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9480556",
+    "stop_id": "90406",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1611111",
+    "stop_desc": "Chestnut Hill East Line",
+    "stop_name": "Wister",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0361111",
+    "stop_id": "90712",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.1716667",
+    "stop_desc": "Chestnut Hill East Line",
+    "stop_name": "Germantown",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0375",
+    "stop_id": "90713",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.1713889",
+    "stop_desc": "Chestnut Hill East Line",
+    "stop_name": "Washington Lane",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0508333",
+    "stop_id": "90714",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.1786111",
+    "stop_desc": "Chestnut Hill East Line",
+    "stop_name": "Stenton",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0605556",
+    "stop_id": "90715",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.1852778",
+    "stop_desc": "Chestnut Hill East Line",
+    "stop_name": "Sedgwick",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0627778",
+    "stop_id": "90716",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.1908333",
+    "stop_desc": "Chestnut Hill East Line",
+    "stop_name": "Mount Airy",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0652778",
+    "stop_id": "90717",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.1966667",
+    "stop_desc": "Chestnut Hill East Line",
+    "stop_name": "Wyndmoor",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0733333",
+    "stop_id": "90718",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2016667",
+    "stop_desc": "Chestnut Hill East Line",
+    "stop_name": "Gravers",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0775",
+    "stop_id": "90719",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2072222",
+    "stop_desc": "Chestnut Hill East Line",
+    "stop_name": "Chestnut Hill East",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0811111",
+    "stop_id": "90720",
+    "zone_id": "2"
+  }
+]
