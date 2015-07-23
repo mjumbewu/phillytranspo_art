@@ -11,6 +11,39 @@ body {
   margin: 0;
 }
 
+#switch-dropdown {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: white;
+  margin: 1em;
+  padding: 1em;
+  border: 1px solid white;
+  border-radius: 3px;
+}
+.switch-menu{
+  top: 4em;
+  right: 0;
+  position: absolute;
+  color: blue;
+  padding: 1em;
+  min-width: 12em;
+  border: 1px solid black;
+  margin: 1em;
+  
+}
+ul
+{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+a{
+  color: skyblue;
+}
+
+
 .tracts {
     fill: #444;
     stroke: #444;
@@ -123,6 +156,18 @@ circle.bikeshare {
 
 <script src="transpo_art.js"></script>
 
+<a href="#" id="switch-dropdown">Switches</a>
+<div class="switch-menu">
+<ul>
+  <li>
+    <a href="#" id="Subway-switch">mfl</a>
+  </li>
+  <li>
+    <a href="#" id="bsl-switch">bsl</a>
+  </li>
+</ul>
+</div>
+
 <script>
   initializeBaseLayer();
   initializeBikeshareStations();
@@ -151,6 +196,27 @@ circle.bikeshare {
   loadDayOfTrolleyTrips('15');
   loadDayOfTrolleyTrips('104');
   loadDayOfTrolleyTrips('105');
+  
+  $(function() {
+    function toggleLayer(layerName) {
+      var layer = $(layerName);
+      if (layer.css('display') === 'none') {
+        layer.css('display', '');
+      } else {
+        layer.css('display', 'none');
+      }
+    }
+    
+    $('#Subway-switch').on('click', function(evt) {
+      evt.preventDefault();
+      toggleLayer('#route-mfl');
+    });
+
+    $('#bsl-switch').on('click', function(evt) {
+      evt.preventDefault();
+      toggleLayer('#route-bsl');
+    });
+  });
 </script>
 </body>
 </html>
