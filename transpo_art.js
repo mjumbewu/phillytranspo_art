@@ -22,10 +22,12 @@ var bikeshareG = svg.append("g").attr('id', 'bikeshare');
 
 var subwayGs = {};
 var trolleyGs = {};
+var regionalRailGs = {};
 
 var bikeshareData, bikeshareIndex = 0;
 var subwayData = {}, subwayIndex = {};
 var trolleyData = {}, trolleyIndex = {};
+var regionalRailData = {}, regionalRailIndex = {};
 var currentTime = 0;
 
 
@@ -53,6 +55,14 @@ function tick() {
       if (trolleyIndex[routename] >= trolleyData[routename].length) { trolleyIndex[routename] = 0; }
       crawlTrolley(trolleyGs[routename], trolleyData[routename][trolleyIndex[routename]]);
       trolleyIndex[routename]++;
+    }
+  }
+
+  for (routename in regionalRailGs) {
+    if (regionalRailData[routename]) {
+      if (regionalRailIndex[routename] >= regionalRailData[routename].length) { regionalRailIndex[routename] = 0; }
+      crawlRegional(regionalRailGs[routename], regionalRailData[routename][regionalRailIndex[routename]]);
+      regionalRailIndex[routename]++;
     }
   }
 }
@@ -232,6 +242,67 @@ function loadDayOfTrolleyTrips(name) {
     dataType: 'json',
     success: function(data) {
       trolleyData[name] = data;
+    }
+  });
+}
+
+
+/* ========================================================
+ * Regional Rail
+ * ========================================================
+ */
+
+function initRegionalRail(name, regionalRailGs, regionalRailIndex) {
+
+  regionalRailGs[name] = svg.append('g').attr('id', 'route-' + name);
+  regionalRailIndex[name] = 0;
+
+  d3.json("data/" + name + "_stops.json", function(error, json) {
+    regionalRailGs[name].selectAll('rect')
+        .data(json)
+      .enter().append('rect')
+        .attr("class", 'route-' + name)
+        .attr("transform", function(d) {
+            return "translate(" + projection([d.stop_lon,d.stop_lat]) + ")";
+          })
+        .attr("x", 0)
+        .attr("y", 0)
+        .attr("width", 10)
+        .attr("height", 10);
+  });
+
+  // each stop will have a thickness corresponding to the frequency of train trips.
+
+  // stopid: {
+  //   lat
+  //   lng
+  //   time
+  // }
+}
+
+
+function initRegional(name) {
+  initRegionalRail(name, regionalRailGs, regionalRailIndex);
+}
+
+function crawlRegional(g, json) {
+  g.selectAll('rect')
+    .transition()
+      .duration(2000)
+      .ease('linear')
+      .attr('width', function(d) {
+        var stopid = d['stop_id'];
+        var newcount = json[stopid] || 2;
+        return newcount;
+      });
+}
+
+function loadDayOfRegionalTrips(name) {
+  $.ajax({
+    url: 'data/' + name.toLowerCase() + '.json',
+    dataType: 'json',
+    success: function(data) {
+      regionalRailData[name] = data;
     }
   });
 }
