@@ -1,0 +1,92 @@
+[
+  {
+    "stop_lon": "-75.1816667",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "30th Street Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9566667",
+    "stop_id": "90004",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1677778",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Suburban Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9538889",
+    "stop_id": "90005",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1580556",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Jefferson Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9525",
+    "stop_id": "90006",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1494444",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Temple University",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9813889",
+    "stop_id": "90007",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.2397222",
+    "stop_desc": "Airport Line",
+    "stop_name": "Airport Terminal E F",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.8794444",
+    "stop_id": "90401",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.24",
+    "stop_desc": "Airport Line",
+    "stop_name": "Airport Terminal C D",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.8780556",
+    "stop_id": "90402",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.2413889",
+    "stop_desc": "Airport Line",
+    "stop_name": "Airport Terminal B",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.8772222",
+    "stop_id": "90403",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.2452778",
+    "stop_desc": "Airport Line",
+    "stop_name": "Airport Terminal A",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.8761111",
+    "stop_id": "90404",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.2438889",
+    "stop_desc": "Airport Line",
+    "stop_name": "Eastwick",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.8927778",
+    "stop_id": "90405",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.1902778",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "University City",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9480556",
+    "stop_id": "90406",
+    "zone_id": "C"
+  }
+]

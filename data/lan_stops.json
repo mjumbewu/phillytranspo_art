@@ -1,0 +1,245 @@
+[
+  {
+    "stop_lon": "-75.1816667",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "30th Street Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9566667",
+    "stop_id": "90004",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1677778",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Suburban Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9538889",
+    "stop_id": "90005",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1580556",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Jefferson Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9525",
+    "stop_id": "90006",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1494444",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Temple University",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9813889",
+    "stop_id": "90007",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1538889",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "North Broad",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9922222",
+    "stop_id": "90008",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.16",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "Wayne Junction",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0222222",
+    "stop_id": "90009",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.1347222",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "Fern Rock T C",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.0405556",
+    "stop_id": "90407",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.1291667",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "Melrose Park",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.0594444",
+    "stop_id": "90408",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.1277778",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "Elkins Park",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0713889",
+    "stop_id": "90409",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.1375",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "Jenkintown Wyncote",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0927778",
+    "stop_id": "90410",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.1536111",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "Glenside",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.1013889",
+    "stop_id": "90411",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.1694444",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "North Hills",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.1119444",
+    "stop_id": "90523",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.1838889",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Oreland",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.1183333",
+    "stop_id": "90524",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.2122222",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Fort Washington",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.1358333",
+    "stop_id": "90525",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.2247222",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Ambler",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.1536111",
+    "stop_id": "90526",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.2441667",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Penllyn",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.17",
+    "stop_id": "90527",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.2569444",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Gwynedd Valley",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.1847222",
+    "stop_id": "90528",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.2772222",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "North Wales",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.2141667",
+    "stop_id": "90529",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.2816667",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Pennbrook",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.2302778",
+    "stop_id": "90530",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.285",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Lansdale",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.2427778",
+    "stop_id": "90531",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.2661111",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Fortuna",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.2594444",
+    "stop_id": "90532",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.2544444",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Colmar",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.2683333",
+    "stop_id": "90533",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.2466667",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Link Belt",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.2738889",
+    "stop_id": "90534",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.2097222",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Chalfont",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.2877778",
+    "stop_id": "90535",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.1797222",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "New Britain",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.2975",
+    "stop_id": "90536",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.1616667",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Delaware Valley College",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.2972222",
+    "stop_id": "90537",
+    "zone_id": "4"
+  },
+  {
+    "stop_lon": "-75.1302778",
+    "stop_desc": "Lansdale Doylestown Line",
+    "stop_name": "Doylestown",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.3063889",
+    "stop_id": "90538",
+    "zone_id": "4"
+  }
+]

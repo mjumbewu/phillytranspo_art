@@ -1,0 +1,128 @@
+[
+  {
+    "stop_lon": "-75.1816667",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "30th Street Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9566667",
+    "stop_id": "90004",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1677778",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Suburban Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9538889",
+    "stop_id": "90005",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1580556",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Jefferson Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9525",
+    "stop_id": "90006",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1494444",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Temple University",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9813889",
+    "stop_id": "90007",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.2083333",
+    "stop_desc": "Chestnut Hill West Line",
+    "stop_name": "Chestnut Hill West",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.0763889",
+    "stop_id": "90801",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2111111",
+    "stop_desc": "Chestnut Hill West Line",
+    "stop_name": "Highland",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0705556",
+    "stop_id": "90802",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2044444",
+    "stop_desc": "Chestnut Hill West Line",
+    "stop_name": "St. Martins",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0658333",
+    "stop_id": "90803",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.1947222",
+    "stop_desc": "Chestnut Hill West Line",
+    "stop_name": "Allen Lane",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.0575",
+    "stop_id": "90804",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.1913889",
+    "stop_desc": "Chestnut Hill West Line",
+    "stop_name": "Carpenter",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0511111",
+    "stop_id": "90805",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.19",
+    "stop_desc": "Chestnut Hill West Line",
+    "stop_name": "Upsal",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0425",
+    "stop_id": "90806",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.1869444",
+    "stop_desc": "Chestnut Hill West Line",
+    "stop_name": "Tulpehocken",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0352778",
+    "stop_id": "90807",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.1808333",
+    "stop_desc": "Chestnut Hill West Line",
+    "stop_name": "Chelten Avenue",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.03",
+    "stop_id": "90808",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.1780556",
+    "stop_desc": "Chestnut Hill West Line",
+    "stop_name": "Queen Lane",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.0233333",
+    "stop_id": "90809",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.1563889",
+    "stop_desc": "Chestnut Hill West Line",
+    "stop_name": "North Philadelphia",
+    "wheelchair_boarding": "0",
+    "stop_lat": "39.9977778",
+    "stop_id": "90810",
+    "zone_id": "1"
+  }
+]

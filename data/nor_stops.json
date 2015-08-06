@@ -1,0 +1,155 @@
+[
+  {
+    "stop_lon": "-75.1816667",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "30th Street Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9566667",
+    "stop_id": "90004",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1677778",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Suburban Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9538889",
+    "stop_id": "90005",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1580556",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Jefferson Station",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9525",
+    "stop_id": "90006",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1494444",
+    "stop_desc": "All Regional Rail Lines",
+    "stop_name": "Temple University",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9813889",
+    "stop_id": "90007",
+    "zone_id": "C"
+  },
+  {
+    "stop_lon": "-75.1538889",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "North Broad",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9922222",
+    "stop_id": "90008",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.1647222",
+    "stop_desc": "Manayunk Norristown Line",
+    "stop_name": "Allegheny",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0036111",
+    "stop_id": "90218",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.1919444",
+    "stop_desc": "Manayunk Norristown Line",
+    "stop_name": "East Falls",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0113889",
+    "stop_id": "90219",
+    "zone_id": "1"
+  },
+  {
+    "stop_lon": "-75.2102778",
+    "stop_desc": "Manayunk Norristown Line",
+    "stop_name": "Wissahickon",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0166667",
+    "stop_id": "90220",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.225",
+    "stop_desc": "Manayunk Norristown Line",
+    "stop_name": "Manayunk",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0269444",
+    "stop_id": "90221",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2355556",
+    "stop_desc": "Manayunk Norristown Line",
+    "stop_name": "Ivy Ridge",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0341667",
+    "stop_id": "90222",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2663889",
+    "stop_desc": "Manayunk Norristown Line",
+    "stop_name": "Miquon",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0586111",
+    "stop_id": "90223",
+    "zone_id": "2"
+  },
+  {
+    "stop_lon": "-75.2861111",
+    "stop_desc": "Manayunk Norristown Line",
+    "stop_name": "Spring Mill",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.0741667",
+    "stop_id": "90224",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.3086111",
+    "stop_desc": "Manayunk Norristown Line",
+    "stop_name": "Conshohocken",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.0722222",
+    "stop_id": "90225",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.3441667",
+    "stop_desc": "Manayunk Norristown Line",
+    "stop_name": "Norristown T.C.",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.1127778",
+    "stop_id": "90226",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.3486111",
+    "stop_desc": "Manayunk Norristown Line",
+    "stop_name": "Main Street",
+    "wheelchair_boarding": "0",
+    "stop_lat": "40.1172222",
+    "stop_id": "90227",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.3475",
+    "stop_desc": "Manayunk Norristown Line",
+    "stop_name": "Norristown Elm Street",
+    "wheelchair_boarding": "1",
+    "stop_lat": "40.1202778",
+    "stop_id": "90228",
+    "zone_id": "3"
+  },
+  {
+    "stop_lon": "-75.1902778",
+    "stop_desc": "Multiple Lines",
+    "stop_name": "University City",
+    "wheelchair_boarding": "1",
+    "stop_lat": "39.9480556",
+    "stop_id": "90406",
+    "zone_id": "C"
+  }
+]
