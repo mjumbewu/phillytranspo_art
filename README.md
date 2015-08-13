@@ -22,3 +22,8 @@ To view the piece on your local machine, you have to have a local server running
     python -m SimpleHTTPServer
 
 By default, this will start a server on port 8000 (you can specify a different port as a parameter if you want). Open `http://localhost:8000` in a Chrome or Firefox.
+
+Windows & Git Bash Notes
+In the Git Bash terminal, navigate to the project folder and use the command:
+
+	python -m http.server 8000
