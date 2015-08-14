@@ -1,0 +1,522 @@
+[
+  {
+    "wheelchair_boarding": "1",
+    "zone_id": "3",
+    "location_type": "",
+    "stop_lon": "-75.258296",
+    "stop_name": "69th St Transportation Center South Terminal",
+    "stop_id": "1148",
+    "parent_station": "31034",
+    "stop_lat": "39.962052"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.326721",
+    "stop_name": "Rolling Rd & Scenic Rd",
+    "stop_id": "1942",
+    "parent_station": "",
+    "stop_lat": "39.941056"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.393998",
+    "stop_name": "Orange St Station - MBNS",
+    "stop_id": "1948",
+    "parent_station": "",
+    "stop_lat": "39.918478"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.350731",
+    "stop_name": "Springfield Mall - east",
+    "stop_id": "2047",
+    "parent_station": "",
+    "stop_lat": "39.914013"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.292777",
+    "stop_name": "Garrett Rd & Shadeland Av - FS",
+    "stop_id": "14861",
+    "parent_station": "",
+    "stop_lat": "39.946494"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.292588",
+    "stop_name": "Garrett Rd & Shadeland Av",
+    "stop_id": "14866",
+    "parent_station": "",
+    "stop_lat": "39.946414"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.314014",
+    "stop_name": "State Rd & Anderson Av",
+    "stop_id": "15056",
+    "parent_station": "",
+    "stop_lat": "39.949836"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.317121",
+    "stop_name": "State Rd & Stanbridge Rd",
+    "stop_id": "15057",
+    "parent_station": "",
+    "stop_lat": "39.948946"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.31418",
+    "stop_name": "State Rd & Anderson Av",
+    "stop_id": "15115",
+    "parent_station": "",
+    "stop_lat": "39.94963"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.324258",
+    "stop_name": "State Rd & Township Line Rd - MBNS",
+    "stop_id": "18977",
+    "parent_station": "",
+    "stop_lat": "39.946275"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.323443",
+    "stop_name": "State Rd & Township Line Rd - MBFS",
+    "stop_id": "18986",
+    "parent_station": "",
+    "stop_lat": "39.946301"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.378916",
+    "stop_name": "Baltimore Pk & Beatty Rd",
+    "stop_id": "20042",
+    "parent_station": "",
+    "stop_lat": "39.91501"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.372885",
+    "stop_name": "Baltimore Pk & Grandview Rd",
+    "stop_id": "20044",
+    "parent_station": "",
+    "stop_lat": "39.913972"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.372566",
+    "stop_name": "Baltimore Pike & Grandview Rd",
+    "stop_id": "20071",
+    "parent_station": "",
+    "stop_lat": "39.914079"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.263733",
+    "stop_name": "Garrett Rd & Chestnut St",
+    "stop_id": "30256",
+    "parent_station": "",
+    "stop_lat": "39.960078"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.28643",
+    "stop_name": "Garrett Rd & Fairfax Rd",
+    "stop_id": "30257",
+    "parent_station": "",
+    "stop_lat": "39.949495"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.288652",
+    "stop_name": "Garrett Rd & Irvington Rd",
+    "stop_id": "30258",
+    "parent_station": "",
+    "stop_lat": "39.948444"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.330815",
+    "stop_name": "Rolling Rd & Springfield Rd",
+    "stop_id": "30259",
+    "parent_station": "",
+    "stop_lat": "39.934758"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.33381",
+    "stop_name": "Saxer Av & Rolling Rd",
+    "stop_id": "30260",
+    "parent_station": "",
+    "stop_lat": "39.928968"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.288723",
+    "stop_name": "Garrett Rd & Irvington Rd",
+    "stop_id": "30262",
+    "parent_station": "",
+    "stop_lat": "39.948257"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.28649",
+    "stop_name": "Garrett Rd & Fairfax Rd",
+    "stop_id": "30263",
+    "parent_station": "",
+    "stop_lat": "39.949307"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.279066",
+    "stop_name": "Garrett Rd & Congress Av",
+    "stop_id": "30264",
+    "parent_station": "",
+    "stop_lat": "39.952824"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.273759",
+    "stop_name": "Garrett Rd & Beverly Blvd",
+    "stop_id": "30265",
+    "parent_station": "",
+    "stop_lat": "39.955254"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.269006",
+    "stop_name": "Garrett Rd & Avon Rd",
+    "stop_id": "30267",
+    "parent_station": "",
+    "stop_lat": "39.957443"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.266465",
+    "stop_name": "Garrett Rd & Walnut St",
+    "stop_id": "30268",
+    "parent_station": "",
+    "stop_lat": "39.958681"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.263722",
+    "stop_name": "Garrett Rd & Chestnut St",
+    "stop_id": "30269",
+    "parent_station": "",
+    "stop_lat": "39.959944"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.3003",
+    "stop_name": "Burmont Rd & Huey Av",
+    "stop_id": "30315",
+    "parent_station": "",
+    "stop_lat": "39.946047"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.302494",
+    "stop_name": "Burmont Rd & School Ln",
+    "stop_id": "30316",
+    "parent_station": "",
+    "stop_lat": "39.947227"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.302765",
+    "stop_name": "Burmont Rd & School Ln",
+    "stop_id": "30317",
+    "parent_station": "",
+    "stop_lat": "39.947174"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.300607",
+    "stop_name": "Burmont Rd & Huey Av",
+    "stop_id": "30318",
+    "parent_station": "",
+    "stop_lat": "39.946012"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.28214",
+    "stop_name": "Garrett Rd & Lansdowne Av",
+    "stop_id": "30386",
+    "parent_station": "",
+    "stop_lat": "39.9514"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.350743",
+    "stop_name": "Springfield Mall - west",
+    "stop_id": "30416",
+    "parent_station": "",
+    "stop_lat": "39.914094"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.282269",
+    "stop_name": "Garrett Rd & Lansdowne Av - FS",
+    "stop_id": "31150",
+    "parent_station": "",
+    "stop_lat": "39.95148"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.266346",
+    "stop_name": "Garrett Rd & Walnut St",
+    "stop_id": "32224",
+    "parent_station": "",
+    "stop_lat": "39.958859"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.268935",
+    "stop_name": "Garrett Rd & Avon St",
+    "stop_id": "32225",
+    "parent_station": "",
+    "stop_lat": "39.957631"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.273794",
+    "stop_name": "Garrett Rd & Beverly Blvd",
+    "stop_id": "32226",
+    "parent_station": "",
+    "stop_lat": "39.955459"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.279031",
+    "stop_name": "Garrett Rd & Congress Av",
+    "stop_id": "32227",
+    "parent_station": "",
+    "stop_lat": "39.952976"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.306198",
+    "stop_name": "Burmont Rd & Morgan Av",
+    "stop_id": "32228",
+    "parent_station": "",
+    "stop_lat": "39.949159"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.33752",
+    "stop_name": "Rolling Rd & Leamy Av",
+    "stop_id": "32229",
+    "parent_station": "",
+    "stop_lat": "39.926463"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.340001",
+    "stop_name": "Woodland Av & Woodland Av Stn",
+    "stop_id": "32230",
+    "parent_station": "",
+    "stop_lat": "39.924627"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.345176",
+    "stop_name": "Thomson Av & Thomson Av Stn",
+    "stop_id": "32231",
+    "parent_station": "",
+    "stop_lat": "39.921283"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.378514",
+    "stop_name": "Baltimore Pk & Beatty Rd",
+    "stop_id": "32232",
+    "parent_station": "",
+    "stop_lat": "39.915054"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.381287",
+    "stop_name": "State St & Providence Rd - FS",
+    "stop_id": "32233",
+    "parent_station": "",
+    "stop_lat": "39.91684"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.381181",
+    "stop_name": "State St & Providence Rd",
+    "stop_id": "32234",
+    "parent_station": "",
+    "stop_lat": "39.916715"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.345247",
+    "stop_name": "Thompson Av & Thompson Av Stn - FS",
+    "stop_id": "32235",
+    "parent_station": "",
+    "stop_lat": "39.921167"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.339671",
+    "stop_name": "Woodland Av & Woodland Av Stn",
+    "stop_id": "32236",
+    "parent_station": "",
+    "stop_lat": "39.924555"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.337343",
+    "stop_name": "Rolling Rd & Leamy Av - FS",
+    "stop_id": "32237",
+    "parent_station": "",
+    "stop_lat": "39.926365"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.333775",
+    "stop_name": "Rolling Rd & Saxer Av",
+    "stop_id": "32238",
+    "parent_station": "",
+    "stop_lat": "39.928763"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.329989",
+    "stop_name": "Windsor Cir & Springfield Rd - FS",
+    "stop_id": "32239",
+    "parent_station": "",
+    "stop_lat": "39.934597"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.326698",
+    "stop_name": "Rolling Rd & Scenic Rd",
+    "stop_id": "32240",
+    "parent_station": "",
+    "stop_lat": "39.940841"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.317263",
+    "stop_name": "State Rd & Stanbridge Rd",
+    "stop_id": "32241",
+    "parent_station": "",
+    "stop_lat": "39.948767"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.306564",
+    "stop_name": "Burmont Rd & Morgan Av",
+    "stop_id": "32242",
+    "parent_station": "",
+    "stop_lat": "39.949239"
+  }
+]
