@@ -1,1212 +1,1212 @@
 [
   {
-    "stop_lat": "39.984253", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.099458", 
-    "stop_id": "341", 
-    "parent_station": "", 
-    "stop_name": "Richmond St & Westmoreland St Loop", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.968903", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.136075", 
-    "stop_id": "342", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Front St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971499", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.159275", 
-    "stop_id": "343", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Broad St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974159", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.204543", 
-    "stop_id": "344", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 40th St - FS", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970224", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.237334", 
-    "stop_id": "345", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 59th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970099", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.237523", 
-    "stop_id": "349", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 59th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974043", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.204531", 
-    "stop_id": "350", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 40th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971428", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.159594", 
-    "stop_id": "352", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Broad St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.968774", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.134351", 
-    "stop_id": "481", 
-    "parent_station": "", 
-    "stop_name": "Frankford Av & Girard Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.97654", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.1198", 
-    "stop_id": "650", 
-    "parent_station": "", 
-    "stop_name": "Aramingo St & Cumberland St - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.975552", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.120832", 
-    "stop_id": "1133", 
-    "parent_station": "", 
-    "stop_name": "Aramingo Av & Moyer St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.986264", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.104258", 
-    "stop_id": "4358", 
-    "parent_station": "", 
-    "stop_name": "Allegheny Av & Belgrade St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.983071", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.101401", 
-    "stop_id": "12196", 
-    "parent_station": "", 
-    "stop_name": "Richmond St & Allegheny Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.983331", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.101873", 
-    "stop_id": "15044", 
-    "parent_station": "", 
-    "stop_name": "Allegheny Av & Emery St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974093", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.122682", 
-    "stop_id": "17788", 
-    "parent_station": "", 
-    "stop_name": "Aramingo Av & Norris St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.968851", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.136358", 
-    "stop_id": "20978", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Front St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.985111", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.106768", 
-    "stop_id": "20979", 
-    "parent_station": "", 
-    "stop_name": "Belgrade St & Clearfield St - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.984045", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.108804", 
-    "stop_id": "20980", 
-    "parent_station": "", 
-    "stop_name": "Belgrade St & Indiana Av - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.982979", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.110829", 
-    "stop_id": "20981", 
-    "parent_station": "", 
-    "stop_name": "Belgrade St & Birch St - FS detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.98242", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.111907", 
-    "stop_id": "20982", 
-    "parent_station": "", 
-    "stop_name": "Belgrade St & Cambria St - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.980217", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.116099", 
-    "stop_id": "20983", 
-    "parent_station": "", 
-    "stop_name": "Belgrade St & Lehigh Av - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.978653", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.118799", 
-    "stop_id": "20984", 
-    "parent_station": "", 
-    "stop_name": "Belgrade St & Huntingdon St - FS detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971869", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.125833", 
-    "stop_id": "20986", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Berks St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970983", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.1284", 
-    "stop_id": "20988", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Palmer St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970265", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.130423", 
-    "stop_id": "20989", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Columbia Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.9695", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.13945", 
-    "stop_id": "20993", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 2nd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.969799", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.141386", 
-    "stop_id": "20994", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 3rd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.96999", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.142968", 
-    "stop_id": "20995", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 4th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970218", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.144905", 
-    "stop_id": "20996", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 5th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970484", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.148022", 
-    "stop_id": "20998", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 7th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970568", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.149853", 
-    "stop_id": "20999", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 8th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970845", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.154021", 
-    "stop_id": "21001", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 11th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971045", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.155603", 
-    "stop_id": "21002", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 12th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971908", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.162605", 
-    "stop_id": "21005", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 16th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972116", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.164151", 
-    "stop_id": "21006", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 17th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.97238", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.166217", 
-    "stop_id": "21008", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Ridge Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972715", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.168874", 
-    "stop_id": "21009", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 20th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972888", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.17022", 
-    "stop_id": "21010", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Corinthian Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972492", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.177403", 
-    "stop_id": "21014", 
-    "parent_station": "", 
-    "stop_name": "Poplar St & 25th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.973976", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.178733", 
-    "stop_id": "21016", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 26th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974202", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.18028", 
-    "stop_id": "21017", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 27th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974375", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.181756", 
-    "stop_id": "21018", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 28th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974574", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.183361", 
-    "stop_id": "21019", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 29th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.975009", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.186549", 
-    "stop_id": "21021", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 31st St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.975199", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.188002", 
-    "stop_id": "21022", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 33rd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974511", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.201683", 
-    "stop_id": "21025", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 39th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.973966", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.206268", 
-    "stop_id": "21026", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 41st St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.973658", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.208797", 
-    "stop_id": "21027", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 42nd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.973315", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.212094", 
-    "stop_id": "21028", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Belmont Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972917", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.219064", 
-    "stop_id": "21030", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 49th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971987", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.223438", 
-    "stop_id": "21032", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 51st St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971473", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.22579", 
-    "stop_id": "21033", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 52nd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971165", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.228614", 
-    "stop_id": "21035", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 54th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970761", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.232477", 
-    "stop_id": "21037", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 56th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970585", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.234096", 
-    "stop_id": "21038", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 57th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970039", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.238988", 
-    "stop_id": "21040", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 60th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970899", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.240781", 
-    "stop_id": "21041", 
-    "parent_station": "", 
-    "stop_name": "Haverford Av & 61st St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971642", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.242704", 
-    "stop_id": "21042", 
-    "parent_station": "", 
-    "stop_name": "Haverford Av & 62nd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970226", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.244598", 
-    "stop_id": "21044", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Felton St - MBNS", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.969801", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.241221", 
-    "stop_id": "21047", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 61st St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.969897", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.239366", 
-    "stop_id": "21048", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 60th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.97046", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.234285", 
-    "stop_id": "21050", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 57th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970636", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.232667", 
-    "stop_id": "21051", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 56th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971041", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.228803", 
-    "stop_id": "21053", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 54th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971357", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.225908", 
-    "stop_id": "21055", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 52nd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971845", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.223745", 
-    "stop_id": "21056", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 51st St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972978", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.218521", 
-    "stop_id": "21058", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Lancaster Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.973208", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.211964", 
-    "stop_id": "21060", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Belmont Av - FS", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.973542", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.208975", 
-    "stop_id": "21061", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 42nd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.973823", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.206528", 
-    "stop_id": "21062", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 41st St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974297", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.201802", 
-    "stop_id": "21063", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 39th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974938", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.18675", 
-    "stop_id": "21067", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 31st St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974486", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.183622", 
-    "stop_id": "21068", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 29th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974286", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.181969", 
-    "stop_id": "21069", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 28th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974113", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.180504", 
-    "stop_id": "21070", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 27th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.973896", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.178946", 
-    "stop_id": "21071", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 26th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972701", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.179198", 
-    "stop_id": "21072", 
-    "parent_station": "", 
-    "stop_name": "26th St & Poplar St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.97244", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.178171", 
-    "stop_id": "21073", 
-    "parent_station": "", 
-    "stop_name": "Poplar St & Stillman St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.97239", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.175384", 
-    "stop_id": "21075", 
-    "parent_station": "", 
-    "stop_name": "College Av & 24th St - FS", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972817", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.170421", 
-    "stop_id": "21078", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Corinthian Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972636", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.169087", 
-    "stop_id": "21079", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 20th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972427", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.16754", 
-    "stop_id": "21080", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 19th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972309", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.166572", 
-    "stop_id": "21081", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Ridge Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972028", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.164352", 
-    "stop_id": "21082", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 17th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971828", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.162806", 
-    "stop_id": "21083", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 16th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970965", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.155816", 
-    "stop_id": "21086", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 12th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970756", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.154222", 
-    "stop_id": "21087", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 11th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.97047", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.150042", 
-    "stop_id": "21090", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 8th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970386", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.148211", 
-    "stop_id": "21091", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 7th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970129", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.145094", 
-    "stop_id": "21093", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 5th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.969711", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.141599", 
-    "stop_id": "21095", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 3rd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.969439", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.139805", 
-    "stop_id": "21096", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 2nd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970122", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.130542", 
-    "stop_id": "21100", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Columbia Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.97084", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.128519", 
-    "stop_id": "21101", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Palmer St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971709", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.125999", 
-    "stop_id": "21103", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Berks St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.977185", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.117305", 
-    "stop_id": "21107", 
-    "parent_station": "", 
-    "stop_name": "Richmond St & Huntingdon St - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.978473", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.114842", 
-    "stop_id": "21108", 
-    "parent_station": "", 
-    "stop_name": "Richmond St & Lehigh Avt - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.979726", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.112439", 
-    "stop_id": "21109", 
-    "parent_station": "", 
-    "stop_name": "Richmond St & Somerset St - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.98112", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.109833", 
-    "stop_id": "21110", 
-    "parent_station": "", 
-    "stop_name": "Richmond St & Monmouth St - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.9816", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.10891", 
-    "stop_id": "21111", 
-    "parent_station": "", 
-    "stop_name": "Richmond St & Ann St - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.982541", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.107027", 
-    "stop_id": "21112", 
-    "parent_station": "", 
-    "stop_name": "Richmond St & Elkhart St - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.983776", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.104718", 
-    "stop_id": "21113", 
-    "parent_station": "", 
-    "stop_name": "Richmond St & Clementine St - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.984601", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.103072", 
-    "stop_id": "21114", 
-    "parent_station": "", 
-    "stop_name": "Richmond St & Allegheny Av - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.971895", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.244641", 
-    "stop_id": "21481", 
-    "parent_station": "", 
-    "stop_name": "Haverford Av & 63rd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.975462", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.120762", 
-    "stop_id": "22033", 
-    "parent_station": "", 
-    "stop_name": "Aramingo Av & York St - FS", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.966008", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.134338", 
-    "stop_id": "23992", 
-    "parent_station": "", 
-    "stop_name": "Frankford Av & Richmond St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.966124", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.134492", 
-    "stop_id": "24038", 
-    "parent_station": "", 
-    "stop_name": "Frankford Av & Richmond St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.964812", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.134485", 
-    "stop_id": "24039", 
-    "parent_station": "", 
-    "stop_name": "Frankford Av & Delaware Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972507", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.167339", 
-    "stop_id": "30290", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 19th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.975126", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.196472", 
-    "stop_id": "30291", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 34th St - MBFS", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.974841", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.196733", 
-    "stop_id": "30292", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 34th St - MBNS", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972814", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.216277", 
-    "stop_id": "30550", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Merion Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972725", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.216431", 
-    "stop_id": "30605", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & Merion Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.972453", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.175844", 
-    "stop_id": "30791", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 24th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.984708", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.102882", 
-    "stop_id": "30799", 
-    "parent_station": "", 
-    "stop_name": "Allegheny Av & Thompson St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.965205", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.134342", 
-    "stop_id": "31289", 
-    "parent_station": "", 
-    "stop_name": "Frankford Av & Delaware Av - FS", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.964936", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.134178", 
-    "stop_id": "31347", 
-    "parent_station": "", 
-    "stop_name": "Delaware Av & Frankford Av Loop", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.970063", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.243216", 
-    "stop_id": "31443", 
-    "parent_station": "", 
-    "stop_name": "Girard Av & 62nd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.96865", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.134493", 
-    "stop_id": "31540", 
-    "parent_station": "", 
-    "stop_name": "Frankford Av & Girard Av - FS", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.981487", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "0", 
-    "stop_lon": "-75.113671", 
-    "stop_id": "31795", 
-    "parent_station": "", 
-    "stop_name": "Belgrade St & Somerset St - detour", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.975986", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "0", 
-    "stop_lon": "-75.11959", 
-    "stop_id": "31796", 
-    "parent_station": "", 
-    "stop_name": "Thompson St & Cumberland St - detour", 
-    "location_type": ""
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.099458",
+    "stop_name": "Richmond St & Westmoreland St Loop",
+    "stop_id": "341",
+    "parent_station": "",
+    "stop_lat": "39.984253"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.136075",
+    "stop_name": "Girard Av & Front St",
+    "stop_id": "342",
+    "parent_station": "",
+    "stop_lat": "39.968903"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.159275",
+    "stop_name": "Girard Av & Broad St",
+    "stop_id": "343",
+    "parent_station": "",
+    "stop_lat": "39.971499"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.204543",
+    "stop_name": "Girard Av & 40th St - FS",
+    "stop_id": "344",
+    "parent_station": "",
+    "stop_lat": "39.974159"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.237334",
+    "stop_name": "Girard Av & 59th St",
+    "stop_id": "345",
+    "parent_station": "",
+    "stop_lat": "39.970224"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.237523",
+    "stop_name": "Girard Av & 59th St",
+    "stop_id": "349",
+    "parent_station": "",
+    "stop_lat": "39.970099"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.204531",
+    "stop_name": "Girard Av & 40th St",
+    "stop_id": "350",
+    "parent_station": "",
+    "stop_lat": "39.974043"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.159594",
+    "stop_name": "Girard Av & Broad St",
+    "stop_id": "352",
+    "parent_station": "",
+    "stop_lat": "39.971428"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.134351",
+    "stop_name": "Frankford Av & Girard Av",
+    "stop_id": "481",
+    "parent_station": "",
+    "stop_lat": "39.968774"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.1198",
+    "stop_name": "Aramingo St & Cumberland St - detour",
+    "stop_id": "650",
+    "parent_station": "",
+    "stop_lat": "39.97654"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.120832",
+    "stop_name": "Aramingo Av & Moyer St",
+    "stop_id": "1133",
+    "parent_station": "",
+    "stop_lat": "39.975552"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.104258",
+    "stop_name": "Allegheny Av & Belgrade St",
+    "stop_id": "4358",
+    "parent_station": "",
+    "stop_lat": "39.986264"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.101401",
+    "stop_name": "Richmond St & Allegheny Av",
+    "stop_id": "12196",
+    "parent_station": "",
+    "stop_lat": "39.983071"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.101873",
+    "stop_name": "Allegheny Av & Emery St",
+    "stop_id": "15044",
+    "parent_station": "",
+    "stop_lat": "39.983331"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.122682",
+    "stop_name": "Aramingo Av & Norris St ",
+    "stop_id": "17788",
+    "parent_station": "",
+    "stop_lat": "39.974093"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.136358",
+    "stop_name": "Girard Av & Front St",
+    "stop_id": "20978",
+    "parent_station": "",
+    "stop_lat": "39.968851"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.106768",
+    "stop_name": "Belgrade St & Clearfield St - detour",
+    "stop_id": "20979",
+    "parent_station": "",
+    "stop_lat": "39.985111"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.108804",
+    "stop_name": "Belgrade St & Indiana Av - detour",
+    "stop_id": "20980",
+    "parent_station": "",
+    "stop_lat": "39.984045"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.110829",
+    "stop_name": "Belgrade St & Birch St - FS detour",
+    "stop_id": "20981",
+    "parent_station": "",
+    "stop_lat": "39.982979"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.111907",
+    "stop_name": "Belgrade St & Cambria St - detour",
+    "stop_id": "20982",
+    "parent_station": "",
+    "stop_lat": "39.98242"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.116099",
+    "stop_name": "Belgrade St & Lehigh Av - detour",
+    "stop_id": "20983",
+    "parent_station": "",
+    "stop_lat": "39.980217"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.118799",
+    "stop_name": "Belgrade St & Huntingdon St - FS detour",
+    "stop_id": "20984",
+    "parent_station": "",
+    "stop_lat": "39.978653"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.125833",
+    "stop_name": "Girard Av & Berks St",
+    "stop_id": "20986",
+    "parent_station": "",
+    "stop_lat": "39.971869"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.1284",
+    "stop_name": "Girard Av & Palmer St",
+    "stop_id": "20988",
+    "parent_station": "",
+    "stop_lat": "39.970983"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.130423",
+    "stop_name": "Girard Av & Columbia Av",
+    "stop_id": "20989",
+    "parent_station": "",
+    "stop_lat": "39.970265"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.13945",
+    "stop_name": "Girard Av & 2nd St",
+    "stop_id": "20993",
+    "parent_station": "",
+    "stop_lat": "39.9695"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.141386",
+    "stop_name": "Girard Av & 3rd St",
+    "stop_id": "20994",
+    "parent_station": "",
+    "stop_lat": "39.969799"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.142968",
+    "stop_name": "Girard Av & 4th St",
+    "stop_id": "20995",
+    "parent_station": "",
+    "stop_lat": "39.96999"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.144905",
+    "stop_name": "Girard Av & 5th St",
+    "stop_id": "20996",
+    "parent_station": "",
+    "stop_lat": "39.970218"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.148022",
+    "stop_name": "Girard Av & 7th St",
+    "stop_id": "20998",
+    "parent_station": "",
+    "stop_lat": "39.970484"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.149853",
+    "stop_name": "Girard Av & 8th St",
+    "stop_id": "20999",
+    "parent_station": "",
+    "stop_lat": "39.970568"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.154021",
+    "stop_name": "Girard Av & 11th St",
+    "stop_id": "21001",
+    "parent_station": "",
+    "stop_lat": "39.970845"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.155603",
+    "stop_name": "Girard Av & 12th St",
+    "stop_id": "21002",
+    "parent_station": "",
+    "stop_lat": "39.971045"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.162605",
+    "stop_name": "Girard Av & 16th St",
+    "stop_id": "21005",
+    "parent_station": "",
+    "stop_lat": "39.971908"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.164151",
+    "stop_name": "Girard Av & 17th St",
+    "stop_id": "21006",
+    "parent_station": "",
+    "stop_lat": "39.972116"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.166217",
+    "stop_name": "Girard Av & Ridge Av",
+    "stop_id": "21008",
+    "parent_station": "",
+    "stop_lat": "39.97238"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.168874",
+    "stop_name": "Girard Av & 20th St",
+    "stop_id": "21009",
+    "parent_station": "",
+    "stop_lat": "39.972715"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.17022",
+    "stop_name": "Girard Av & Corinthian Av",
+    "stop_id": "21010",
+    "parent_station": "",
+    "stop_lat": "39.972888"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.177403",
+    "stop_name": "Poplar St & 25th St",
+    "stop_id": "21014",
+    "parent_station": "",
+    "stop_lat": "39.972492"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.178733",
+    "stop_name": "Girard Av & 26th St ",
+    "stop_id": "21016",
+    "parent_station": "",
+    "stop_lat": "39.973976"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.18028",
+    "stop_name": "Girard Av & 27th St",
+    "stop_id": "21017",
+    "parent_station": "",
+    "stop_lat": "39.974202"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.181756",
+    "stop_name": "Girard Av & 28th St",
+    "stop_id": "21018",
+    "parent_station": "",
+    "stop_lat": "39.974375"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.183361",
+    "stop_name": "Girard Av & 29th St",
+    "stop_id": "21019",
+    "parent_station": "",
+    "stop_lat": "39.974574"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.186549",
+    "stop_name": "Girard Av & 31st St",
+    "stop_id": "21021",
+    "parent_station": "",
+    "stop_lat": "39.975009"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.188002",
+    "stop_name": "Girard Av & 33rd St",
+    "stop_id": "21022",
+    "parent_station": "",
+    "stop_lat": "39.975199"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.201683",
+    "stop_name": "Girard Av & 39th St",
+    "stop_id": "21025",
+    "parent_station": "",
+    "stop_lat": "39.974511"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.206268",
+    "stop_name": "Girard Av & 41st St",
+    "stop_id": "21026",
+    "parent_station": "",
+    "stop_lat": "39.973966"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.208797",
+    "stop_name": "Girard Av & 42nd St",
+    "stop_id": "21027",
+    "parent_station": "",
+    "stop_lat": "39.973658"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.212094",
+    "stop_name": "Girard Av & Belmont Av",
+    "stop_id": "21028",
+    "parent_station": "",
+    "stop_lat": "39.973315"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.219064",
+    "stop_name": "Girard Av & 49th St",
+    "stop_id": "21030",
+    "parent_station": "",
+    "stop_lat": "39.972917"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.223438",
+    "stop_name": "Girard Av & 51st St",
+    "stop_id": "21032",
+    "parent_station": "",
+    "stop_lat": "39.971987"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.22579",
+    "stop_name": "Girard Av & 52nd St",
+    "stop_id": "21033",
+    "parent_station": "",
+    "stop_lat": "39.971473"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.228614",
+    "stop_name": "Girard Av & 54th St",
+    "stop_id": "21035",
+    "parent_station": "",
+    "stop_lat": "39.971165"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.232477",
+    "stop_name": "Girard Av & 56th St",
+    "stop_id": "21037",
+    "parent_station": "",
+    "stop_lat": "39.970761"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.234096",
+    "stop_name": "Girard Av & 57th St",
+    "stop_id": "21038",
+    "parent_station": "",
+    "stop_lat": "39.970585"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.238988",
+    "stop_name": "Girard Av & 60th St",
+    "stop_id": "21040",
+    "parent_station": "",
+    "stop_lat": "39.970039"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.240781",
+    "stop_name": "Haverford Av & 61st St",
+    "stop_id": "21041",
+    "parent_station": "",
+    "stop_lat": "39.970899"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.242704",
+    "stop_name": "Haverford Av & 62nd St",
+    "stop_id": "21042",
+    "parent_station": "",
+    "stop_lat": "39.971642"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.244598",
+    "stop_name": "Girard Av & Felton St - MBNS",
+    "stop_id": "21044",
+    "parent_station": "",
+    "stop_lat": "39.970226"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.241221",
+    "stop_name": "Girard Av & 61st St",
+    "stop_id": "21047",
+    "parent_station": "",
+    "stop_lat": "39.969801"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.239366",
+    "stop_name": "Girard Av & 60th St",
+    "stop_id": "21048",
+    "parent_station": "",
+    "stop_lat": "39.969897"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.234285",
+    "stop_name": "Girard Av & 57th St",
+    "stop_id": "21050",
+    "parent_station": "",
+    "stop_lat": "39.97046"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.232667",
+    "stop_name": "Girard Av & 56th St",
+    "stop_id": "21051",
+    "parent_station": "",
+    "stop_lat": "39.970636"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.228803",
+    "stop_name": "Girard Av & 54th St",
+    "stop_id": "21053",
+    "parent_station": "",
+    "stop_lat": "39.971041"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.225908",
+    "stop_name": "Girard Av & 52nd St",
+    "stop_id": "21055",
+    "parent_station": "",
+    "stop_lat": "39.971357"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.223745",
+    "stop_name": "Girard Av & 51st St",
+    "stop_id": "21056",
+    "parent_station": "",
+    "stop_lat": "39.971845"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.218521",
+    "stop_name": "Girard Av & Lancaster Av",
+    "stop_id": "21058",
+    "parent_station": "",
+    "stop_lat": "39.972978"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.211964",
+    "stop_name": "Girard Av & Belmont Av - FS",
+    "stop_id": "21060",
+    "parent_station": "",
+    "stop_lat": "39.973208"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.208975",
+    "stop_name": "Girard Av & 42nd St",
+    "stop_id": "21061",
+    "parent_station": "",
+    "stop_lat": "39.973542"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.206528",
+    "stop_name": "Girard Av & 41st St",
+    "stop_id": "21062",
+    "parent_station": "",
+    "stop_lat": "39.973823"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.201802",
+    "stop_name": "Girard Av & 39th St",
+    "stop_id": "21063",
+    "parent_station": "",
+    "stop_lat": "39.974297"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.18675",
+    "stop_name": "Girard Av & 31st St",
+    "stop_id": "21067",
+    "parent_station": "",
+    "stop_lat": "39.974938"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.183622",
+    "stop_name": "Girard Av & 29th St",
+    "stop_id": "21068",
+    "parent_station": "",
+    "stop_lat": "39.974486"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.181969",
+    "stop_name": "Girard Av & 28th St",
+    "stop_id": "21069",
+    "parent_station": "",
+    "stop_lat": "39.974286"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.180504",
+    "stop_name": "Girard Av & 27th St",
+    "stop_id": "21070",
+    "parent_station": "",
+    "stop_lat": "39.974113"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.178946",
+    "stop_name": "Girard Av & 26th St",
+    "stop_id": "21071",
+    "parent_station": "",
+    "stop_lat": "39.973896"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.179198",
+    "stop_name": "26th St & Poplar St",
+    "stop_id": "21072",
+    "parent_station": "",
+    "stop_lat": "39.972701"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.178171",
+    "stop_name": "Poplar St & Stillman St",
+    "stop_id": "21073",
+    "parent_station": "",
+    "stop_lat": "39.97244"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.175384",
+    "stop_name": "College Av & 24th St - FS",
+    "stop_id": "21075",
+    "parent_station": "",
+    "stop_lat": "39.97239"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.170421",
+    "stop_name": "Girard Av & Corinthian Av",
+    "stop_id": "21078",
+    "parent_station": "",
+    "stop_lat": "39.972817"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.169087",
+    "stop_name": "Girard Av & 20th St",
+    "stop_id": "21079",
+    "parent_station": "",
+    "stop_lat": "39.972636"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.16754",
+    "stop_name": "Girard Av & 19th St",
+    "stop_id": "21080",
+    "parent_station": "",
+    "stop_lat": "39.972427"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.166572",
+    "stop_name": "Girard Av & Ridge Av",
+    "stop_id": "21081",
+    "parent_station": "",
+    "stop_lat": "39.972309"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.164352",
+    "stop_name": "Girard Av & 17th St",
+    "stop_id": "21082",
+    "parent_station": "",
+    "stop_lat": "39.972028"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.162806",
+    "stop_name": "Girard Av & 16th St",
+    "stop_id": "21083",
+    "parent_station": "",
+    "stop_lat": "39.971828"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.155816",
+    "stop_name": "Girard Av & 12th St",
+    "stop_id": "21086",
+    "parent_station": "",
+    "stop_lat": "39.970965"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.154222",
+    "stop_name": "Girard Av & 11th St",
+    "stop_id": "21087",
+    "parent_station": "",
+    "stop_lat": "39.970756"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.150042",
+    "stop_name": "Girard Av & 8th St",
+    "stop_id": "21090",
+    "parent_station": "",
+    "stop_lat": "39.97047"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.148211",
+    "stop_name": "Girard Av & 7th St",
+    "stop_id": "21091",
+    "parent_station": "",
+    "stop_lat": "39.970386"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.145094",
+    "stop_name": "Girard Av & 5th St",
+    "stop_id": "21093",
+    "parent_station": "",
+    "stop_lat": "39.970129"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.141599",
+    "stop_name": "Girard Av & 3rd St",
+    "stop_id": "21095",
+    "parent_station": "",
+    "stop_lat": "39.969711"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.139805",
+    "stop_name": "Girard Av & 2nd St",
+    "stop_id": "21096",
+    "parent_station": "",
+    "stop_lat": "39.969439"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.130542",
+    "stop_name": "Girard Av & Columbia Av",
+    "stop_id": "21100",
+    "parent_station": "",
+    "stop_lat": "39.970122"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.128519",
+    "stop_name": "Girard Av & Palmer St",
+    "stop_id": "21101",
+    "parent_station": "",
+    "stop_lat": "39.97084"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.125999",
+    "stop_name": "Girard Av & Berks St",
+    "stop_id": "21103",
+    "parent_station": "",
+    "stop_lat": "39.971709"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.117305",
+    "stop_name": "Richmond St & Huntingdon St - detour",
+    "stop_id": "21107",
+    "parent_station": "",
+    "stop_lat": "39.977185"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.114842",
+    "stop_name": "Richmond St & Lehigh Avt - detour",
+    "stop_id": "21108",
+    "parent_station": "",
+    "stop_lat": "39.978473"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.112439",
+    "stop_name": "Richmond St & Somerset St - detour",
+    "stop_id": "21109",
+    "parent_station": "",
+    "stop_lat": "39.979726"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.109833",
+    "stop_name": "Richmond St & Monmouth St - detour",
+    "stop_id": "21110",
+    "parent_station": "",
+    "stop_lat": "39.98112"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.10891",
+    "stop_name": "Richmond St & Ann St - detour",
+    "stop_id": "21111",
+    "parent_station": "",
+    "stop_lat": "39.9816"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.107027",
+    "stop_name": "Richmond St & Elkhart St - detour",
+    "stop_id": "21112",
+    "parent_station": "",
+    "stop_lat": "39.982541"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.104718",
+    "stop_name": "Richmond St & Clementine St - detour",
+    "stop_id": "21113",
+    "parent_station": "",
+    "stop_lat": "39.983776"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.103072",
+    "stop_name": "Richmond St & Allegheny Av - detour",
+    "stop_id": "21114",
+    "parent_station": "",
+    "stop_lat": "39.984601"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.244641",
+    "stop_name": "Haverford Av & 63rd St",
+    "stop_id": "21481",
+    "parent_station": "",
+    "stop_lat": "39.971895"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.120762",
+    "stop_name": "Aramingo Av & York St - FS",
+    "stop_id": "22033",
+    "parent_station": "",
+    "stop_lat": "39.975462"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.134338",
+    "stop_name": "Frankford Av & Richmond St ",
+    "stop_id": "23992",
+    "parent_station": "",
+    "stop_lat": "39.966008"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.134492",
+    "stop_name": "Frankford Av & Richmond St ",
+    "stop_id": "24038",
+    "parent_station": "",
+    "stop_lat": "39.966124"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.134485",
+    "stop_name": "Frankford Av & Delaware Av",
+    "stop_id": "24039",
+    "parent_station": "",
+    "stop_lat": "39.964812"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.167339",
+    "stop_name": "Girard Av & 19th St",
+    "stop_id": "30290",
+    "parent_station": "",
+    "stop_lat": "39.972507"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.196472",
+    "stop_name": "Girard Av & 34th St - MBFS",
+    "stop_id": "30291",
+    "parent_station": "",
+    "stop_lat": "39.975126"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.196733",
+    "stop_name": "Girard Av & 34th St - MBNS",
+    "stop_id": "30292",
+    "parent_station": "",
+    "stop_lat": "39.974841"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.216277",
+    "stop_name": "Girard Av & Merion Av",
+    "stop_id": "30550",
+    "parent_station": "",
+    "stop_lat": "39.972814"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.216431",
+    "stop_name": "Girard Av & Merion Av",
+    "stop_id": "30605",
+    "parent_station": "",
+    "stop_lat": "39.972725"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.175844",
+    "stop_name": "Girard Av & 24th St",
+    "stop_id": "30791",
+    "parent_station": "",
+    "stop_lat": "39.972453"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.102882",
+    "stop_name": "Allegheny Av & Thompson St",
+    "stop_id": "30799",
+    "parent_station": "",
+    "stop_lat": "39.984708"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.134342",
+    "stop_name": "Frankford Av & Delaware Av - FS",
+    "stop_id": "31289",
+    "parent_station": "",
+    "stop_lat": "39.965205"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.134178",
+    "stop_name": "Delaware Av & Frankford Av Loop",
+    "stop_id": "31347",
+    "parent_station": "",
+    "stop_lat": "39.964936"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.243216",
+    "stop_name": "Girard Av & 62nd St",
+    "stop_id": "31443",
+    "parent_station": "",
+    "stop_lat": "39.970063"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.134493",
+    "stop_name": "Frankford Av & Girard Av - FS",
+    "stop_id": "31540",
+    "parent_station": "",
+    "stop_lat": "39.96865"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.113671",
+    "stop_name": "Belgrade St & Somerset St - detour",
+    "stop_id": "31795",
+    "parent_station": "",
+    "stop_lat": "39.981487"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "0",
+    "location_type": "",
+    "stop_lon": "-75.11959",
+    "stop_name": "Thompson St & Cumberland St - detour",
+    "stop_id": "31796",
+    "parent_station": "",
+    "stop_lat": "39.975986"
   }
 ]

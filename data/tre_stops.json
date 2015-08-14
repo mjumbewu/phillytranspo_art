@@ -1,137 +1,137 @@
 [
   {
-    "stop_lon": "-75.1816667",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "30th Street Station",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1816667",
     "stop_lat": "39.9566667",
-    "stop_id": "90004",
-    "zone_id": "C"
+    "stop_id": "90004"
   },
   {
-    "stop_lon": "-75.1677778",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "Suburban Station",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1677778",
     "stop_lat": "39.9538889",
-    "stop_id": "90005",
-    "zone_id": "C"
+    "stop_id": "90005"
   },
   {
-    "stop_lon": "-75.1580556",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "Jefferson Station",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1580556",
     "stop_lat": "39.9525",
-    "stop_id": "90006",
-    "zone_id": "C"
+    "stop_id": "90006"
   },
   {
-    "stop_lon": "-75.1494444",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "Temple University",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1494444",
     "stop_lat": "39.9813889",
-    "stop_id": "90007",
-    "zone_id": "C"
+    "stop_id": "90007"
   },
   {
-    "stop_lon": "-74.755",
     "stop_desc": "Trenton Line",
+    "zone_id": "NJ",
     "stop_name": "Trenton",
     "wheelchair_boarding": "1",
+    "stop_lon": "-74.755",
     "stop_lat": "40.2177778",
-    "stop_id": "90701",
-    "zone_id": "NJ"
+    "stop_id": "90701"
   },
   {
-    "stop_lon": "-74.8169444",
     "stop_desc": "Trenton Line",
+    "zone_id": "4",
     "stop_name": "Levittown Tullytown",
     "wheelchair_boarding": "0",
+    "stop_lon": "-74.8169444",
     "stop_lat": "40.1402778",
-    "stop_id": "90702",
-    "zone_id": "4"
+    "stop_id": "90702"
   },
   {
-    "stop_lon": "-74.8547222",
     "stop_desc": "Trenton Line",
+    "zone_id": "4",
     "stop_name": "Bristol",
     "wheelchair_boarding": "0",
+    "stop_lon": "-74.8547222",
     "stop_lat": "40.1047222",
-    "stop_id": "90703",
-    "zone_id": "4"
+    "stop_id": "90703"
   },
   {
-    "stop_lon": "-74.9066667",
     "stop_desc": "Trenton Line",
+    "zone_id": "3",
     "stop_name": "Croydon",
     "wheelchair_boarding": "1",
+    "stop_lon": "-74.9066667",
     "stop_lat": "40.0936111",
-    "stop_id": "90704",
-    "zone_id": "3"
+    "stop_id": "90704"
   },
   {
-    "stop_lon": "-74.9336111",
     "stop_desc": "Trenton Line",
+    "zone_id": "3",
     "stop_name": "Eddington",
     "wheelchair_boarding": "0",
+    "stop_lon": "-74.9336111",
     "stop_lat": "40.0830556",
-    "stop_id": "90705",
-    "zone_id": "3"
+    "stop_id": "90705"
   },
   {
-    "stop_lon": "-74.9522222",
     "stop_desc": "Trenton Line",
+    "zone_id": "3",
     "stop_name": "Cornwells Heights",
     "wheelchair_boarding": "1",
+    "stop_lon": "-74.9522222",
     "stop_lat": "40.0716667",
-    "stop_id": "90706",
-    "zone_id": "3"
+    "stop_id": "90706"
   },
   {
-    "stop_lon": "-74.9844444",
     "stop_desc": "Trenton Line",
+    "zone_id": "3",
     "stop_name": "Torresdale",
     "wheelchair_boarding": "0",
+    "stop_lon": "-74.9844444",
     "stop_lat": "40.0544444",
-    "stop_id": "90707",
-    "zone_id": "3"
+    "stop_id": "90707"
   },
   {
-    "stop_lon": "-75.0236111",
     "stop_desc": "Trenton Line",
+    "zone_id": "2",
     "stop_name": "Holmesburg Jct",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.0236111",
     "stop_lat": "40.0327778",
-    "stop_id": "90708",
-    "zone_id": "2"
+    "stop_id": "90708"
   },
   {
-    "stop_lon": "-75.0388889",
     "stop_desc": "Trenton Line",
+    "zone_id": "2",
     "stop_name": "Tacony",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.0388889",
     "stop_lat": "40.0233333",
-    "stop_id": "90709",
-    "zone_id": "2"
+    "stop_id": "90709"
   },
   {
-    "stop_lon": "-75.0697222",
     "stop_desc": "Trenton Line",
+    "zone_id": "2",
     "stop_name": "Bridesburg",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.0697222",
     "stop_lat": "40.0105556",
-    "stop_id": "90710",
-    "zone_id": "2"
+    "stop_id": "90710"
   },
   {
-    "stop_lon": "-75.155",
     "stop_desc": "Trenton Line",
+    "zone_id": "1",
     "stop_name": "North Philadelphia Amtrak",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.155",
     "stop_lat": "39.9972222",
-    "stop_id": "90711",
-    "zone_id": "1"
+    "stop_id": "90711"
   }
 ]

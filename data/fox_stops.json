@@ -1,101 +1,101 @@
 [
   {
-    "stop_lon": "-75.1816667",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "30th Street Station",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1816667",
     "stop_lat": "39.9566667",
-    "stop_id": "90004",
-    "zone_id": "C"
+    "stop_id": "90004"
   },
   {
-    "stop_lon": "-75.1677778",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "Suburban Station",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1677778",
     "stop_lat": "39.9538889",
-    "stop_id": "90005",
-    "zone_id": "C"
+    "stop_id": "90005"
   },
   {
-    "stop_lon": "-75.1580556",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "Jefferson Station",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1580556",
     "stop_lat": "39.9525",
-    "stop_id": "90006",
-    "zone_id": "C"
+    "stop_id": "90006"
   },
   {
-    "stop_lon": "-75.1494444",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "Temple University",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1494444",
     "stop_lat": "39.9813889",
-    "stop_id": "90007",
-    "zone_id": "C"
+    "stop_id": "90007"
   },
   {
-    "stop_lon": "-75.16",
     "stop_desc": "Multiple Lines",
+    "zone_id": "1",
     "stop_name": "Wayne Junction",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.16",
     "stop_lat": "40.0222222",
-    "stop_id": "90009",
-    "zone_id": "1"
+    "stop_id": "90009"
   },
   {
-    "stop_lon": "-75.1902778",
     "stop_desc": "Multiple Lines",
+    "zone_id": "C",
     "stop_name": "University City",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1902778",
     "stop_lat": "39.9480556",
-    "stop_id": "90406",
-    "zone_id": "C"
+    "stop_id": "90406"
   },
   {
-    "stop_lon": "-75.1227778",
     "stop_desc": "Fox Chase Line",
+    "zone_id": "1",
     "stop_name": "Olney",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1227778",
     "stop_lat": "40.0333333",
-    "stop_id": "90811",
-    "zone_id": "1"
+    "stop_id": "90811"
   },
   {
-    "stop_lon": "-75.1030556",
     "stop_desc": "Fox Chase Line",
+    "zone_id": "2",
     "stop_name": "Lawndale",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1030556",
     "stop_lat": "40.0513889",
-    "stop_id": "90812",
-    "zone_id": "2"
+    "stop_id": "90812"
   },
   {
-    "stop_lon": "-75.0927778",
     "stop_desc": "Fox Chase Line",
+    "zone_id": "2",
     "stop_name": "Cheltenham",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.0927778",
     "stop_lat": "40.0580556",
-    "stop_id": "90813",
-    "zone_id": "2"
+    "stop_id": "90813"
   },
   {
-    "stop_lon": "-75.0863889",
     "stop_desc": "Fox Chase Line",
+    "zone_id": "2",
     "stop_name": "Ryers",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.0863889",
     "stop_lat": "40.0641667",
-    "stop_id": "90814",
-    "zone_id": "2"
+    "stop_id": "90814"
   },
   {
-    "stop_lon": "-75.0833333",
     "stop_desc": "Fox Chase Line",
+    "zone_id": "2",
     "stop_name": "Fox Chase",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.0833333",
     "stop_lat": "40.0763889",
-    "stop_id": "90815",
-    "zone_id": "2"
+    "stop_id": "90815"
   }
 ]
