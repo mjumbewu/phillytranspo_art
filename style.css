@@ -16,6 +16,8 @@ svg {
   background-color: #333;
 }
 
+/*** Buses ***/
+
 .shooter-segment {
   stroke: #ccc;
   stroke-width: 1px;
@@ -41,6 +43,9 @@ svg {
   opacity: 0.1;
 }
 
+
+/*** Subways MFL, BSL, NHSL ***/
+
 circle.route-mfl {
   fill: silver;
   opacity: 0.15;
@@ -64,6 +69,10 @@ circle.route-105 {
   fill: silver;
   opacity: 0.1;
 }
+
+
+/*** Bikeshare ***/
+
 circle.bikeshare {
   fill: #000;
   opacity: 0.3;
