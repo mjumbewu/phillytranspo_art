@@ -1,47 +1,47 @@
 [
   {
-    "stop_lon": "-75.2316667",
     "stop_desc": "Cynwyd Line",
+    "zone_id": "2",
     "stop_name": "Cynwyd",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.2316667",
     "stop_lat": "40.0066667",
-    "stop_id": "90001",
-    "zone_id": "2"
+    "stop_id": "90001"
   },
   {
-    "stop_lon": "-75.2277778",
     "stop_desc": "Cynwyd Line",
+    "zone_id": "2",
     "stop_name": "Bala",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.2277778",
     "stop_lat": "40.0011111",
-    "stop_id": "90002",
-    "zone_id": "2"
+    "stop_id": "90002"
   },
   {
-    "stop_lon": "-75.2255556",
     "stop_desc": "Cynwyd Line",
+    "zone_id": "1",
     "stop_name": "Wynnefield Avenue",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.2255556",
     "stop_lat": "39.99",
-    "stop_id": "90003",
-    "zone_id": "1"
+    "stop_id": "90003"
   },
   {
-    "stop_lon": "-75.1816667",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "30th Street Station",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1816667",
     "stop_lat": "39.9566667",
-    "stop_id": "90004",
-    "zone_id": "C"
+    "stop_id": "90004"
   },
   {
-    "stop_lon": "-75.1677778",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "Suburban Station",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1677778",
     "stop_lat": "39.9538889",
-    "stop_id": "90005",
-    "zone_id": "C"
+    "stop_id": "90005"
   }
 ]

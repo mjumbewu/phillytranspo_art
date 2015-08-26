@@ -1,236 +1,236 @@
 [
   {
-    "stop_lon": "-75.1816667",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "30th Street Station",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1816667",
     "stop_lat": "39.9566667",
-    "stop_id": "90004",
-    "zone_id": "C"
+    "stop_id": "90004"
   },
   {
-    "stop_lon": "-75.1677778",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "Suburban Station",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1677778",
     "stop_lat": "39.9538889",
-    "stop_id": "90005",
-    "zone_id": "C"
+    "stop_id": "90005"
   },
   {
-    "stop_lon": "-75.1580556",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "Jefferson Station",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1580556",
     "stop_lat": "39.9525",
-    "stop_id": "90006",
-    "zone_id": "C"
+    "stop_id": "90006"
   },
   {
-    "stop_lon": "-75.1494444",
     "stop_desc": "All Regional Rail Lines",
+    "zone_id": "C",
     "stop_name": "Temple University",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.1494444",
     "stop_lat": "39.9813889",
-    "stop_id": "90007",
-    "zone_id": "C"
+    "stop_id": "90007"
   },
   {
-    "stop_lon": "-75.7636111",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "4",
     "stop_name": "Thorndale",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.7636111",
     "stop_lat": "39.9927778",
-    "stop_id": "90501",
-    "zone_id": "4"
+    "stop_id": "90501"
   },
   {
-    "stop_lon": "-75.7102778",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "4",
     "stop_name": "Downingtown",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.7102778",
     "stop_lat": "40.0022222",
-    "stop_id": "90502",
-    "zone_id": "4"
+    "stop_id": "90502"
   },
   {
-    "stop_lon": "-75.6380556",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "4",
     "stop_name": "Whitford",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.6380556",
     "stop_lat": "40.0147222",
-    "stop_id": "90503",
-    "zone_id": "4"
+    "stop_id": "90503"
   },
   {
-    "stop_lon": "-75.6227778",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "4",
     "stop_name": "Exton",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.6227778",
     "stop_lat": "40.0191667",
-    "stop_id": "90504",
-    "zone_id": "4"
+    "stop_id": "90504"
   },
   {
-    "stop_lon": "-75.5155556",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "4",
     "stop_name": "Malvern",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.5155556",
     "stop_lat": "40.0363889",
-    "stop_id": "90505",
-    "zone_id": "4"
+    "stop_id": "90505"
   },
   {
-    "stop_lon": "-75.4827778",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "4",
     "stop_name": "Paoli",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.4827778",
     "stop_lat": "40.0430556",
-    "stop_id": "90506",
-    "zone_id": "4"
+    "stop_id": "90506"
   },
   {
-    "stop_lon": "-75.4605556",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "3",
     "stop_name": "Daylesford",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.4605556",
     "stop_lat": "40.0430556",
-    "stop_id": "90507",
-    "zone_id": "3"
+    "stop_id": "90507"
   },
   {
-    "stop_lon": "-75.4422222",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "3",
     "stop_name": "Berwyn",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.4422222",
     "stop_lat": "40.0480556",
-    "stop_id": "90508",
-    "zone_id": "3"
+    "stop_id": "90508"
   },
   {
-    "stop_lon": "-75.4227778",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "3",
     "stop_name": "Devon",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.4227778",
     "stop_lat": "40.0472222",
-    "stop_id": "90509",
-    "zone_id": "3"
+    "stop_id": "90509"
   },
   {
-    "stop_lon": "-75.4030556",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "3",
     "stop_name": "Strafford",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.4030556",
     "stop_lat": "40.0494444",
-    "stop_id": "90510",
-    "zone_id": "3"
+    "stop_id": "90510"
   },
   {
-    "stop_lon": "-75.3866667",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "3",
     "stop_name": "Wayne",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.3866667",
     "stop_lat": "40.0458333",
-    "stop_id": "90511",
-    "zone_id": "3"
+    "stop_id": "90511"
   },
   {
-    "stop_lon": "-75.3725",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "3",
     "stop_name": "St. Davids",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.3725",
     "stop_lat": "40.0438889",
-    "stop_id": "90512",
-    "zone_id": "3"
+    "stop_id": "90512"
   },
   {
-    "stop_lon": "-75.3588889",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "3",
     "stop_name": "Radnor",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.3588889",
     "stop_lat": "40.0447222",
-    "stop_id": "90513",
-    "zone_id": "3"
+    "stop_id": "90513"
   },
   {
-    "stop_lon": "-75.3416667",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "3",
     "stop_name": "Villanova",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.3416667",
     "stop_lat": "40.0383333",
-    "stop_id": "90514",
-    "zone_id": "3"
+    "stop_id": "90514"
   },
   {
-    "stop_lon": "-75.3266667",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "3",
     "stop_name": "Rosemont",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.3266667",
     "stop_lat": "40.0277778",
-    "stop_id": "90515",
-    "zone_id": "3"
+    "stop_id": "90515"
   },
   {
-    "stop_lon": "-75.3163889",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "3",
     "stop_name": "Bryn Mawr",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.3163889",
     "stop_lat": "40.0219444",
-    "stop_id": "90516",
-    "zone_id": "3"
+    "stop_id": "90516"
   },
   {
-    "stop_lon": "-75.2997222",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "2",
     "stop_name": "Haverford",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.2997222",
     "stop_lat": "40.0138889",
-    "stop_id": "90517",
-    "zone_id": "2"
+    "stop_id": "90517"
   },
   {
-    "stop_lon": "-75.2902778",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "2",
     "stop_name": "Ardmore",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.2902778",
     "stop_lat": "40.0083333",
-    "stop_id": "90518",
-    "zone_id": "2"
+    "stop_id": "90518"
   },
   {
-    "stop_lon": "-75.2725",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "2",
     "stop_name": "Wynnewood",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.2725",
     "stop_lat": "40.0027778",
-    "stop_id": "90519",
-    "zone_id": "2"
+    "stop_id": "90519"
   },
   {
-    "stop_lon": "-75.2613889",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "2",
     "stop_name": "Narberth",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.2613889",
     "stop_lat": "40.0047222",
-    "stop_id": "90520",
-    "zone_id": "2"
+    "stop_id": "90520"
   },
   {
-    "stop_lon": "-75.2513889",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "2",
     "stop_name": "Merion",
     "wheelchair_boarding": "0",
+    "stop_lon": "-75.2513889",
     "stop_lat": "39.9986111",
-    "stop_id": "90521",
-    "zone_id": "2"
+    "stop_id": "90521"
   },
   {
-    "stop_lon": "-75.2494444",
     "stop_desc": "Paoli Thorndale Line",
+    "zone_id": "2",
     "stop_name": "Overbrook",
     "wheelchair_boarding": "1",
+    "stop_lon": "-75.2494444",
     "stop_lat": "39.9894444",
-    "stop_id": "90522",
-    "zone_id": "2"
+    "stop_id": "90522"
   }
 ]

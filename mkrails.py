@@ -10,7 +10,7 @@ def do_rails_route(name):
 # used route_id for regional rail instead of route_short_name (subways)
 # regional rail route_short_name contains / which was read as file location
 
-    with open('gtfs/routes.txt') as routes_file:
+    with open('septa_gtfs/google_rail/routes.txt') as routes_file:
         route_reader = csv.DictReader(routes_file)
         for route in route_reader:
             if route['route_id'] == name:
@@ -21,7 +21,7 @@ def do_rails_route(name):
     route_id = route['route_id']
 
     trips = []
-    with open('gtfs/trips.txt') as trips_file:
+    with open('septa_gtfs/google_rail/trips.txt') as trips_file:
         trip_reader = csv.DictReader(trips_file)
         for trip in trip_reader:
             if trip['route_id'] == route_id:
@@ -34,7 +34,7 @@ def do_rails_route(name):
     interval_count = (60 * 24) // interval_duration
     snapshots = [defaultdict(int) for _ in range(interval_count)]
     stop_ids = set()
-    with open('gtfs/stop_times.txt') as stoptimes_file:
+    with open('septa_gtfs/google_rail/stop_times.txt') as stoptimes_file:
         stoptime_reader = csv.DictReader(stoptimes_file)
         for stoptime in stoptime_reader:
             if stoptime['trip_id'] in trip_ids:
@@ -53,7 +53,7 @@ def do_rails_route(name):
             snapshot.setdefault(stop_id, 0)
 
     stops = []
-    with open('gtfs/stops.txt') as stops_file:
+    with open('septa_gtfs/google_rail/stops.txt') as stops_file:
         stop_reader = csv.DictReader(stops_file)
         for stop in stop_reader:
             if stop['stop_id'] in stop_ids:

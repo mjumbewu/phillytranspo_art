@@ -1,972 +1,972 @@
 [
   {
-    "stop_lat": "39.952532", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.162559", 
-    "stop_id": "283", 
-    "parent_station": "", 
-    "stop_name": "13th St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.949595", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.203333", 
-    "stop_id": "301", 
-    "parent_station": "", 
-    "stop_name": "40th St Trolley Portal", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.91904", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.262317", 
-    "stop_id": "305", 
-    "parent_station": "31035", 
-    "stop_name": "Darby Transportation Center - trolley", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.92889", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.235461", 
-    "stop_id": "319", 
-    "parent_station": "", 
-    "stop_name": "Kingsessing Av & Cemetary Av - Mt Moriah Loop", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.935653", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.228572", 
-    "stop_id": "320", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 58th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.944041", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.216622", 
-    "stop_id": "321", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 49th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.944281", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.216527", 
-    "stop_id": "322", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 49th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.935832", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.2285", 
-    "stop_id": "323", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 58th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.929069", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.235413", 
-    "stop_id": "324", 
-    "parent_station": "", 
-    "stop_name": "Kingsessing Av & Cemetery Av - Mt Moriah Loop", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.924685", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.252447", 
-    "stop_id": "325", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Allen Dr Yeadon Loop", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.954773", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.1897", 
-    "stop_id": "20642", 
-    "parent_station": "", 
-    "stop_name": "33rd St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.954815", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.1835", 
-    "stop_id": "20643", 
-    "parent_station": "", 
-    "stop_name": "30th St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.953962", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.176736", 
-    "stop_id": "20645", 
-    "parent_station": "", 
-    "stop_name": "22nd St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.953327", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.171637", 
-    "stop_id": "20646", 
-    "parent_station": "", 
-    "stop_name": "19th St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.95488", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.189676", 
-    "stop_id": "20658", 
-    "parent_station": "", 
-    "stop_name": "33rd St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.952672", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.165345", 
-    "stop_id": "20659", 
-    "parent_station": "", 
-    "stop_name": "15th St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.953425", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.171483", 
-    "stop_id": "20660", 
-    "parent_station": "", 
-    "stop_name": "19th St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.954051", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.176571", 
-    "stop_id": "20661", 
-    "parent_station": "", 
-    "stop_name": "22nd St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.954894", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.183169", 
-    "stop_id": "20662", 
-    "parent_station": "", 
-    "stop_name": "30th St Trolley Station ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.950914", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.197247", 
-    "stop_id": "20731", 
-    "parent_station": "", 
-    "stop_name": "37th St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.953854", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.194533", 
-    "stop_id": "20732", 
-    "parent_station": "", 
-    "stop_name": "36th St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.953872", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.19471", 
-    "stop_id": "20733", 
-    "parent_station": "", 
-    "stop_name": "36th St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.951048", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.197306", 
-    "stop_id": "20734", 
-    "parent_station": "", 
-    "stop_name": "37th St Trolley Station ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.919921", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.260545", 
-    "stop_id": "20768", 
-    "parent_station": "", 
-    "stop_name": "9th St & Ridge Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.921142", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.258866", 
-    "stop_id": "20770", 
-    "parent_station": "", 
-    "stop_name": "9th St & Summit Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.92205", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.257482", 
-    "stop_id": "20771", 
-    "parent_station": "", 
-    "stop_name": "9th St & Summit Av - MBFS", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.922566", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.255994", 
-    "stop_id": "20772", 
-    "parent_station": "", 
-    "stop_name": "9th St & Cedar Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.923697", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.254279", 
-    "stop_id": "20773", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Alfred Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.924525", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.252542", 
-    "stop_id": "20774", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Allen Dr Yeadon Loop", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.925102", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.250817", 
-    "stop_id": "20775", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Stetser Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.925617", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.249175", 
-    "stop_id": "20776", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Duncan Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.92607", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.247486", 
-    "stop_id": "20777", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Yeadon Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.92631", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.246565", 
-    "stop_id": "20778", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Church Ln", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.929359", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.244762", 
-    "stop_id": "20779", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 65th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.929482", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.243452", 
-    "stop_id": "20780", 
-    "parent_station": "", 
-    "stop_name": "65th St & Cobbs Creek Pkwy ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.92905", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.24108", 
-    "stop_id": "20781", 
-    "parent_station": "", 
-    "stop_name": "65th St & Belmar Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.928628", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.238897", 
-    "stop_id": "20782", 
-    "parent_station": "", 
-    "stop_name": "65th St & Chester Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.931045", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.232386", 
-    "stop_id": "20784", 
-    "parent_station": "", 
-    "stop_name": "Kingsessing Av & 61st St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.929994", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.233888", 
-    "stop_id": "20785", 
-    "parent_station": "", 
-    "stop_name": "Kingsessing Av & 62nd St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.932479", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.230316", 
-    "stop_id": "20786", 
-    "parent_station": "", 
-    "stop_name": "Kingsessing Av & 60th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.933632", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.231399", 
-    "stop_id": "20787", 
-    "parent_station": "", 
-    "stop_name": "60th St & Chester Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.934754", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.229944", 
-    "stop_id": "20788", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 59th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.944958", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.215344", 
-    "stop_id": "20789", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 48th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.945901", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.213984", 
-    "stop_id": "20790", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 47th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.936642", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.227187", 
-    "stop_id": "20791", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 57th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.937701", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.225661", 
-    "stop_id": "20792", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 56th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.938654", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.224301", 
-    "stop_id": "20793", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 55th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.939607", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.222952", 
-    "stop_id": "20794", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 54th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.940577", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.221556", 
-    "stop_id": "20795", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 53rd St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.941539", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.220184", 
-    "stop_id": "20796", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 52nd St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.942349", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.219048", 
-    "stop_id": "20797", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 51st St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.946827", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.212682", 
-    "stop_id": "20799", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 46th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.9477", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.211428", 
-    "stop_id": "20800", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 45th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.948356", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.209135", 
-    "stop_id": "20801", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 43rd St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.948424", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.207151", 
-    "stop_id": "20802", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 42nd St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.948466", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.205757", 
-    "stop_id": "20803", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 41st St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.949533", 
-    "wheelchair_boarding": "0", 
-    "zone_id": "1", 
-    "stop_lon": "-75.203345", 
-    "stop_id": "20804", 
-    "parent_station": "", 
-    "stop_name": "40th St Trolley Portal", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.948599", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.204977", 
-    "stop_id": "20805", 
-    "parent_station": "", 
-    "stop_name": "Woodland Av & Chester Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.948549", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.206879", 
-    "stop_id": "20807", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 42nd St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.948481", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.208945", 
-    "stop_id": "20808", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 43rd St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.947878", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.211403", 
-    "stop_id": "20809", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 45th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.947006", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.212658", 
-    "stop_id": "20810", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 46th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.94608", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.213959", 
-    "stop_id": "20811", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 47th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.945154", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.215285", 
-    "stop_id": "20812", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 48th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.942519", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.219012", 
-    "stop_id": "20814", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 51st St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.941726", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.220124", 
-    "stop_id": "20815", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 52nd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.940764", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.221485", 
-    "stop_id": "20816", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 53rd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.939785", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.222893", 
-    "stop_id": "20817", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 54th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.938832", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.224253", 
-    "stop_id": "20818", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 55th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.937871", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.225625", 
-    "stop_id": "20819", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 56th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.936802", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.227163", 
-    "stop_id": "20820", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 57th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.93495", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.229849", 
-    "stop_id": "20821", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 59th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.933784", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.231469", 
-    "stop_id": "20822", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 60th St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.932595", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.230339", 
-    "stop_id": "20823", 
-    "parent_station": "", 
-    "stop_name": "60th St & Kingsessing Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.93125", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.232291", 
-    "stop_id": "20824", 
-    "parent_station": "", 
-    "stop_name": "Kingsessing Av & 61st St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.9302", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.233793", 
-    "stop_id": "20825", 
-    "parent_station": "", 
-    "stop_name": "Kingsessing Av & 62nd St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.927982", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.236963", 
-    "stop_id": "20826", 
-    "parent_station": "", 
-    "stop_name": "Kingsessing Av & 65th St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.92893", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.238223", 
-    "stop_id": "20827", 
-    "parent_station": "", 
-    "stop_name": "65th St & Chester St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.929266", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.241717", 
-    "stop_id": "20828", 
-    "parent_station": "", 
-    "stop_name": "65th St & Windsor St ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.929535", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.243133", 
-    "stop_id": "20829", 
-    "parent_station": "", 
-    "stop_name": "65th St & Cobbs Creek Pkwy ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.926577", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.246044", 
-    "stop_id": "20831", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Church Ln", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.92576", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.249045", 
-    "stop_id": "20833", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Duncan Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.925245", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.250699", 
-    "stop_id": "20834", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Stetser Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.923875", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.254161", 
-    "stop_id": "20835", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Alfred Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.923012", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.255946", 
-    "stop_id": "20836", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Cedar Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.923621", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.257349", 
-    "stop_id": "20838", 
-    "parent_station": "", 
-    "stop_name": "10th St & Mulberry Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.923096", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.258471", 
-    "stop_id": "20839", 
-    "parent_station": "", 
-    "stop_name": "10th St & Wycombe Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.922553", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.259641", 
-    "stop_id": "20840", 
-    "parent_station": "", 
-    "stop_name": "10th St & Summit St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.921306", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.261462", 
-    "stop_id": "20841", 
-    "parent_station": "", 
-    "stop_name": "10th St & Ridge Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.927902", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.23714", 
-    "stop_id": "20843", 
-    "parent_station": "", 
-    "stop_name": "65th St & Kingsessing Av ", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.948492", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.204966", 
-    "stop_id": "20925", 
-    "parent_station": "", 
-    "stop_name": "Woodland Av & Chester Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.929565", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.244703", 
-    "stop_id": "21209", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & 65th St - FS", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.957259", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.202021", 
-    "stop_id": "21248", 
-    "parent_station": "", 
-    "stop_name": "40th St & Market St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.926213", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.247368", 
-    "stop_id": "30865", 
-    "parent_station": "", 
-    "stop_name": "Chester Av & Yeadon Av", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.920121", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.263141", 
-    "stop_id": "30866", 
-    "parent_station": "", 
-    "stop_name": "10th St & Main St", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.952502", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.165369", 
-    "stop_id": "31140", 
-    "parent_station": "", 
-    "stop_name": "15th St Trolley Station", 
-    "location_type": ""
-  }, 
-  {
-    "stop_lat": "39.929104", 
-    "wheelchair_boarding": "", 
-    "zone_id": "1", 
-    "stop_lon": "-75.240879", 
-    "stop_id": "31218", 
-    "parent_station": "", 
-    "stop_name": "65th St & Belmar St", 
-    "location_type": ""
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.162559",
+    "stop_name": "13th St Trolley Station",
+    "stop_id": "283",
+    "parent_station": "",
+    "stop_lat": "39.952532"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.203333",
+    "stop_name": "40th St Trolley Portal",
+    "stop_id": "301",
+    "parent_station": "",
+    "stop_lat": "39.949595"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.262317",
+    "stop_name": "Darby Transportation Center - trolley",
+    "stop_id": "305",
+    "parent_station": "31035",
+    "stop_lat": "39.91904"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.235461",
+    "stop_name": "Kingsessing Av & Cemetary Av - Mt Moriah Loop",
+    "stop_id": "319",
+    "parent_station": "",
+    "stop_lat": "39.92889"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.228572",
+    "stop_name": "Chester Av & 58th St ",
+    "stop_id": "320",
+    "parent_station": "",
+    "stop_lat": "39.935653"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.216622",
+    "stop_name": "Chester Av & 49th St ",
+    "stop_id": "321",
+    "parent_station": "",
+    "stop_lat": "39.944041"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.216527",
+    "stop_name": "Chester Av & 49th St",
+    "stop_id": "322",
+    "parent_station": "",
+    "stop_lat": "39.944281"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.2285",
+    "stop_name": "Chester Av & 58th St",
+    "stop_id": "323",
+    "parent_station": "",
+    "stop_lat": "39.935832"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.235413",
+    "stop_name": "Kingsessing Av & Cemetery Av - Mt Moriah Loop",
+    "stop_id": "324",
+    "parent_station": "",
+    "stop_lat": "39.929069"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.252447",
+    "stop_name": "Chester Av & Allen Dr Yeadon Loop",
+    "stop_id": "325",
+    "parent_station": "",
+    "stop_lat": "39.924685"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.1897",
+    "stop_name": "33rd St Trolley Station",
+    "stop_id": "20642",
+    "parent_station": "",
+    "stop_lat": "39.954773"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.1835",
+    "stop_name": "30th St Trolley Station",
+    "stop_id": "20643",
+    "parent_station": "",
+    "stop_lat": "39.954815"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.176736",
+    "stop_name": "22nd St Trolley Station",
+    "stop_id": "20645",
+    "parent_station": "",
+    "stop_lat": "39.953962"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.171637",
+    "stop_name": "19th St Trolley Station",
+    "stop_id": "20646",
+    "parent_station": "",
+    "stop_lat": "39.953327"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.189676",
+    "stop_name": "33rd St Trolley Station",
+    "stop_id": "20658",
+    "parent_station": "",
+    "stop_lat": "39.95488"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.165345",
+    "stop_name": "15th St Trolley Station",
+    "stop_id": "20659",
+    "parent_station": "",
+    "stop_lat": "39.952672"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.171483",
+    "stop_name": "19th St Trolley Station",
+    "stop_id": "20660",
+    "parent_station": "",
+    "stop_lat": "39.953425"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.176571",
+    "stop_name": "22nd St Trolley Station",
+    "stop_id": "20661",
+    "parent_station": "",
+    "stop_lat": "39.954051"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.183169",
+    "stop_name": "30th St Trolley Station ",
+    "stop_id": "20662",
+    "parent_station": "",
+    "stop_lat": "39.954894"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.197247",
+    "stop_name": "37th St Trolley Station",
+    "stop_id": "20731",
+    "parent_station": "",
+    "stop_lat": "39.950914"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.194533",
+    "stop_name": "36th St Trolley Station",
+    "stop_id": "20732",
+    "parent_station": "",
+    "stop_lat": "39.953854"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.19471",
+    "stop_name": "36th St Trolley Station",
+    "stop_id": "20733",
+    "parent_station": "",
+    "stop_lat": "39.953872"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.197306",
+    "stop_name": "37th St Trolley Station ",
+    "stop_id": "20734",
+    "parent_station": "",
+    "stop_lat": "39.951048"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.260545",
+    "stop_name": "9th St & Ridge Av ",
+    "stop_id": "20768",
+    "parent_station": "",
+    "stop_lat": "39.919921"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.258866",
+    "stop_name": "9th St & Summit Av ",
+    "stop_id": "20770",
+    "parent_station": "",
+    "stop_lat": "39.921142"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.257482",
+    "stop_name": "9th St & Summit Av - MBFS",
+    "stop_id": "20771",
+    "parent_station": "",
+    "stop_lat": "39.92205"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.255994",
+    "stop_name": "9th St & Cedar Av ",
+    "stop_id": "20772",
+    "parent_station": "",
+    "stop_lat": "39.922566"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.254279",
+    "stop_name": "Chester Av & Alfred Av ",
+    "stop_id": "20773",
+    "parent_station": "",
+    "stop_lat": "39.923697"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.252542",
+    "stop_name": "Chester Av & Allen Dr Yeadon Loop",
+    "stop_id": "20774",
+    "parent_station": "",
+    "stop_lat": "39.924525"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.250817",
+    "stop_name": "Chester Av & Stetser Av ",
+    "stop_id": "20775",
+    "parent_station": "",
+    "stop_lat": "39.925102"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.249175",
+    "stop_name": "Chester Av & Duncan Av ",
+    "stop_id": "20776",
+    "parent_station": "",
+    "stop_lat": "39.925617"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.247486",
+    "stop_name": "Chester Av & Yeadon Av ",
+    "stop_id": "20777",
+    "parent_station": "",
+    "stop_lat": "39.92607"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.246565",
+    "stop_name": "Chester Av & Church Ln",
+    "stop_id": "20778",
+    "parent_station": "",
+    "stop_lat": "39.92631"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.244762",
+    "stop_name": "Chester Av & 65th St",
+    "stop_id": "20779",
+    "parent_station": "",
+    "stop_lat": "39.929359"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.243452",
+    "stop_name": "65th St & Cobbs Creek Pkwy ",
+    "stop_id": "20780",
+    "parent_station": "",
+    "stop_lat": "39.929482"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.24108",
+    "stop_name": "65th St & Belmar Av ",
+    "stop_id": "20781",
+    "parent_station": "",
+    "stop_lat": "39.92905"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.238897",
+    "stop_name": "65th St & Chester Av",
+    "stop_id": "20782",
+    "parent_station": "",
+    "stop_lat": "39.928628"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.232386",
+    "stop_name": "Kingsessing Av & 61st St ",
+    "stop_id": "20784",
+    "parent_station": "",
+    "stop_lat": "39.931045"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.233888",
+    "stop_name": "Kingsessing Av & 62nd St ",
+    "stop_id": "20785",
+    "parent_station": "",
+    "stop_lat": "39.929994"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.230316",
+    "stop_name": "Kingsessing Av & 60th St ",
+    "stop_id": "20786",
+    "parent_station": "",
+    "stop_lat": "39.932479"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.231399",
+    "stop_name": "60th St & Chester Av ",
+    "stop_id": "20787",
+    "parent_station": "",
+    "stop_lat": "39.933632"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.229944",
+    "stop_name": "Chester Av & 59th St ",
+    "stop_id": "20788",
+    "parent_station": "",
+    "stop_lat": "39.934754"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.215344",
+    "stop_name": "Chester Av & 48th St ",
+    "stop_id": "20789",
+    "parent_station": "",
+    "stop_lat": "39.944958"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.213984",
+    "stop_name": "Chester Av & 47th St ",
+    "stop_id": "20790",
+    "parent_station": "",
+    "stop_lat": "39.945901"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.227187",
+    "stop_name": "Chester Av & 57th St ",
+    "stop_id": "20791",
+    "parent_station": "",
+    "stop_lat": "39.936642"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.225661",
+    "stop_name": "Chester Av & 56th St ",
+    "stop_id": "20792",
+    "parent_station": "",
+    "stop_lat": "39.937701"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.224301",
+    "stop_name": "Chester Av & 55th St ",
+    "stop_id": "20793",
+    "parent_station": "",
+    "stop_lat": "39.938654"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.222952",
+    "stop_name": "Chester Av & 54th St ",
+    "stop_id": "20794",
+    "parent_station": "",
+    "stop_lat": "39.939607"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.221556",
+    "stop_name": "Chester Av & 53rd St ",
+    "stop_id": "20795",
+    "parent_station": "",
+    "stop_lat": "39.940577"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.220184",
+    "stop_name": "Chester Av & 52nd St ",
+    "stop_id": "20796",
+    "parent_station": "",
+    "stop_lat": "39.941539"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.219048",
+    "stop_name": "Chester Av & 51st St ",
+    "stop_id": "20797",
+    "parent_station": "",
+    "stop_lat": "39.942349"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.212682",
+    "stop_name": "Chester Av & 46th St ",
+    "stop_id": "20799",
+    "parent_station": "",
+    "stop_lat": "39.946827"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.211428",
+    "stop_name": "Chester Av & 45th St ",
+    "stop_id": "20800",
+    "parent_station": "",
+    "stop_lat": "39.9477"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.209135",
+    "stop_name": "Chester Av & 43rd St ",
+    "stop_id": "20801",
+    "parent_station": "",
+    "stop_lat": "39.948356"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.207151",
+    "stop_name": "Chester Av & 42nd St ",
+    "stop_id": "20802",
+    "parent_station": "",
+    "stop_lat": "39.948424"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.205757",
+    "stop_name": "Chester Av & 41st St ",
+    "stop_id": "20803",
+    "parent_station": "",
+    "stop_lat": "39.948466"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.203345",
+    "stop_name": "40th St Trolley Portal",
+    "stop_id": "20804",
+    "parent_station": "",
+    "stop_lat": "39.949533"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.204977",
+    "stop_name": "Woodland Av & Chester Av",
+    "stop_id": "20805",
+    "parent_station": "",
+    "stop_lat": "39.948599"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.206879",
+    "stop_name": "Chester Av & 42nd St ",
+    "stop_id": "20807",
+    "parent_station": "",
+    "stop_lat": "39.948549"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.208945",
+    "stop_name": "Chester Av & 43rd St ",
+    "stop_id": "20808",
+    "parent_station": "",
+    "stop_lat": "39.948481"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.211403",
+    "stop_name": "Chester Av & 45th St",
+    "stop_id": "20809",
+    "parent_station": "",
+    "stop_lat": "39.947878"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.212658",
+    "stop_name": "Chester Av & 46th St",
+    "stop_id": "20810",
+    "parent_station": "",
+    "stop_lat": "39.947006"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.213959",
+    "stop_name": "Chester Av & 47th St",
+    "stop_id": "20811",
+    "parent_station": "",
+    "stop_lat": "39.94608"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.215285",
+    "stop_name": "Chester Av & 48th St",
+    "stop_id": "20812",
+    "parent_station": "",
+    "stop_lat": "39.945154"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.219012",
+    "stop_name": "Chester Av & 51st St",
+    "stop_id": "20814",
+    "parent_station": "",
+    "stop_lat": "39.942519"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.220124",
+    "stop_name": "Chester Av & 52nd St",
+    "stop_id": "20815",
+    "parent_station": "",
+    "stop_lat": "39.941726"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.221485",
+    "stop_name": "Chester Av & 53rd St",
+    "stop_id": "20816",
+    "parent_station": "",
+    "stop_lat": "39.940764"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.222893",
+    "stop_name": "Chester Av & 54th St",
+    "stop_id": "20817",
+    "parent_station": "",
+    "stop_lat": "39.939785"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.224253",
+    "stop_name": "Chester Av & 55th St",
+    "stop_id": "20818",
+    "parent_station": "",
+    "stop_lat": "39.938832"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.225625",
+    "stop_name": "Chester Av & 56th St",
+    "stop_id": "20819",
+    "parent_station": "",
+    "stop_lat": "39.937871"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.227163",
+    "stop_name": "Chester Av & 57th St",
+    "stop_id": "20820",
+    "parent_station": "",
+    "stop_lat": "39.936802"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.229849",
+    "stop_name": "Chester Av & 59th St ",
+    "stop_id": "20821",
+    "parent_station": "",
+    "stop_lat": "39.93495"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.231469",
+    "stop_name": "Chester Av & 60th St ",
+    "stop_id": "20822",
+    "parent_station": "",
+    "stop_lat": "39.933784"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.230339",
+    "stop_name": "60th St & Kingsessing Av",
+    "stop_id": "20823",
+    "parent_station": "",
+    "stop_lat": "39.932595"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.232291",
+    "stop_name": "Kingsessing Av & 61st St",
+    "stop_id": "20824",
+    "parent_station": "",
+    "stop_lat": "39.93125"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.233793",
+    "stop_name": "Kingsessing Av & 62nd St",
+    "stop_id": "20825",
+    "parent_station": "",
+    "stop_lat": "39.9302"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.236963",
+    "stop_name": "Kingsessing Av & 65th St",
+    "stop_id": "20826",
+    "parent_station": "",
+    "stop_lat": "39.927982"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.238223",
+    "stop_name": "65th St & Chester St",
+    "stop_id": "20827",
+    "parent_station": "",
+    "stop_lat": "39.92893"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.241717",
+    "stop_name": "65th St & Windsor St ",
+    "stop_id": "20828",
+    "parent_station": "",
+    "stop_lat": "39.929266"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.243133",
+    "stop_name": "65th St & Cobbs Creek Pkwy ",
+    "stop_id": "20829",
+    "parent_station": "",
+    "stop_lat": "39.929535"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.246044",
+    "stop_name": "Chester Av & Church Ln",
+    "stop_id": "20831",
+    "parent_station": "",
+    "stop_lat": "39.926577"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.249045",
+    "stop_name": "Chester Av & Duncan Av ",
+    "stop_id": "20833",
+    "parent_station": "",
+    "stop_lat": "39.92576"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.250699",
+    "stop_name": "Chester Av & Stetser Av ",
+    "stop_id": "20834",
+    "parent_station": "",
+    "stop_lat": "39.925245"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.254161",
+    "stop_name": "Chester Av & Alfred Av ",
+    "stop_id": "20835",
+    "parent_station": "",
+    "stop_lat": "39.923875"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.255946",
+    "stop_name": "Chester Av & Cedar Av ",
+    "stop_id": "20836",
+    "parent_station": "",
+    "stop_lat": "39.923012"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.257349",
+    "stop_name": "10th St & Mulberry Av ",
+    "stop_id": "20838",
+    "parent_station": "",
+    "stop_lat": "39.923621"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.258471",
+    "stop_name": "10th St & Wycombe Av ",
+    "stop_id": "20839",
+    "parent_station": "",
+    "stop_lat": "39.923096"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.259641",
+    "stop_name": "10th St & Summit St",
+    "stop_id": "20840",
+    "parent_station": "",
+    "stop_lat": "39.922553"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.261462",
+    "stop_name": "10th St & Ridge Av ",
+    "stop_id": "20841",
+    "parent_station": "",
+    "stop_lat": "39.921306"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.23714",
+    "stop_name": "65th St & Kingsessing Av ",
+    "stop_id": "20843",
+    "parent_station": "",
+    "stop_lat": "39.927902"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.204966",
+    "stop_name": "Woodland Av & Chester Av",
+    "stop_id": "20925",
+    "parent_station": "",
+    "stop_lat": "39.948492"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.244703",
+    "stop_name": "Chester Av & 65th St - FS",
+    "stop_id": "21209",
+    "parent_station": "",
+    "stop_lat": "39.929565"
+  },
+  {
+    "wheelchair_boarding": "",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.202021",
+    "stop_name": "40th St & Market St",
+    "stop_id": "21248",
+    "parent_station": "",
+    "stop_lat": "39.957259"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.247368",
+    "stop_name": "Chester Av & Yeadon Av",
+    "stop_id": "30865",
+    "parent_station": "",
+    "stop_lat": "39.926213"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.263141",
+    "stop_name": "10th St & Main St",
+    "stop_id": "30866",
+    "parent_station": "",
+    "stop_lat": "39.920121"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.165369",
+    "stop_name": "15th St Trolley Station",
+    "stop_id": "31140",
+    "parent_station": "",
+    "stop_lat": "39.952502"
+  },
+  {
+    "wheelchair_boarding": "0",
+    "zone_id": "1",
+    "location_type": "",
+    "stop_lon": "-75.240879",
+    "stop_name": "65th St & Belmar St",
+    "stop_id": "31218",
+    "parent_station": "",
+    "stop_lat": "39.929104"
   }
 ]

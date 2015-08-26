@@ -16,6 +16,8 @@ svg {
   background-color: #333;
 }
 
+/*** Buses ***/
+
 .shooter-segment {
   stroke: #ccc;
   stroke-width: 1px;
@@ -41,6 +43,9 @@ svg {
   opacity: 0.1;
 }
 
+
+/*** Subways MFL, BSL, NHSL ***/
+
 circle.route-mfl {
   fill: silver;
   opacity: 0.15;
@@ -59,11 +64,32 @@ circle.route-13,
 circle.route-34,
 circle.route-36,
 circle.route-15,
-circle.route-104,
-circle.route-105 {
+circle.route-101B,
+circle.route-102B {
   fill: silver;
   opacity: 0.1;
 }
+
+
+/*** Regional Rail ***/
+
+rect.route-air,
+rect.route-che,
+rect.route-chw,
+rect.route-lan,
+rect.route-med,
+rect.route-fox,
+rect.route-nor,
+rect.route-pao,
+rect.route-cyn,
+rect.route-tre {
+  fill: silver;
+  opacity: 0.15;
+}
+
+
+/*** Bikeshare ***/
+
 circle.bikeshare {
   fill: #000;
   opacity: 0.3;

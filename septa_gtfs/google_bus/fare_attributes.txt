@@ -1,0 +1,13 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+1,2.25,USD,0,0,0
+2,3.25,USD,0,1,3600
+3,4.25,USD,0,2,3600
+4,2.75,USD,0,0,0
+5,3.75,USD,0,1,3600
+6,4.75,USD,0,2,3600
+7,3.75,USD,0,0,0
+8,4.75,USD,0,1,3600
+9,5.75,USD,0,2,3600
+13,6.00,USD,0,0,0
+14,7.00,USD,0,1,3600
+15,8.00,USD,0,2,3600

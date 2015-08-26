@@ -16,7 +16,7 @@ from collections import defaultdict
 #    for that route.
 #
 shape_counts = defaultdict(lambda: defaultdict(int))
-with open('gtfs/trips.txt') as trips_file:
+with open('septa_gtfs/google_bus/trips.txt') as trips_file:
     trip_reader = csv.DictReader(trips_file)
 
     for trip in trip_reader:
@@ -48,7 +48,7 @@ indexed_shape_ids = set(common_shape_ids.values())
 #    busses (route type 3)...
 #
 routes = {}
-with open('gtfs/routes.txt') as routes_file:
+with open('septa_gtfs/google_bus/routes.txt') as routes_file:
     route_reader = csv.DictReader(routes_file)
     for route in route_reader:
         if route['route_type'] == '3':
@@ -59,7 +59,7 @@ with open('gtfs/routes.txt') as routes_file:
 #     common shapes for their respective route.
 #
 shapes = defaultdict(list)
-with open('gtfs/shapes.txt') as shapes_file:
+with open('septa_gtfs/google_bus/shapes.txt') as shapes_file:
     shape_pt_reader = csv.DictReader(shapes_file)
     for shape_pt in shape_pt_reader:
         shape_id = shape_pt['shape_id']
