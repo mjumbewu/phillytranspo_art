@@ -19,7 +19,7 @@ svg {
 /*** Buses ***/
 
 .shooter-segment {
-  stroke: #ccc;
+  stroke: yellow;
   stroke-width: 1px;
 }
 
@@ -47,15 +47,15 @@ svg {
 /*** Subways MFL, BSL, NHSL ***/
 
 circle.route-mfl {
-  fill: silver;
+  fill: blue;
   opacity: 0.15;
 }
 circle.route-bsl {
-  fill: silver;
+  fill: orange;
   opacity: 0.15;
 }
 circle.route-nhsl {
-  fill: silver;
+  fill: purple;
   opacity: 0.1;
 }
 circle.route-10,
@@ -66,7 +66,7 @@ circle.route-36,
 circle.route-15,
 circle.route-101B,
 circle.route-102B {
-  fill: silver;
+  fill: green;
   opacity: 0.1;
 }
 
@@ -83,15 +83,15 @@ rect.route-nor,
 rect.route-pao,
 rect.route-cyn,
 rect.route-tre {
-  fill: silver;
-  opacity: 0.15;
+  fill: red;
+  opacity: 0.25;
 }
 
 
 /*** Bikeshare ***/
 
 circle.bikeshare {
-  fill: #000;
+  fill: silver;
   opacity: 0.3;
 }
 
