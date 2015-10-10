@@ -267,8 +267,8 @@ function initRegionalRail(name, regionalRailGs, regionalRailIndex) {
           })
         .attr("x", 0)
         .attr("y", 0)
-        .attr("width", 5)
-        .attr("height", 5);
+        .attr("width", 3)
+        .attr("height", 3);
   });
 
   // each stop will have a thickness corresponding to the frequency of train trips.
@@ -293,12 +293,12 @@ function crawlRegional(g, json) {
 /* add transition to shift x,y to center rectangles */
       .attr('width', function(d) {
         var stopid = d['stop_id'];
-        var newcount = 5*json[stopid] || 5;
+        var newcount = 3*json[stopid] || 3;
         return newcount;
       })
       .attr('height', function(d) {
         var stopid = d['stop_id'];
-        var newcount = 5*json[stopid] || 5;
+        var newcount = 3*json[stopid] || 3;
         return newcount;
       });
 }
