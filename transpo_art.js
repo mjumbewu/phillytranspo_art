@@ -33,6 +33,7 @@ var currentTime = 0;
 
 function tick() {
   if (currentTime >= 86400) { currentTime = 0; }
+  updateClock(currentTime);
   currentTime += 15 * 60;
 
   if (bikeshareData) {
@@ -67,6 +68,30 @@ function tick() {
   }
 }
 setInterval(tick, 2000);
+
+function updateClock(currentTime) {
+  // minutes = total time divided by 60
+  var totalMinutes = currentTime / 60;
+  // 24 hour = divide by 60
+  var hour = Math.floor(totalMinutes / 60);
+  // mod total minutes to get minutes of the hour
+  var minutes = totalMinutes % 60;
+  var timeString;
+  if (hour < 10) {
+    timeString = '0' + hour;
+  }
+  else {
+    timeString = hour;
+  }
+  timeString += ':';
+  if (minutes < 10) {
+    timeString += '0' + minutes;
+  }
+  else {
+    timeString += minutes;
+  }
+  $('#clock').html(timeString);
+}
 
 
 function initializeBaseLayer() {
