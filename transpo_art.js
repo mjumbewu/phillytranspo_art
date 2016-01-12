@@ -33,6 +33,7 @@ var currentTime = 0;
 
 function tick() {
   if (currentTime >= 86400) { currentTime = 0; }
+  updateClock(currentTime);
   currentTime += 15 * 60;
 
   if (bikeshareData) {
@@ -67,6 +68,30 @@ function tick() {
   }
 }
 setInterval(tick, 2000);
+
+function updateClock(currentTime) {
+  // minutes = total time divided by 60
+  var totalMinutes = currentTime / 60;
+  // 24 hour = divide by 60
+  var hour = Math.floor(totalMinutes / 60);
+  // mod total minutes to get minutes of the hour
+  var minutes = totalMinutes % 60;
+  var timeString;
+  if (hour < 10) {
+    timeString = '0' + hour;
+  }
+  else {
+    timeString = hour;
+  }
+  timeString += ':';
+  if (minutes < 10) {
+    timeString += '0' + minutes;
+  }
+  else {
+    timeString += minutes;
+  }
+  $('#clock').html(timeString);
+}
 
 
 function initializeBaseLayer() {
@@ -267,8 +292,8 @@ function initRegionalRail(name, regionalRailGs, regionalRailIndex) {
           })
         .attr("x", 0)
         .attr("y", 0)
-        .attr("width", 5)
-        .attr("height", 5);
+        .attr("width", 3)
+        .attr("height", 3);
   });
 
   // each stop will have a thickness corresponding to the frequency of train trips.
@@ -293,12 +318,12 @@ function crawlRegional(g, json) {
 /* add transition to shift x,y to center rectangles */
       .attr('width', function(d) {
         var stopid = d['stop_id'];
-        var newcount = 5*json[stopid] || 5;
+        var newcount = 3*json[stopid] || 3;
         return newcount;
       })
       .attr('height', function(d) {
         var stopid = d['stop_id'];
-        var newcount = 5*json[stopid] || 5;
+        var newcount = 3*json[stopid] || 3;
         return newcount;
       });
 }
