@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 html,
 body {
   padding: 0;
@@ -16,10 +17,21 @@ svg {
   background-color: #333;
 }
 
+#clock {
+  display: block;
+  color: white;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  font-family: 'Slabo 27px', sans-serif;
+  font-size: 40px;
+  color: #444;
+}
+
 /*** Buses ***/
 
 .shooter-segment {
-  stroke: #ccc;
+  stroke: yellow;
   stroke-width: 1px;
 }
 
@@ -47,15 +59,15 @@ svg {
 /*** Subways MFL, BSL, NHSL ***/
 
 circle.route-mfl {
-  fill: silver;
+  fill: blue;
   opacity: 0.15;
 }
 circle.route-bsl {
-  fill: silver;
+  fill: orange;
   opacity: 0.15;
 }
 circle.route-nhsl {
-  fill: silver;
+  fill: purple;
   opacity: 0.1;
 }
 circle.route-10,
@@ -66,7 +78,7 @@ circle.route-36,
 circle.route-15,
 circle.route-101b,
 circle.route-102b {
-  fill: silver;
+  fill: green;
   opacity: 0.1;
 }
 
@@ -83,15 +95,15 @@ rect.route-nor,
 rect.route-pao,
 rect.route-cyn,
 rect.route-tre {
-  fill: silver;
-  opacity: 0.15;
+  fill: red;
+  opacity: 0.25;
 }
 
 
 /*** Bikeshare ***/
 
 circle.bikeshare {
-  fill: #000;
+  fill: silver;
   opacity: 0.3;
 }
 
@@ -128,4 +140,15 @@ circle.bikeshare {
     fill: silver;
     /*stroke: white;*/
   }
+}
+
+.layer-checks {
+  position: absolute;
+  left: 15px;
+  color: #F3F3ED;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.hidden-layer {
+  display: none;
 }
