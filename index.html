@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 
 <link rel="stylesheet" type="text/css" href="style.css">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
 
 </head>
 <body>
@@ -68,5 +69,37 @@
   loadDayOfRegionalTrips('cyn');
   loadDayOfRegionalTrips('tre');
 </script>
+
+<div class='layer-checks' style='top: 20px;'>
+  <b>Subway Trips</b><br>
+  mfl <input type="checkbox" onclick="routeToggle('mfl')" checked />
+  bsl <input type="checkbox" onclick="routeToggle('bsl')" checked />
+</div>
+<div class='layer-checks' style='top: 80px'>
+  <b>Trolley Trips</b><br>
+  nhsl <input type="checkbox" onclick="routeToggle('nhsl')" checked />
+  10 <input type="checkbox" onclick="routeToggle('10')" checked />
+  11 <input type="checkbox" onclick="routeToggle('11')" checked />
+  13 <input type="checkbox" onclick="routeToggle('13')" checked />
+  34 <input type="checkbox" onclick="routeToggle('34')" checked /><br>
+  36 <input type="checkbox" onclick="routeToggle('36')" checked />
+  15 <input type="checkbox" onclick="routeToggle('15')" checked />
+  101B <input type="checkbox" onclick="routeToggle('101B')" checked />
+  102B <input type="checkbox" onclick="routeToggle('102B')" checked />
+</div>
+<div class='layer-checks' style='top: 150px'>
+  <b>Regional Trips</b><br>
+  air <input type="checkbox" onclick="routeToggle('air')" checked />
+  che <input type="checkbox" onclick="routeToggle('che')" checked />
+  chw <input type="checkbox" onclick="routeToggle('chw')" checked />
+  lan <input type="checkbox" onclick="routeToggle('lan')" checked />
+  med <input type="checkbox" onclick="routeToggle('med')" checked />
+  <br>
+  fox <input type="checkbox" onclick="routeToggle('che')" checked />
+  nor <input type="checkbox" onclick="routeToggle('nor')" checked />
+  pao <input type="checkbox" onclick="routeToggle('pao')" checked />
+  cyn <input type="checkbox" onclick="routeToggle('cyn')" checked />
+  tre <input type="checkbox" onclick="routeToggle('tre')" checked />
+</div>
 </body>
 </html>

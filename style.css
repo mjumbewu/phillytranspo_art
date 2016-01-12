@@ -129,3 +129,14 @@ circle.bikeshare {
     /*stroke: white;*/
   }
 }
+
+.layer-checks {
+  position: absolute;
+  left: 15px;
+  color: #F3F3ED;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.hidden-layer {
+  display: none;
+}

@@ -445,3 +445,12 @@ function createSvgElem(tagname, attrs, parent) {
 
   return elem;
 }
+
+function routeToggle(routeName) {
+    selector = $('#route-' + routeName);
+    if (selector.css("display") == "none") {
+      selector.css("display", "block");
+    } else {
+      selector.css("display", "none");
+    }
+}
