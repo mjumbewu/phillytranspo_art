@@ -479,3 +479,40 @@ function routeToggle(routeName) {
       selector.css("display", "none");
     }
 }
+
+function massToggle(routeName) {
+  routeToggle(routeName);
+  var status = document.getElementById('checkbox-' + routeName).checked;
+  document.getElementById('checkbox-' + routeName).checked = !status;
+}
+
+function toggleRegional() {
+  massToggle('air');
+  massToggle('chw');
+  massToggle('lan');
+  massToggle('med');
+  massToggle('che');
+  massToggle('nor');
+  massToggle('pao');
+  massToggle('cyn');
+  massToggle('fox');
+  massToggle('tre');
+}
+
+function toggleTrolley() {
+  massToggle('nhsl');
+  massToggle('tre');
+  massToggle('10');
+  massToggle('11');
+  massToggle('13');
+  massToggle('34');
+  massToggle('36');
+  massToggle('15');
+  massToggle('101B');
+  massToggle('102B');
+}
+
+function toggleSubway() {
+  massToggle('mfl');
+  massToggle('bsl');
+}

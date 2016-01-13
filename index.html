@@ -75,35 +75,35 @@
 </script>
 
 <div class='layer-checks' style='top: 20px;'>
-  <b>Subway Trips</b> <input type="checkbox" onclick="routeToggle('mfl');routeToggle('bsl')" checked /><br>
-  mfl <input type="checkbox" onclick="routeToggle('mfl')" checked />
-  bsl <input type="checkbox" onclick="routeToggle('bsl')" checked />
+  <b>Subway Trips</b> <input type="checkbox" onclick="toggleSubway();" checked /><br>
+  mfl <input id='checkbox-mfl' type="checkbox" onclick="routeToggle('mfl')" checked />
+  bsl <input id='checkbox-bsl' type="checkbox" onclick="routeToggle('bsl')" checked />
 </div>
 <div class='layer-checks' style='top: 80px'>
-  <b>Trolley Trips</b><input type="checkbox" onclick="routeToggle('nhsl');routeToggle('10');routeToggle('11');routeToggle('13');routeToggle('34');routeToggle('36');routeToggle('15');routeToggle('101B');routeToggle('102B')" checked /><br>
-  nhsl <input type="checkbox" onclick="routeToggle('nhsl')" checked />
-  10 <input type="checkbox" onclick="routeToggle('10')" checked />
-  11 <input type="checkbox" onclick="routeToggle('11')" checked />
-  13 <input type="checkbox" onclick="routeToggle('13')" checked />
-  34 <input type="checkbox" onclick="routeToggle('34')" checked /><br>
-  36 <input type="checkbox" onclick="routeToggle('36')" checked />
-  15 <input type="checkbox" onclick="routeToggle('15')" checked />
-  101B <input type="checkbox" onclick="routeToggle('101B')" checked />
-  102B <input type="checkbox" onclick="routeToggle('102B')" checked />
+  <b>Trolley Trips</b><input type="checkbox" onclick="toggleTrolley();" checked /><br>
+  nhsl <input id='checkbox-nhsl' type="checkbox" onclick="routeToggle('nhsl')" checked />
+  10 <input id='checkbox-10' type="checkbox" onclick="routeToggle('10')" checked />
+  11 <input id='checkbox-11' type="checkbox" onclick="routeToggle('11')" checked />
+  13 <input id='checkbox-13' type="checkbox" onclick="routeToggle('13')" checked />
+  34 <input id='checkbox-34' type="checkbox" onclick="routeToggle('34')" checked /><br>
+  36 <input id='checkbox-36' type="checkbox" onclick="routeToggle('36')" checked />
+  15 <input id='checkbox-15' type="checkbox" onclick="routeToggle('15')" checked />
+  101B <input id='checkbox-101B' type="checkbox" onclick="routeToggle('101B')" checked />
+  102B <input id='checkbox-102B' type="checkbox" onclick="routeToggle('102B')" checked />
 </div>
 <div class='layer-checks' style='top: 150px'>
-  <b>Regional Trips</b><input type="checkbox" onclick="routeToggle('air');routeToggle('che');routeToggle('chw');routeToggle('lan');routeToggle('med');routeToggle('che');routeToggle('nor');routeToggle('pao');routeToggle('cyn');routeToggle('tre');" checked /><br>
-  air <input type="checkbox" onclick="routeToggle('air')" checked />
-  che <input type="checkbox" onclick="routeToggle('che')" checked />
-  chw <input type="checkbox" onclick="routeToggle('chw')" checked />
-  lan <input type="checkbox" onclick="routeToggle('lan')" checked />
-  med <input type="checkbox" onclick="routeToggle('med')" checked />
+  <b>Regional Trips</b><input type="checkbox" onclick="toggleRegional();" checked /><br>
+  air <input id='checkbox-air' type="checkbox" onclick="routeToggle('air')" checked />
+  che <input id='checkbox-che' type="checkbox" onclick="routeToggle('che')" checked />
+  chw <input id='checkbox-chw' type="checkbox" onclick="routeToggle('chw')" checked />
+  lan <input id='checkbox-lan' type="checkbox" onclick="routeToggle('lan')" checked />
+  med <input id='checkbox-med' type="checkbox" onclick="routeToggle('med')" checked />
   <br>
-  fox <input type="checkbox" onclick="routeToggle('che')" checked />
-  nor <input type="checkbox" onclick="routeToggle('nor')" checked />
-  pao <input type="checkbox" onclick="routeToggle('pao')" checked />
-  cyn <input type="checkbox" onclick="routeToggle('cyn')" checked />
-  tre <input type="checkbox" onclick="routeToggle('tre')" checked />
+  fox <input id='checkbox-fox' type="checkbox" onclick="routeToggle('fox')" checked />
+  nor <input id='checkbox-nor' type="checkbox" onclick="routeToggle('nor')" checked />
+  pao <input id='checkbox-pao' type="checkbox" onclick="routeToggle('pao')" checked />
+  cyn <input id='checkbox-cyn' type="checkbox" onclick="routeToggle('cyn')" checked />
+  tre <input id='checkbox-tre' type="checkbox" onclick="routeToggle('tre')" checked />
 </div>
 </body>
 </html>
